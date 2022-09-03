@@ -1,6 +1,6 @@
 ![](characters/galadriel/7.jpg)
 
-<53>Gil-galad, born Artanáro, was a Ñoldorin Elf and son to Orodreth. He was the last High King of the Ñoldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.
+<53>**Gil-galad**, born Artanáro, was a Ñoldorin Elf and son to Orodreth. He was the last High King of the Ñoldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.
 
 <53>Gil-galad held the highest authority among the Elves he ruled and was respected by both the Ñoldor and the Sindar, thus being considered a "High King" of Elves in Middle-earth. He formed the Last Alliance of Elves and Men alongside King Elendil, and led the Elves to war against Sauron during this time. His death marked the end of the Ñoldorin Kingdoms in Middle-earth, though some Ñoldor would still dwell in Imladris and the Grey Havens throughout the Third Age.
 
