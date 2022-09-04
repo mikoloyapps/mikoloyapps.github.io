@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](angrod/1.jpg)
 
 <53>**Angrod** was a Ñoldorin Elf, the second son of Finarfin and lord of the Ñoldor of Dorthonion. He was the father of Orodreth and subsequently grandfather of the famed Gil-galad.
 
@@ -7,9 +7,9 @@
 
 <53>Angrod was the elder brother of Galadriel and Aegnor, and the younger brother of Finrod Felagund. In FA 6 he was received in Doriath by King Thingol wanting his permission to establish realms in Beleriand outside Thingol's realm.
 
-![](characters/galadriel/2.jpg)
+![](angrod/2.jpg)
 
-#### Galadriel in Aman
+#### Angrod in Dorthonion
 
 <53>Together with Aegnor he held the northern slopes of the highlands of Dorthonion against Morgoth. They were both killed in the Dagor Bragollach. Along with his brothers and sister, they were the few princes of the West who could enter Doriath through their mother Eärwen of Alqualondë.
 
