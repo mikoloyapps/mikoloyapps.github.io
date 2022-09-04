@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](amarie/1.jpg)
 
 <53>**Amarië** was a Vanyar Elf of Valinor in Aman.
 
@@ -7,9 +7,9 @@
 
 <53>Amarië did not follow her love, Finrod, in his journey to Middle-earth. She and Finrod were betrothed, but he never married while in Middle-earth. It is noted in the Lay of Leithian that Finrod was soon allowed to return to life in Valinor and "now dwells with Amarië", so they probably were wed later - but there is no such information in The Silmarillion.
 
-![](characters/galadriel/2.jpg)
+![](amarie/2.jpg)
 
-#### Galadriel in Aman
+#### Amarië of the Vanyar
 
 # Etymology
 
