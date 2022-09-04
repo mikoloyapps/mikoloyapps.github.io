@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](galadriel/1.jpg)
 
 > *"This is Nenya, the Ring of Adamant, and I am its keeper."* 
 >> \\- Galadriel to Frodo Baggins
@@ -16,7 +16,7 @@
 
 <53>Galadriel was born in Valinor in the Years of the Trees, before the First Age. Much of Galadriel's story is confusing, and there are several distinct tales told about her collected in Unfinished Tales. According to the older account, used in The Silmarillion, Galadriel was an eager participant and leader in the rebellion of the Ñoldor and their flight from Valinor due to her desire to one day rule over lands in Middle-earth herself.
 
-![](characters/galadriel/2.jpg)
+![](galadriel/2.jpg)
 
 #### Galadriel in Aman
 
@@ -30,13 +30,17 @@
 
 <53>Galadriel became friends with Melian the Maia, who wanted to know the cause of the Exile of the Ñoldor. Galadriel only briefly narrated the story to her, leaving out the death of Finwë, the Kinslaying at Alqualondë, and the burning of the ships at Losgar. She dwelt in Nargothrond with her brother Finrod, and asked him if he would take no wife. But Finrod had taken an oath only for himself, and his beloved had been left in Valinor.
 
+![](galadriel/10.jpg)
+
+#### Galadriel in The Rings of Power
+
 <53>She had no role in the major wars of the First Age, believing that defeating Morgoth was beyond the power of the Eldar; when Morgoth was defeated by the coming of the Valar out of the West she, having played no part in the earlier Kinslaying, was offered safe return to Valinor. However, she chose not to leave Middle-earth, and was the only leader of the Ñoldor exiles to remain after the First Age.
 
 ## **Second Age**
 
 <53>Celeborn and Galadriel traveled first to Lindon, where they ruled over a group of Elves as a fiefdom under Gil-galad, the High King of the Ñoldor. Sometime later, they had a daughter, Celebrían. They moved eastward and established the realm of Eregion, or Hollin, which they ruled under Gil-galad. Eregion, to the west of the Misty Mountains near Khazad-dûm, was a prosperous kingdom during this time, and had open trade with the Dwarves. Also, during this time, they made contact with a Nandorin settlement in the valley of the Anduin, later to be known as Lothlórien. Subsequently, when Celebrimbor took over the rule of Eregion, Galadriel left by way of the mines of Khazad-dûm. After the death of King Amdír, in the War of the Last Alliance, and the departure his son Amroth, Celeborn and Galadriel became the Lord and Lady of Lothlórien.
 
-![](characters/galadriel/3.jpg)
+![](galadriel/3.jpg)
 
 #### Galadriel, Gil-galad, and Cirdan receive the Three Rings of Power.
 
@@ -48,6 +52,10 @@
 
 <53>Through Celebrían's wedding to Elrond, Galadriel was the grandmother of Elladan, Elrohir, and Arwen.  
 
+![](galadriel/9.jpg)
+
+#### Galadriel vs Sauron at Dol Guldur
+
 <53>The tales tell little of Galadriel or of Celeborn during many centuries in the Third Age, but after the formation of the White Council in TA 2463 she put forth her might in opposition of Sauron. During the invasion of the Balchoth, Galadriel provided aid to Eorl the Young and the Éothéod in the form of a white mist that protected them both from the evils of Sauron in Dol Guldur and the sight of their enemies. This allowed the Éothéod to ride unnoticed to the Battle of the Field of Celebrant. They would become the Rohirrim but regarded her and the Golden Wood with fear.
 
 <53>She played a pivotal role in the formation of the White Council, though her counsel to put Gandalf at its head was not followed.
@@ -56,7 +64,7 @@
 
 <53>Just prior to the War of the Ring, Galadriel hosted the Fellowship of the Ring after their escape from the mines of Moria.
 
-![](characters/galadriel/4.jpg)
+![](galadriel/4.jpg)
 
 #### Galadriel pours water into the Mirror
 
@@ -66,11 +74,15 @@
 
 <53>Then swiftly she returned to her original form, seemingly smaller and frailer than before, declaring, "I pass the test," refusing the Ring and accepting the fate of diminishing (as the time of the Dominion of Men had come), and returning at last to Valinor. As the Fellowship departed, she gave each member a gift and an Elven cloak, and outfitted the party with boats and supplies. Gimli, in particular, was touched by Galadriel's nobility and beauty, and asked for one strand of her golden hair as an heirloom of his house; she generously gave him three (having refused the same request from Fëanor), which he later set in an impregnable crystal.
 
-![](characters/galadriel/5.jpg)
+![](galadriel/5.jpg)
 
 #### Galadriel, her husband Celeborn, and Elrond about to leave for Valinor
 
 <53>Apart from the strands of hair given to Gimli, she gave a Mallorn seed and a small box of earth from her garden to Samwise Gamgee; a green Elfstone set in silver to Aragorn, along with a scabbard for his sword Andúril; and a belt each to Boromir, Merry, and Pippin. To Legolas she gave a long, stout bow of the Galadhrim. To Frodo, she gave a magical phial which captured the light of Eärendil's star, which Frodo and Sam would later use to great effect to pass through Shelob's lair to complete their quest. After the departure of the Fellowship, Galadriel acted to ensure the success of the quest. It was she who summoned Gwaihir to rescue Gandalf off the peak of Celebdil, and it was she who nursed him back to health, dressing him in white, symbolizing his status as the new leader of the order of wizards.
+
+![](galadriel/11.jpg)
+
+#### Artistic Drawing of Galadriel
 
 <53>Later, she sent word to Aragorn about the Paths of the Dead, and messages to the Rangers of the North, leading to the southward ride of the Grey Company. As Sauron put forth all his power during the War of the Ring, he was aware of the threat of the Elves and their ancient potency, so he sent armies to besiege many of their settlements in the North while simultaneously assailing the major cities of Men and Dwarves. Lórien itself was assaulted three times , but the armies of Dol Guldur were driven back due to the courage of the Elves and the power of Galadriel's ring.
 
@@ -80,7 +92,7 @@
 
 ---
 
-![](characters/galadriel/6.jpg)
+![](galadriel/6.jpg)
 
 #### Galadriel shows her mirror to Frodo and Sam
 
@@ -104,7 +116,7 @@
 
 <53>She was, however, no mere fey being, but a lady of great power. She bore one of the Great Rings - Nenya - the Ring of Adamant, and with the One Ring in her grasp as well, she would be a mighty match for the Dark Lord Sauron.
 
-![](characters/galadriel/8.jpg)
+![](galadriel/7.jpg)
 
 #### Galadriel aiding a wounded Gandalf in Dol Guldur, surrounded by The Nine
 
@@ -116,7 +128,7 @@
 
 <53>However, due to her incredibly enigmatic nature, even the immensely skillful Saruman and an Elf as perceptive as Elrond found it difficult to understand her powers, and they were such to bring doubt to the minds of the non-Elven inhabitants of Middle-earth. Whatever they might have been, it must still be noted that Galadriel had used them for good: protecting Lórien from any attack. She also used this formidable power to destroy the very foundations of Dol Guldur (a fortress whose power was multiplied by Sauron's magic). Galadriel also possessed the skill of ósanwe (the ability to communicate with others through thoughts), this can be seen after the destruction of the One Ring, when Galadriel communicated mentally with Elrond and Gandalf on their return journey from Minas Tirith.
 
-![](characters/galadriel/9.jpg)
+![](galadriel/8.jpg)
 
 #### Galadriel and Gandalf in Dol Guldur
 
