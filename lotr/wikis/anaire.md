@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](anaire/1.jpg)
 
 <53>**Anairë** was an Elf of Valinor and the wife of Fingolfin.
 
