@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](argon/1.jpg)
 
 <53>**Argon** was the fourth child and the youngest son of Fingolfin, the High King of the Ñoldor in Beleriand. He was one of the mighty Prince of the Ñoldor in Tirion, Valinor. Furthermore, Argon grew up in Valinor, until later, the Ñoldor went into exile for Middle-earth where he journeyed with his father Fingolfin and his siblings.
 
@@ -9,9 +9,9 @@
 
 <53>Argon was less than 1381 years old when he was killed - a young age for an Elf. His death was the first signs of the Doom of Mandos.
 
-![](characters/galadriel/2.jpg)
+![](argon/2.jpg)
 
-#### Galadriel in Aman
+#### From left to right: Fingon, Turgon, Aredhel, and Argon
 
 # Etymology
 
