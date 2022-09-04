@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](amroth/1.jpg)
 
 <53>**Amroth** was an Elven king of Lothlórien.
 
@@ -15,9 +15,9 @@
 
 <53>Amroth's beloved, an elf-maiden named Nimrodel, regretted that Elves from Beleriand were being admitted into Lothlórien due to Morgoth's aggression against that place. She believed that these foreign Elves brought wars and destroyed the peace that Lothlórien's inhabitants had once enjoyed. When a Balrog was awakened in Moria by the delvings of the Dwarves and they fled north to the Lonely Mountain, many of the Elves living on the west side of Lórien moved inward, and the Galadhrim tightened their guard. Nimrodel, living on the west side of the forest by the stream that afterward bore her name, preferring not to mix with the Galadhrim who she deemed invaders of the golden wood, instead fled to Fangorn Forest in TA 1981 (Third Age). Amroth followed her to the forest, which was much closer to Lothlórien than it later became. Upon attempting to enter the forest, Nimrodel was halted and badly frightened by the movements and murmurings of the Black Huorns who barred her entrance. She lingered on the edge of the forest, unsure of what to do. Amroth found her there a day later.
 
-![](characters/galadriel/2.jpg)
+![](amroth/2.jpg)
 
-#### Galadriel in Aman
+#### Amroth and Nimrodel
 
 <53>There, Amroth and Nimrodel spoke long and earnestly with one another, Amroth begging for her favor. Eventually, the Elf-Maiden promised that she would marry Amroth only if he brought her to a peaceful land.
 
@@ -26,6 +26,8 @@
 <53>Amroth knew that the Sindarin Elves had come to the Bay of Belfalas, a haven south of Lothlórien, long ago. Although the majority of those Elves had left Middle-earth and sailed to the Undying Lands, Amroth was aware that some of their kind still built ships and offered passage to any of the other Elves wishing to leave Middle-earth. After Amroth made the necessary arrangements, he and Nimrodel left Lothlórien.
 
 <53>However, they somehow became separated on their journey. Amroth looked for Nimrodel, but his search was unsuccessful so he continued south towards the Sundering Seas.
+
+![](amroth/0.jpg)
 
 ## Fate
 
