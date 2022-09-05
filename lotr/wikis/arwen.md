@@ -1,7 +1,7 @@
 ![](arwen/1.jpg)
 
 >*"For I am the daughter of Elrond. I shall not go with him when he departs to the Havens: for mine is the choice of Lúthien, and as she so have I chosen, both the sweet and the bitter."*
->> \\- The Return of the King
+>> \- The Return of the King
 
 <53>**Arwen** was the Half-elven daughter of Elrond and Celebrían. She was often called **Arwen Undómiel** or **"Evenstar"**.
 
@@ -51,7 +51,7 @@ In marrying Aragorn II Elessar after the War of the Ring, she became Queen of th
 <53>Arwen was described to be the most beautiful of the last generation of High Elves in Middle-earth, and was even said to bear a remarkable resemblance to her ancestress, Lúthien. J.R.R. Tolkien described Arwen as following:
 
 > *"In the middle of the table, against the woven cloths upon the wall, there was a chair under a canopy, and there sat a lady fair to look upon, and so like was she in form of womanhood to Elrond that Frodo guessed that she was one of his close kindred. Young she was and yet not so. The braids of her dark hair were touched by no frost, her white arms and clear face were flawless and smooth, and the light of stars was in her bright eyes, grey as a cloudless night; yet queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring."*
->> \\- The Fellowship of the Ring
+>> \- The Fellowship of the Ring
 
 # Lineage
 
