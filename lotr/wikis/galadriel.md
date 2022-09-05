@@ -103,12 +103,12 @@
 <53>She was known, especially in her younger days, as being quite prideful. However, by the end of the Third Age, that pride had been tempered a great deal by age.
 
 > *"[...] and she grew to be tall beyond the measure even of the women of the Noldor; she was strong of body, mind, and will [...] Even among the Eldar she was accounted beautiful, and her hair was held a marvel unmatched. It was golden like the hair of her father and of her foremother Indis, but richer and more radiant, for its gold was touched by some memory of the starlike silver of her mother; and the Eldar said that the light of the Two Trees, Laurelin and Telperion, had been snared in her tresses."*
->> \\- Unfinished Tales, *"The History of Galadriel and Celeborn"*
+>> \- Unfinished Tales, *"The History of Galadriel and Celeborn"*
 
 <53>Regarding her decision to remain in Middle-earth, a passage says:
 
 > *"After the overthrow of Morgoth at the end of the First Age a ban was set upon her return, and she had replied proudly that she had no wish to do so."*
->> \\- The Road Goes Ever On
+>> \- The Road Goes Ever On
 
 # Powers
 
