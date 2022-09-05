@@ -1,7 +1,7 @@
 ![](galadriel/1.jpg)
 
 > *"This is Nenya, the Ring of Adamant, and I am its keeper."* 
->> \\- Galadriel to Frodo Baggins
+>> \- Galadriel to Frodo Baggins
 
 <53>**Galadriel** was the "Lady" of the woods of Lothlórien, which she ruled with Celeborn her husband.
 
