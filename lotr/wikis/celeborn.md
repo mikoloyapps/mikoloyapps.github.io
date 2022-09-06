@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](celeborn/1.jpg)
 
 <53>**Celeborn** was the Lord of Lothlórien, and the husband of Galadriel, Lady of the Golden Wood. He was said to be one of the wisest Elves in Middle-earth at the end of the Third Age.
 
@@ -15,13 +15,13 @@
 
 <53>Around FA 52 (FA as in First Age), Galadriel came to Doriath. Galadriel was one of the Ñoldor who came to Middle-earth wishing to see the lands and rule a realm of her own. She came with the second host of Elves from Aman with Fingolfin and Finrod. Celeborn and Galadriel fell in love and married.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
-
 <53>It is not clear how long Celeborn and Galadriel dwelled in Beleriand. According to one story, they left Beleriand and crossed the Blue Mountains into Eriador before the Fall of Nargothrond in FA 495, but according to another story they remained in Beleriand until the end of the First Age.
 
 <53>Around FA 502, King Thingol of Doriath summoned Dwarf craftsmen to set a Silmaril in the Nauglamír, the fabled jeweled necklace of the Dwarves. The Dwarf craftsmen coveted the necklace and especially the Silmaril, and they demanded that Thingol give it to them. When Thingol refused, they killed him and took the necklace and Silmaril. The Dwarven craftsmen were pursued by Elves of Doriath, who killed the Dwarves and retrieved the necklace. However, two Dwarves escaped and returned to Nogrod in the Blue Mountains and rallied their kinsmen to seek vengeance on the Elves of Doriath. An army of Dwarves attacked Doriath and defeated the Elves. They took the necklace once more, but Beren again reclaimed it at the Battle of Sarn Athrad.
+
+![](celeborn/2.jpg)
+
+#### Celeborn meets the Fellowship of the Ring
 
 <53>Doriath was briefly re-inhabited by Beren's son Dior Eluchíl, but the Sons of Fëanor came to try to take the Silmaril in the Second Sack of Doriath. Though Dior's daughter Elwing escaped with the Silmaril, Dior was killed and Doriath was ruined and abandoned.
 
@@ -34,6 +34,10 @@
 <53>Celeborn and Galadriel probably lived for a time in Lindon, a coastal region west of the Blue Mountains. Gil-galad was the High King of the Elves who dwelled in Lindon. However, many of the Elves in Harlindon, the part of Lindon south of the Gulf of Lune, were Sindarin Elves like Celeborn, and he may have ruled a fiefdom there under Gil-galad.
 
 <53>At some time early in the Second Age, Celeborn and Galadriel are said to have moved eastward into Eriador with a number of Elves in their following. They may have lived for a while near Lake Evendim. Their daughter Celebrían was born at around this time. They began to move eastward again around the year SA 700 because Galadriel sensed a growing evil in Middle-earth that she felt duty-bound to oppose.
+
+![](celeborn/3.jpg)
+
+#### Celeborn leaves to sail to the Undying Lands, as seen in The Return of the King.
 
 <53>The realm of Eregion was founded in SA 750, and Galadriel and Celeborn are said to have dwelled there for a time along with Celebrimbor and the Elven-smiths. The Elves of Eregion had dealings with the Dwarves of Khazad-dûm nearby, but Celeborn still distrusted Dwarves and would not enter Khazad-dûm, although the Dwarves there had nothing to do with the destruction of Doriath.
 
@@ -50,6 +54,8 @@
 <53>Celeborn and Galadriel may have lived for a while in Rivendell, the home of Elrond. At some point, they may have travelled to the coastal region of Belfalas in the south to be near the sea.
 
 <53>Celeborn and Galadriel's daughter Celebrían married Elrond in TA 109. Elrond and Celebrían had three children: twin sons Elladan and Elrohir, born in TA 130, and a daughter, Arwen, born in TA 241.
+
+![](celeborn/0.jpg)
 
 <53>Around TA 1050, the Necromancer, who was actually Sauron, built the stronghold of Dol Guldur across the Anduin from Lothlórien. Celeborn and Galadriel are said to have returned to Lothlórien to investigate the Necromancer and ensure the safety of Lothlórien. But after a time, they once again departed, possibly for Rivendell. Lothlórien remained under the rule of King Amroth.
 
