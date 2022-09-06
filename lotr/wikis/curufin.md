@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](curufin/1.jpg)
 
 <53>**Curufin**, also called **Curufin the Crafty**, was a Ñoldorin prince and the fifth of the seven Sons of Fëanor and Nerdanel. Curufin was the father of Celebrimbor, master Jewel-smith of Eregion who would later forge the three Elvish Rings of Power.
 
@@ -9,15 +9,19 @@
 
 <53>Curufin was born in Valinor sometime during the Noontide of Valinor. There he married an unnamed Elf (most likely one of the Ñoldor) and had a son they named Celebrimbor, who would later follow Curufin to exile. As with all the Elves of Aman, they lived in peace and prosperity until the release of Melkor, the murder of Finwë and the theft of the Silmarils that led to the Exile of the Ñoldor.
 
+![](curufin/2.jpg)
+
+#### Curufin with his brother Celegorm in Nargothrond
+
 <53>As with the other Sons of Fëanor, Curufin was bound by an oath to recover his father's Silmarils, which had been stolen by the Dark Lord Morgoth. His oath took him and his brothers to Middle-earth during the First Age.
 
 <53>Arriving in Middle-earth, Fëanor roused Curufin and others who were most obedient to him, and set the swan-ships aflame. Later, Curufin and his brothers fought in the Dagor-nuin-Giliath but lost their father Fëanor in a subsequent ambush.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
-
 <53>Curufin and his older brother Celegorm (and possibly Celebrimbor) lived in Himlad, east of his brother Maedhros' fortress Himring and south of Aglon, a Pass between Himring and Dorthonion, leading into Doriath. Around this time, their cousin Aredhel left Gondolin in search for both sons of Fëanor. However, Curufin and Celegorm were not in their lands when she arrived, thus Aredhel left and traveled south and was lost in Nan Elmoth. Years later, Aredhel and her son Maeglin left Nan Elmoth, and Eöl pursued them, only to be brought to Curufin. Though they had no love for him and scorned him, they did not slay him and allowed him to continue on his way.
+
+![](curufin/3.jpg)
+
+#### Curufin and Celegorm flee on horseback
 
 <53>The two brothers fortified their realms with great strength and held them until the Dagor Bragollach. However, following the battle, the two brothers were defeated and had to flee with their people to Nargothrond, where Finrod welcomed them.
 
