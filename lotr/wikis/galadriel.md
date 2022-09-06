@@ -42,7 +42,7 @@
 
 ![](galadriel/3.jpg)
 
-#### Galadriel, Gil-galad, and Cirdan receive the Three Rings of Power.
+#### Galadriel, Gil-galad, and Cirdan receive the Three Rings of Power
 
 <53>In the Second Age, the Maia Annatar, "Lord of Gifts", guided Celebrimbor and the other Ñoldor of Eregion in the creation of the Rings of Power. Galadriel had immediate distrust in Annatar, which was later justified when he was revealed to be Sauron. Galadriel counseled Celebrimbor in the hiding of the rings, and when Eregion was attacked, she was entrusted with one of the Three Rings of the Elves. Her ring was Nenya, the Ring of Water.
 
