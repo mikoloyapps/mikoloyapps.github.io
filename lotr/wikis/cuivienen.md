@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](cuivienen/1.jpg)
 
 <53>**Cuiviénen** was the location where the Quendi (or Elves) awoke.
 
@@ -14,9 +14,7 @@
 
 <53>In YT 1050, the Awakening of the Elves took place. The Elves dwelt here for a long time in bliss under the starlight and were content. Here the Elves were divided into their three basic groups: the Minyar (Vanyar), Tatyar (Ñoldor), and Nelyar (Teleri), here they learned and developed the basic skills of survival, culture, and language.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
+![](cuivienen/2.jpg)
 
 <53>Unfortunately, Melkor discovered this land first before the other Valar. Many Elves feared him and they were forced to hide, and those unfortunate enough to be left behind or overwhelmed by fear and unhappiness were taken or slain. Then, years later, Oromë discovered Cuiviénen on his travels throughout Middle-earth. Oromë reported his discovery back to the Valar in Valinor and after some debate they decided that the Elves would be safer living in The Undying Lands, in the peace and protection of the Valar. Oromë returned to Cuiviénen and there spoke with the Elves regarding their removal to Valinor. The first Sundering of the Elves then took place when the Eldar, the name that was given by Oromë to the Elves using their own tongue, departed from Cuiviénen to Valinor. Some of these Elves refused to leave through fear of the unknown, turned back after reaching the huge range of the Misty Mountains, or simply decided to stay in Middle-earth through choice.
 
