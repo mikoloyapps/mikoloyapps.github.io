@@ -1,5 +1,7 @@
 ![](dainI/1.jpg)
 
+#### Dáin's Halls
+
 <53>**Dáin I** was a Dwarf and a King of Durin's Folk in the Third Age. He was the son of Náin II and had a younger brother, Borin. He had three sons: Thrór, Frór, and Grór.
 
 # History
