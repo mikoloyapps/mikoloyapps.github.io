@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](caranthir/1.jpg)
 
 <53>**Caranthir**, also known as Caranthir the Dark, was the fourth son of Fëanor and the harshest and the quickest to anger of his seven brothers.
 
@@ -9,9 +9,9 @@
 
 <53>Caranthir's realm was in Thargelion in East Beleriand, and was sometimes called Dor Caranthir (Caranthir's land); his abode was on the shores of Lake Helevorn. Because his realm bordered the great Dwarvish Kingdoms of Nogrod and Belegost in the Blue Mountains, he became very wealthy controlling much of the trade coming through the Dwarf-Road.
 
-![](characters/galadriel/2.jpg)
+![](caranthir/2.jpg)
 
-#### Galadriel in Aman
+#### Caranthir meets Haleth
 
 <53>He rescued the Edain lady Haleth and her people, the Haladin, when they were besieged by Orcs. He then saw the bravery and valour of Men, and offered the Haladin settlement in the North, but Haleth, thanking him, refused and left, eventually settling in Brethil.
 
