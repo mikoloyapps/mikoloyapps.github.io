@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](dior/1.jpg)
 
 <53>**Dior**, also known as **Dior Eluchîl**, was the son of Beren Erchamion of the House of Bëor and the princess Lúthien Tinúviel, daughter of King Thingol and Melian. He later became the second (and the last) King of Doriath as the only heir of Thingol, and thus also became the High King of the Sindar. Dior was called the Fair and was the first Half-elven in Middle-earth's history, for his father was of the race of Men, and his mother was an Elf-maiden.
 
@@ -7,9 +7,9 @@
 
 <53>Dior was born in the First Age on Tol Galen in East Beleriand. He later moved to Lanthir Lamath, where he married princess Nimloth of Doriath. Nimloth was the daughter of prince Galathil of Doriath who was the brother of Celeborn. Dior and Nimloth had three children: two sons, Eluréd and Elurín, and one daughter Elwing.
 
-![](characters/galadriel/2.jpg)
+![](dior/2.jpg)
 
-#### Galadriel in Aman
+#### Dior Eluchîl
 
 <53>After Thingol was slain by the Dwarves who coveted the Nauglamír, Dior became King of Doriath as Thingol's only heir-apparent. In Doriath, King Dior and his wife Queen Nimloth lived peacefully for three years until the Sons of Fëanor learned he inherited the Silmaril that was previously kept by his parents. After Dior rejected their claim to the Silmaril, the Sons of Fëanor declared war on Doriath.
 
