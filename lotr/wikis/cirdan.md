@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](cirdan/1.jpg)
 
 <53>**Círdan**, also known as Nowë and Círdan the Shipwright, was one of the highest and most noble of the Sindar, Lord of the Falathrim during the First Age, and Master of the Grey Havens through the Second, Third, and Fourth Age. He was one of the wisest and most foresighted of the Elves, and by the Second Age the oldest known elf in Middle-earth, to remain so throughout that age and into the Fourth Age as well. He was also gifted Narya, one of the Three Rings, by Celebrimbor until he surrendered it to Gandalf. He was one of the last Elves to leave Middle-earth, sailing West at an unknown length of time after the death of King Elessar in FO 120.
 
@@ -11,9 +11,9 @@
 
 <53>Círdan, born Nowë, was kin of both Elwë and Olwë, lords in the host of the former. Círdan was said to have been one of the most skilled Elves in building ships during the Great Journey, especially when the Elves dwelt by the Sea of Rhûn. During the push westward, seeking to go to Valinor, Nowë and his followers kept going where most of his kin fell away throughout the journey. Despite Nowë's great eagerness to see the light of Valinor (his "greatest desire"), he loyally searched for Elwë upon his disappearance. Because of this, the Teleri missed the first trip on Tol Eressëa to Valinor, on which went their kin, the Ñoldor and the Vanyar. They took for their king Olwë, and while waiting for Ulmo to return for them, Nowë headed the art of making and sailing ships, growing impatient. From this profession, he took the name "Círdan" which means "shipwright" in Sindarin. The Teleri also developed a great friendship with Ossë. At the same time, although most of the Teleri had given up, Círdan sought Elwë longer and harder than most of his kin, partly because of his love for him and his allegiance.
 
-![](characters/galadriel/2.jpg)
+![](cirdan/2.jpg)
 
-#### Galadriel in Aman
+#### Galadriel, Gil-galad, and Cirdan receive the Three Rings of Power
 
 <53>Because of this, Círdan came to the shores too late during the second embarking of Eressëa. He came to the sands to find them departed, and as he stood forlorn he saw far-off a glimmer of light upon Eressëa as it vanished into the West over Belegaer. Then he cried aloud: "I will follow that light, alone if none will come with me, for the ship that I have been building is now almost ready."
 
@@ -30,6 +30,10 @@
 ## Early First Age
 
 <53>When the tales began spreading (sown by Morgoth) of the Kinslaying of Alqualondë, Círdan, being very wise even at that time, was greatly troubled, feeling that these rumours sprouted from great malice. Knowing the jealousy and dissension among the Ñoldor, he guessed that the malice was that of the kinslayers. Therefore he dutifully sent messages to his overlord Thingol, telling him all that he had heard. This resulted in the banishment of Quenya and greater strife between the Sindar and the Ñoldor.
+
+![](cirdan/3.jpg)
+
+#### Young Círdan
 
 <53>Círdan may have assisted in the Dagor Aglareb, but this is unknown. He did not take part in the Dagor Bragollach, as he was far away and not directly attacked, if even he had time to come to the aid of his allies. Nevertheless, Círdan made up for his lack of participation in the second assault on Hithlum, coming to the timely aid of Fingon when he was most needed. They sailed up the Firth of Drengist, then struck the unsuspecting orcs from the west, giving victory to the Elves.
 
