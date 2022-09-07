@@ -11,7 +11,7 @@
 
 #### Earwen and Finarfin at Alqualonde
 
-<53>Like Anairë, Eärwen did not follow her husband into exile during the Revolt of the Ñoldor.[4] Later, Finarfin repented because of the Kinslaying at Alqualondë and returned to Tirion.
+<53>Like Anairë, Eärwen did not follow her husband into exile during the Revolt of the Ñoldor. Later, Finarfin repented because of the Kinslaying at Alqualondë and returned to Tirion.
 
 # Etymology
 
