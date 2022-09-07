@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](egalmoth/1.jpg)
+
+#### Egalmoth (fourth from the farthest left) amongst the other Lords of Gondolin
 
 <53>**Egalmoth** was an Ñoldorin Elf-lord of Gondolin in the First Age.
 
@@ -7,9 +9,9 @@
 
 <53>Egalmoth, along with Glorfindel and Ecthelion, was Aredhel's escort when she left Gondolin in search of the Sons of Fëanor. The escort was not admitted into Doriath and traveled to Ered Gorgoroth instead. Egalmoth and his companions were separated from Aredhel and when they could not find her, they returned to Gondolin empty-handed.
 
-![](characters/galadriel/2.jpg)
+![](egalmoth/2.jpg)
 
-#### Galadriel in Aman
+#### Egalmoth and Ecthelion
 
 ## **Fall of Gondolin**
 
