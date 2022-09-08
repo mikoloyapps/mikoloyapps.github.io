@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](elwing/1.jpg)
 
 <53>**Elwing** also known as **Elwing the White**, was the daughter of Dior the Fair and his wife Nimloth. She was the younger sister of the twin brothers Eluréd and Elurín. She became the wife of Eärendil the Mariner, and was the mother of Elrond and Elros.
 
@@ -7,13 +7,13 @@
 
 <53>Elwing, as well as her brothers, were born in a house near Lanthir Lamath and lived there until her father went to Doriath to assume his inheritance as King of Doriath.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
-
 <53>When the Sons of Fëanor attacked Doriath, all of her immediate family was either killed or lost, but those loyal to her family took Elwing as well as the Silmaril they sought and bore her away to the Havens of Sirion.
 
 <53>It was at the Havens that Elwing met Eärendil and later married him. She bore him twin sons, Elrond and Elros. Elros became the first King of Númenor and was the ancestor of Aragorn II Elessar. Elrond later went on to marry Lady Celebrían, daughter of Lord Celeborn and Lady Galadriel of Lothlórien. From this marriage they produced three children, Elladan and Elrohir, twin brothers, and Arwen Undómiel, future Queen of Gondor. Elwing was forced to abandon her children when the Sons of Fëanor came for the Silmaril in Elwing's possession. Rather than give it over, she threw herself into the Sea and was transformed into a great white bird by the Vala Ulmo.
+
+![](elwing/2.jpg)
+
+#### Elwing and Eärendil
 
 <53>She flew continuously until she found her husband's sailing ship, the Vingilot. Then, on behalf of the Elves and Men of Middle-earth, they chose to sail for Valinor in the faint hope that they could make a final plea on behalf of those who suffered under Morgoth.
 
