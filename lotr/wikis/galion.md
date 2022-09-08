@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](galion/1.jpg)
+
+#### Galion as seen in The Hobbit film
 
 <53>**Galion** was a Nandorin Wood-elf of the Woodland Realm in northern Mirkwood.
 
