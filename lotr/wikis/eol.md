@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](eol/1.jpg)
+
+#### Aredhel and Eöl
 
 <53>**Eöl**, always called the Dark Elf, was an Elf of Beleriand and a metallurgist of high skill. He was a Sinda who lived in Nan Elmoth, nominally part of Doriath. A great smith and friend of the Dwarves of Nogrod and Belegost, Eöl devised galvorn, a black metal of great strength and malleability, which he fashioned into armour that he wore when going abroad. He forged two great black swords from a meteorite's metal, but had to give the sword Anglachel to Thingol as tribute for living in Nan Elmoth. The other sword, Anguirel, he kept for himself.
 
@@ -11,9 +13,9 @@
 
 <53>Eöl forged a suit of armor out of galvorn to which he wore and kept. He lived in Nan Elmoth, a forest in Beleriand to which he appointed himself Lord and built a home there. He forged poisoned javelins and stayed isolated in his land for many years until the arrival of Aredhel.
 
-![](characters/galadriel/2.jpg)
+![](eol/2.jpg)
 
-#### Galadriel in Aman
+#### Eöl welcomes Aredhel
 
 ## **Aredhel and marriage**
 
