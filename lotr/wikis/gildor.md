@@ -1,7 +1,7 @@
-![](characters/galadriel/7.jpg)
+![](gildor/1.jpg)
 
 > *"Courage is found in unlikely places."* 
->> \\- Gildor to Frodo
+>> \- Gildor to Frodo
 
 <53>**Gildor Inglorion** was a Ñoldor Elf met by Frodo Baggins on the edge of the Shire, at the beginning of Frodo's venture out of his home.
 
@@ -10,17 +10,21 @@
 
 <53>On September 24, 3018, Gildor and a company of Elves were passing through the Shire, singing as they walked, and inadvertently caused a Nazgûl who was seeking Frodo to flee. Gildor recognized Frodo, though they had never met, for he knew Bilbo. He invited Frodo, along with Sam Gamgee and Pippin Took, to spend the night in the Elves' company. To the three Hobbits, Gildor and the Elves appeared to shimmer as they walked through the night. The starlight glimmered in their hair and eyes. They camped in a clearing in the Woody End near Woodhall and the Elves provided the Hobbits with bread and fruit and a fragrant drink.
 
-![](characters/galadriel/2.jpg)
+![](gildor/2.jpg)
 
-#### Galadriel in Aman
+#### Gildor and the hobbits
 
 <53>Frodo stayed up late talking to Gildor about the many dangers that the Hobbits might soon face. Frodo had greeted Gildor by saying, "Elen síla lúmenn' omentielvo" (A star shines upon the hour of our meeting) impressed with his knowledge of the ancient tongue and lore he commended Frodo and named him Elf-friend. Gildor perceived that the Enemy was seeking for Frodo, though he did not know why. He was reluctant to give Frodo any advice in Gandalf's absence.
 
 > **Gildor**: *"That Gandalf should be late, does not bode well. But it is said: "Do not meddle in the affairs of Wizards, for they are subtle and quick to anger." The choice is yours: to go or wait."*
 > **Frodo**: *"And it is also said, 'Go not to the Elves for counsel, for they will say both no and yes.'"*
->> \\- The Fellowship of the Ring
+>> \- The Fellowship of the Ring
 
 <53>Gildor then advised Frodo to leave quickly, to take with him friends he could trust, and to flee from the Nazgûl. He also promised to send out word to Elves and others to be on the lookout for Frodo and help him on his journey. Gildor was true to his word, for both Tom Bombadil and Aragorn heard of Frodo's peril from Gildor. Word also reached Rivendell, and Glorfindel rode out to find Aragorn and the Hobbits as they were pursued by the Nazgûl from Weathertop.
+
+![](gildor/3.jpg)
+
+#### Gildor and the hobbits
 
 <53>Gildor and the Elves continued on their way. Gildor had told Frodo they were tarrying in Middle-earth before heading to the Grey Havens to pass over the Sea to the Undying Lands. Where they wandered is not known, but on September 22, 3021, Gildor and Frodo met once again in the same spot in Woody End where they had met three years earlier. Along with Elrond, Galadriel and Gandalf, they journeyed to the Grey Havens. Gildor may have been among those that departed over the Sea into the West.
 
