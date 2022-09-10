@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](luthien/1.jpg)
+
+#### Beren and Lúthien
 
 <53>**Lúthien**, also known as **Tinúviel**, was an Elf-maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Ilúvatar to ever live. Her love of the mortal Adan Beren, for whom she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril from his crown and the approval of their marriage by King Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Vala Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived, and it was said her bloodline will never perish.
 
@@ -6,6 +8,10 @@
 ---
 
 ## **Early years**
+
+![](luthien/2.jpg)
+
+#### Beren fell in love when he saw Lúthien dance
 
 > *And thus in anguish Beren paid*
 > *for that great doom upon him laid,*
@@ -15,21 +21,25 @@
 > *the deathless in his dying shared;*
 > *and Fate them forged a binding chain*
 > *of living love and mortal pain.*
->> \\- The Lays of Beleriand, "The Doom of Lúthien"
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
+>> \- The Lays of Beleriand, "The Doom of Lúthien"
 
 <53>Lúthien was the daughter of Elu Thingol, King of Doriath, and his Queen, Melian the Maia. Throughout the years before she met Beren, she lived as all the Elves of Doriath did: in a state of perfect blissful peace. She was a woman of incomparable beauty and grace, with night-dark hair, sparkling grey eyes, luminous skin, and a clear heartbreakingly lovely voice that was said to cause winter to melt into spring - "the song of Lúthien released the bonds of winter, and the frozen waters spoke, and flowers sprang from the cold earth where her feet had passed". She also often enjoyed dancing in the woods of the realm to the music of her good friend Daeron's flute. He himself soon came to love her jealously, but she did not return it.
 
 ## **The Quest for the Silmaril**
+
+![](luthien/3.jpg)
+
+#### Beren lies dying in Lúthien's arms
 
 <53>Lúthien was remembered in the Lay of Leithian as the first Elven woman to have fallen in love and married a mortal man, Beren, a Man of the House of Bëor whom she met in the woods of Doriath. Their relationship was unlikely from the beginning: Lúthien was not only the cherished single daughter of the most powerful Elven King in Beleriand, but also the daughter of a Maia, a powerful angelic being of the race of the Ainur. Beren was a mortal man on the run from the first Dark Lord Morgoth.
 
 <53>Thingol was desperate not to let Beren marry his daughter, and set an impossible task as the bride price: Beren had to bring to Thingol one of the Silmarils from Morgoth's Iron Crown. Against monstrous odds, including being kidnapped by the Sons of Fëanor and the death of Finrod Felagund, as well as a confrontation with Sauron, the couple achieved the task with help from Huan, the Hound of Valinor, but Beren died as soon as it was completed. In grief, Lúthien lay down and died, passing to the Halls of Mandos. There, in her grief, she sang to Mandos. Her song was of such beauty that Mandos, for the first and only time in his existence, was moved to pity. But Mandos had no authority to allow Beren to live again, so he went before Manwë for advice, who in turn sought out the counsel of Eru Ilúvatar himself. Two choices were then placed before Lúthien; she could either dwell in Valmar with the Valar in bliss forever as reward for all that she had accomplished, or she could be restored to life again with Beren, on the condition that they would both be mortal and die the death of Men. For her love of Beren, Lúthien chose the latter.
 
 ## **Later years**
+
+![](luthien/4.jpg)
+
+#### Lúthien sings before Mandos
 
 <53>After this, she became a mortal and returned to with Beren, and lived briefly in Tol Galen. They had a son, Dior, who was called Elúchil, the Heir of Thingol.
 
