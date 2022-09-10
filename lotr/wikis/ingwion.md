@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](ingwion/1.jpg)
 
 <53>**Ingwion** was a Vanyarin Elf and the son of Ingwë, High King of the Elves.
 
