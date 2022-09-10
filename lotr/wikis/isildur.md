@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](isildur/1.jpg)
+
+#### Sauron vs Isildur
 
 <53>**Isildur** was the oldest son of Elendil and brother to Anárion. He and Anárion founded and jointly ruled Gondor in the south, while their father dwelt in Arnor in the north.
 
@@ -11,6 +13,10 @@
 
 <53>Isildur was born in Númenor in the year SA 3209 of the Second Age. His younger brother Anárion was born in SA 3219. They lived at the haven of Rómenna on the east coast of the island of Númenor. Their father was Elendil and their grandfather was Amandil, the Lord of Andúnië. The Lords of Andúnië were descended from the Kings of Númenor through Silmariën, the daughter and eldest child of the fourth King of Númenor, Tar-Elendil.
 
+![](isildur/2.jpg)
+
+#### Isildur takes hold of the One Ring in The Lord of the Rings
+
 <53>Elros, the Half-elven and the first King of Númenor, had chosen the life of Men, while his brother Elrond chose the life of Elves. Over time, the Kings of Númenor grew to resent their ancestor's choice and desired eternal life for themselves. They became estranged from the Elves and from the Valar and they neglected the worship of Eru, the one who had created them.
 
 <53>A small group of Númenóreans remained friendly with the Elves and faithful to Eru and the Valar. They were called the Faithful. Among these men were the Lords of Andúnië.
@@ -19,19 +25,23 @@
 
 <53>Isildur learned that Sauron wanted Ar-Pharazôn to cut down Nimloth, the White Tree that had come from the Undying Lands. Isildur disguised himself and went secretly to the King's Court and took a fruit from Nimloth. The guards discovered and attacked him and, although receiving grave injuries, he managed to escape with the fruit. For this deed, Isildur received much praise. He stood near death for many months, but when the fruit of the White Tree began to sprout, he awoke and was recovered from his injuries.
 
+![](isildur/3.jpg)
+
+#### Isildur putting on the Ring to escape
+
 <53>As Sauron's influence increased, the Faithful began to prepare to leave Númenor. They filled nine ships with their families and many of their prized possessions, including the palantíri. Isildur had three ships of his own, and he brought aboard the seedling of the White Tree, the Stone of Erech, as well as his wife and his son Elendur, who had been born in SA 3299.
 
 <53>Isildur's grandfather Amandil hoped to plead with the Valar to spare the Faithful. He sailed westward toward the Undying Lands, but what became of him is not known and he was never seen again.
 
 <53>As Ar-Pharazôn felt the approach of old age, Sauron's lies finally convinced him he could achieve life in the Undying Lands. In SA 3319, Ar-Pharazôn set out with a great fleet intending to take the Undying Lands by force, but when he set foot on the shore, Eru Ilúvatar caused the Seas to open up and Valinor was hidden. The fleet sank and Númenor was destroyed by a great wave.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
-
 ## **Life in Middle-earth**
 
 <53>The nine ships of the Faithful were spared, and a great wind from the west sent them to the shores of Middle-earth. Elendil landed in the north with four ships, while Isildur and Anárion came to the Mouths of the Anduin in the south with three and two ships respectively. Elendil and his sons established the North-kingdom of Arnor and the South-kingdom of Gondor in SA 3320. Elendil was the High King of both realms, but he ruled from Arnor and committed the rule of Gondor to his sons.
+
+![](isildur/4.jpg)
+
+#### Harry Sinclair as Isildur in Peter Jackson's The Fellowship of the Ring
 
 <53>Isildur lived in Minas Ithil to the east of the Anduin, while Anárion made his home in Minas Anor to the west of the Anduin. They ruled from their joint capital of Osgiliath, built on both banks of the river. Isildur built Minas Ithil in a valley of the Mountains of Shadow on the border of Mordor, planting the White Tree of Gondor before his house there. Minas Ithil was a beautiful city, but it was also a stronghold to defend against the evil that might still dwell in Mordor. It was not known at first that Sauron had survived the Downfall and had begun to rebuild his strength.
 
@@ -42,6 +52,10 @@
 <53>Sauron attacked and captured Minas Ithil in SA 3429. Isildur escaped with his wife and sons and a seedling of the White Tree. Isildur and his family boarded a ship at the Mouths of the Anduin and sailed around the coast of Middle-earth, seeking Elendil in Arnor. Elendil consulted with Gil-galad, the last High King of the Ñoldor in Middle-earth who lived in Lindon west of Arnor. Gil-galad and Elendil formed the Last Alliance of Elves and Men to oppose Sauron in SA 3430. That same year, Isildur's youngest son Valandil was born at the home of Elrond in Rivendell.
 
 ## **The Last Alliance**
+
+![](isildur/5.jpg)
+
+#### Maxim Baldry as Isildur in The Rings of Power
 
 <53>The army of the Last Alliance gathered at Rivendell in SA 3431 and then marched to war. Isildur and his three oldest sons Elendur, Aratan, and Ciryon went with the army, while Isildur's wife and their young son Valandil remained in Rivendell.
 
