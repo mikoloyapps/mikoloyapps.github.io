@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](houseOfFinwe/1.jpg)
+
+#### Descendants of Finwë
 
 <53> The **House of Finwë** was the founding royal house of the Ñoldor in Arda.
 
