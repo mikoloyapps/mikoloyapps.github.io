@@ -1,7 +1,7 @@
-![](characters/galadriel/7.jpg)
+![](khamul/1.jpg)
 
 > *"Shire... Baggins..."*
->> \\- Khamûl, to Farmer Maggot
+>> \- Khamûl, to Farmer Maggot
 
 <53>**Khamûl** was one of the nine Ringwraiths second to the Witch-king, in Middle-earth. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgûl for a short period.
 
@@ -10,13 +10,13 @@
 
 ## **Second Age**
 
+![](khamul/2.jpg)
+
+#### Khamûl the Easterling
+
 <53>Khamûl was once a mortal man, an Easterling who ruled in Rhûn. He received one of the nine Rings of Power from the Dark Lord Sauron and in time he was corrupted and became one of his servants.
 
 <53>He first appeared as one of the Nazgûl in SA 2251.
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
 
 ## **Third Age**
 
@@ -25,6 +25,10 @@
 ## War of the Ring
 
 <53>Khamûl was the wraith who pursued the hobbits to Bucklebury Ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton.
+
+![](khamul/3.jpg)
+
+#### Khamûl, as seen in The Hobbit films
 
 <53>Khamûl also appeared in the Battle of the Pelennor Fields with the other Nazgûl, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king's demise, he and the other seven lesser Nazgûl retreated to Mordor.
 
