@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](houseOfFinrod/1.jpg)
+
+#### Gildor Inglorion, a well-known surviving member of the House of Finrod
 
 <53>The **House of Finrod** no longer has a place that it can call home, and is mostly made up of wanderers. During September of TA 3018 remnants of the House of Finrod found Frodo and Sam and helped them for the night. Gildor, who was among them, said he would help them and sent word to Tom Bombadil, Aragorn and Glorfindel. The members that talked to Frodo and Sam said they were waiting to go to the Undying Lands, so it is likely that they departed over the sea into the west.
 
