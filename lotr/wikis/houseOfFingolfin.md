@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](houseOfFingolfin/1.jpg)
+
+#### The Children of Fingolfin
 
 <53> The **House of Fingolfin** was a royal House of the Ñoldor.
 
