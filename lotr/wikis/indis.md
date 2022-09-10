@@ -1,6 +1,8 @@
-![](characters/galadriel/7.jpg)
+![](indis/1.jpg)
 
-<53>**Indis** a Vanyarin Elf-maiden of Valinor and second wife of Finwë, King of the Ñoldor.
+#### Finwë and Indis
+
+<53>**Indis** a Vanyar Elf-maiden of Valinor and second wife of Finwë, King of the Ñoldor.
 
 <53>She was the niece of Ingwë, King of the Vanyar and High King of the Elves, for her mother was his sister. Indis was known for her great beauty and was thus referred to as **Indis the Fair**.
 
@@ -8,10 +10,6 @@
 ---
 
 <53>In YT 1185, Indis married Finwë, High King of the Ñoldor, and was his second wife after the death of Míriel Serindë. She bore two sons, Fingolfin and Finarfin, and two daughters, Findis and Irimë. Through Finwë's first marriage, she was the stepmother to Fëanor, his first and only son to Míriel.
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
 
 <53>Unfortunately, Fëanor harbored very little love for her or her sons which probably contributed to his mistrust of Fingolfin when Melkor began spreading his poisonous lies amongst the Ñoldor.
 
