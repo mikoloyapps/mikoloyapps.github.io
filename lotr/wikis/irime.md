@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](irime/1.jpg)
 
 <53>**Írimë** was a Ñoldorin Elf, the younger daughter of Finwë, High King of the Ñoldor, and Indis; sister of Fingolfin, Finarfin, Findis, and half-sister of Fëanor.
 
@@ -6,10 +6,6 @@
 ---
 
 <53>Írimë was born during the Noontide of Valinor, probably in Tirion. She was the third child of Finwë and Indis and their second daughter. Little is known about her except that she joined the Rebellion of the Ñoldor and went to Middle-earth with Fingolfin and his host.
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
 
 <53>Írimë's fate is unknown; she may have been slain in one of the Battles of Beleriand. She could not have returned to Valinor before the end of the First Age, since none of the Ñoldor could return there due to the Doom of Mandos.
 
