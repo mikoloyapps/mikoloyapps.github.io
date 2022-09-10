@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](idril/1.jpg)
+
+#### Turgon and Idril
 
 <53>**Idril**, also called Celebrindal, was a Ñoldorin Elf of Gondolin. She was the daughter of Turgon and Elenwë, wife of the Man Tuor, and mother of Eärendil the Mariner, a Half-elven.
 
@@ -7,13 +9,17 @@
 
 <53>Idril Celebrindal was the only child of Turgon, whose wife Elenwë perished during the crossing of the Helcaraxë. Together with Angrod's son Orodreth, she was one of the two Ñoldor in the third generation to come into exile. Idril was loved in secret by her cousin Maeglin, the son of Eöl the Dark Elf and Aredhel, Turgon's sister, but she scorned his advances because of his dark character, as well as the fact that they were too closely related.
 
+![](idril/2.jpg)
+
+#### Idril and her son Eärendil
+
 <53>When Tuor, son of Huor, arrived in Gondolin, Idril fell in love with him. Because Turgon had grown to love Tuor as a son (as he had his father before), he allowed Idril and Tuor to wed, thus bringing about the second union of Men and Elves, after Beren and Lúthien. Their son Eärendil was born shortly afterwards.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
-
 <53>Being far-sighted she sensed danger and she encouraged Tuor to prepare a secret passage under the city so that if the city was attacked survivors could safely escape. After the Fall of Gondolin, Idril and Tuor became leaders of the exiles at the Mouths of Sirion in West Beleriand in the region of Arvernien, where they also received Elwing, daughter of Dior.
+
+![](idril/3.jpg)
+
+#### Idril Celebrindal
 
 <53>When Tuor grew old, he and Idril departed in his ship for the West. It is believed by the Elves and the Dúnedain that Idril and Tuor safely arrived in Valinor, bypassing the Ban of the Valar. Moreover, it was thought that Tuor was reckoned in the kindred of the Elves, and that both Idril and her husband thereafter dwelt in Valinor.
 
