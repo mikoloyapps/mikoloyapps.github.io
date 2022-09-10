@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](houseOfFinarfin/1.jpg)
+
+#### The Children of Finarfin
 
 <53> The **House of Finarfin** was a noble house of Ñoldorin Elves.
 
