@@ -1,10 +1,16 @@
-![](characters/galadriel/7.jpg)
+![](noldor/1.jpg)
+
+#### The Oath of Fëanor
 
 <53>The **Ñoldor** (Quenya: "Deep Ones", meaning "those with knowledge"), singular Ňoldo, also known as the Deep-elves, were the second clan of those Elves who joined the Great March and came to the West.
 
 <53>According to legend, they was originally the Tatyar, meaning "Second Ones", begun by Tata, the second Elf to awake at Cuiviénen, his spouse Tatië, and their 54 companions — but the first Ñoldo to come to Valinor with Oromë was Finwë, who became their king and led most to the Undying Lands. However, fully half the Tatyar refused the call of the Valar, and thus became counted among the Avari. The Ñoldor who came to Aman spoke Quenya, or, more specifically, its Ñoldorin dialect.
 
 <53>They were also called Deep-elves, Sword-elves, Aulendur ("Servants of Aulë"), Noldoli or Gnomes, Golodhrim in Sindarin, and Golug in the Black Speech. The singular form of Ñoldor is Ñoldo and the adjective Ñoldorin. They were the Second Clan of the Elves in both order and size, the other clans being the Vanyar and the Teleri. They typically had dark hair, except for those of Vanyarin blood, most prominently the golden haired members of the House of Finarfin.
+
+![](noldor/2.jpg)
+
+#### Finwë, first High King of the Ñoldor
 
 <53>The Ñoldor were considered the greatest of the Elves in lore and craft. Fëanor was the greatest of their artisans, and their second and briefest-reigning King. When Melkor killed Finwë and stole the Silmarils, Fëanor renamed Melkor Morgoth ("Black Enemy"), and persuaded the Ñoldor to pursue Melkor to Middle-earth and wage the War of the Jewels against him.
 
@@ -15,9 +21,9 @@
 
 <53>In Valinor, the Ñoldorin Elves were first ruled by High King Finwë. They became friends and students of the Vala Aulë, due to their love of craft and the knowledge he imparted to them. They built the city of Tirion and dwelled there with the Vanyar until they departed. Then Finwë's wife Míriel gave birth to her only son, Fëanor, and was spent in mind and spirit. Miriel's spirit passed to the Halls of Mandos, depriving Finwë of joy in Valinor. But Fëanor proved to be a mighty Elf lord; subtle in speech, and the most skilled craftsmen of the Ñoldor. When he was come to his prime, Fëanor wrought the Silmarils, the great jewels that contained the light of the Two Trees. But he was prideful and arrogant, and did not take kindly to his father's second marriage to Indis of the Vanyar. From her Finwë fathered two more children who would found their own houses; Fingolfin and Finarfin. This was the first cause of disunion in the House of Finwë, as Fëanor had little love for his half-siblings.
 
-![](characters/galadriel/2.jpg)
+![](noldor/3.jpg)
 
-#### Galadriel in Aman
+#### Galadriel, a notable Ñoldo
 
 <53>When Melkor was released from captivity, he sought to exploit that disunion in a bid to gain the Silmarils and estrange the Ñoldor from the Valar. He spread lies amongst the Ñoldor, claiming that the Valar were keeping them in Aman so they would not be able to rule the lands of Middle-earth, and that Fingolfin and Fëanor were plotting against each other. When Fëanor drew sword against Fingolfin, the Valar intervened and banished Fëanor from Valmar and Tirion to the mountain fortress of Formenos. Embittered by his son's exile, Finwë went with him, leaving the rule of the Ñoldor to Fingolfin. The Ñoldor grew restless as they began to hunger for the unguarded lands of Middle-earth.
 
@@ -25,11 +31,19 @@
 
 <53>Once Melkor destroyed the Two Trees of Valinor and slew Finwë, he also stole the Silmarils and fled to Middle-earth. An enraged Fëanor then spoke before all of the Ñoldor and gave an impassioned speech. He urged them to leave the land of the Valar and take up kingdoms in Middle-earth, where they could rule as they wished. Many of the royal line, including Galadriel, wished indeed to see Middle-earth and rule their own fair kingdoms. Fëanor and his sons then swore a terrible Oath to reclaim the Silmarils, with the promise of retribution for any who should withhold them. The Ñoldorin Host gathered, though the greater part followed Fingolfin, trusting his wisdom over Fëanor's arrogance.
 
+![](noldor/4.jpg)
+
+#### Elrond, Gil-galad, and their army of Ñoldorin Elves
+
 <53>The Ñoldor led by Fëanor marched north and demanded that the Falmari let them use their ships. When the Falmari refused, Fëanor and his host attacked the port of Alqualondë, which had been built by the Teleri, committing the first Kinslaying. Fëanor's host then took possession of the ships. Not long afterwards, the Ñoldor were confronted by Mandos, the Doomsman of the Valar. Mandos delivered the Prophecy of the North, pronouncing doom on the Ñoldor for the Kinslaying and warning that if they continued they would not recover the Silmarils and moreover that there would be great grief in the tragedy that would befall them. At this, some of the Ñoldor who had no hand in the Kinslaying, including Finarfin, returned to Valinor, and the Valar forgave them. Other Ñoldor led by Fingolfin, some of whom were blameless in the Kinslaying, remained determined to leave Valinor for Middle-earth. Prominent among these others was Finarfin's daughter, Galadriel.
 
 <53>Fëanor and his host crossed the sea to Middle-earth leaving those led by Fingolfin, his half-brother, behind. Upon his arrival in Middle-earth, Fëanor had the ships burned. When Fingolfin and his host discovered their betrayal, they went farther north and crossed the sea by means of the Helcaraxë. Many of them died while crossing the cruel hills of ice, including Turgon's wife Elenwë. The departure of the Ñoldor out of the Undying Lands marked the beginning of the First Age, and the years of the Sun. At last, the Host of Fingolfin arrived in Middle-earth, and their journey through the Helcaraxë was one of the greatest deeds of renown. Few deeds of the Ñoldor would ever surpass this, but the bitterness of the crossing had kindled fresh hatred for the House of Fëanor.
 
 <53>Fëanor's company was soon attacked by Morgoth. When Fëanor rode too far from his retinue during the Dagor-nuin-Giliath (year 1 of the First Age) he was slain by Gothmog and the other Balrogs.
+
+![](noldor/5.jpg)
+
+#### Gil-galad in the War of the Last Alliance, as portrayed in film
 
 <53>Because Fëanor had taken the ships and left the remaining Ñoldor in Aman, the royal houses of the Ñoldor were feuding. But Maedhros, eldest son of Fëanor, had been captured by Morgoth. Fingon, son of Fingolfin, who remembered great friendship between himself and Maedhros, rescued him from the slopes of Thangorodrim. For this deed the Ñoldor rejoiced and their feud was ended. By right Maedhros had succeeded Fëanor as King, but in gratitude he renounced the Kingship to his uncle Fingolfin, who became the third High King of the Ñoldor. His brothers did not agree to this, and began to refer to themselves as the Displaced, because the High Kingship had passed them by. Nevertheless, the princes of the Ñoldor established great realms in Beleriand, and to many it seemed the words of Fëanor were justified. Here the Ñoldor were mighty and lordly, rather than at the bottom of the hierarchy in Valinor. And for a while there was peace between the Houses of Fingolfin and Fëanor. But the Sons of Fëanor was still bound by their Oath, which in turn was tied to the Curse of Mandos.
 
@@ -40,6 +54,10 @@
 <53>In the year 471, Maedhros organized an all-out attack on Morgoth and this led to the Nírnaeth Arnoediad. The battle was a great disaster for the Ñoldor, and Fingon was slain. He was succeeded by his brother Turgon, but Fingon's son Gil-galad escaped to the Havens of the Falas.
 
 <53>Turgon had withdrawn to Gondolin and tried to keep the kingdom hidden from Morgoth. The city was so hidden that even some Ñoldor were unaware of its location, and Turgon was High King in name alone. In FA 510, Gondolin was betrayed by Maeglin and sacked. During the attack Turgon was killed; however many of his people escaped and found their way south. As Turgon had no sons, the Kingship passed back to Fingon's son Gil-galad, becoming the sixth and last High King of the Ñoldor.
+
+![](noldor/6.jpg)
+
+#### The arrival of Fingolfin
 
 <53>Finally, the Valar came down to Middle-earth and in the year 583 the War of Wrath was fought and Morgoth was cast into the Void. However, Beleriand sank into the sea, except for a part of Ossiriand which became Lindon, and a few isles. The defeat of Morgoth marked the beginning of the Second Age. The Ñoldor were once again summoned to Valinor and the Curse of Mandos was laid to rest. Some departed because they had grown weary of grief, but many refused to leave the lands they had laboured in for so long. Moreover others refused out of pride, unwilling to relinquish their high status in Middle-earth. The last of the great leaders was Galadriel, who stayed due to her pride, reasoning that her family had never done any wrong and that she was mightier in Middle-earth.
 
@@ -65,13 +83,13 @@
 
 ---
 
-1.Finwë, first High King
-2.Fëanor, first son of Finwë
-3.Maedhros, first son of Fëanor, who laid aside his claim and abdicated in favor of Fingolfin
-4.Fingolfin, second son of Finwë
-5.Fingon, first son of Fingolfin
-6.Turgon, second son of Fingolfin
-7.Ereinion Gil-galad, son of Orodreth
+1. Finwë, first High King
+2. Fëanor, first son of Finwë
+3. Maedhros, first son of Fëanor, who laid aside his claim and abdicated in favor of Fingolfin
+4. Fingolfin, second son of Finwë
+5. Fingon, first son of Fingolfin
+6. Turgon, second son of Fingolfin
+7. Ereinion Gil-galad, son of Orodreth
 
 <53>After Gil-galad's death, the High Kingship in Middle-earth under the Ñoldor came to an end. Of the descendants of Finwë, the descendants of Elros (the Kings of Arnor) did claim the title High King but there is no indication that this referred anything other than a High Kingship over the Dúnedain. It is unclear whether Elros and his brother Elrond were considered eligible at all, but Elrond never claimed Kingship, implying that they were not. However, at this point, the number of Ñoldor remaining in Middle-earth was few, and Elrond might have simply deemed the question moot.
 
