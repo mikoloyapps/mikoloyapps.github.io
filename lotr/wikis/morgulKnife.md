@@ -1,9 +1,15 @@
-![](characters/galadriel/7.jpg)
+![](morgulKnife/1.jpg)
+
+#### Aragorn observes the Morgul-blade that the Witch-king used to stab Frodo
 
 <53>The **Morgul-knife** was a short blade carried by the Witch-king of Angmar during the Third Age, and used to stab Frodo Baggins at the ancient watch-tower of Weathertop.
 
 # Description
 ---
+
+![](morgulKnife/2.jpg)
+
+#### Elrond, Gandalf, and Galadriel discuss the appearance of the Morgul-knife
 
 <53>It is unknown if there was more than one Morgul-knife, as only that used by the Witch-king is mentioned in the works of J.R.R. Tolkien. Elrond, however, references the blade as "a Morgul-knife", possibly implying it to be a type of weapon.
 
@@ -11,6 +17,10 @@
 
 # History
 ---
+
+![](morgulKnife/3.jpg)
+
+#### Morgul-knife
 
 <53>It is unknown when the knife was created, but was known to be in use by the Witch-king by the late Third Age.
 
