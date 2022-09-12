@@ -1,6 +1,8 @@
-![](characters/galadriel/7.jpg)
+![](oropher/1.jpg)
 
-<53>**Oropher** was the Sindar King of the Silvan Elves of Greenwood the Great during the Second Age.[1] He was the father of Thranduil, who would succeed him, and grandfather of Legolas.
+#### Oropher and Thranduil
+
+<53>**Oropher** was the Sindar King of the Silvan Elves of Greenwood the Great during the Second Age. He was the father of Thranduil, who would succeed him, and grandfather of Legolas.
 
 # History
 ---
@@ -12,6 +14,10 @@
 <53>West of Oropher's realm was the realm of Lórinand across the Anduin, where Amdír, another Sindar, ruled over Silvan Elves.
 
 ## War of Last Alliance
+
+![](oropher/2.jpg)
+
+#### Oropher with Thranduil
 
 <53>Before the War of the Last Alliance, Oropher and his folk left their capital at Amon Lanc and crossed Anduin to live with their kin in Lórinand. Three times, he moved his people northwards, eventually settling around Emyn Duir, the Mountains of Mirkwood. His retreat northwards was because of his desire to move "out of range" from the Dwarves of Khazad-dûm and avoid the threat of Mordor.
 
