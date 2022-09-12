@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](olwe/1.jpg)
 
 <53>**Olwë** was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressëa and Alqualondë, apart from the rest of the Elves of Aman. Olwë became Lord of Alqualondë and King of the Teleri.
 
@@ -9,9 +9,9 @@
 
 <53>Olwë and both his brothers ware born in Cuiviénen during the Years of the Trees to unnamed parents, and their father was the direct descendant of Enel and Enelyë. After Oromë discovered the Quendi, Elwë and Olwë became both lords of the third clan of the Elves, the later Teleri, and together they lead their people from Cuiviénen to the West. However, during a long wait in Beleriand Elwë disappeared. After years of searching, Olwë grew impatient, and led the greater part of the Teleri to Valinor, on the insistence of the Vala Ulmo.
 
-![](characters/galadriel/2.jpg)
+![](olwe/2.jpg)
 
-#### Galadriel in Aman
+#### Olwë, King of the Falmari
 
 <53>Olwë became Lord of the island of Tol Eressëa, where the Teleri built a great number of cities, and grew in number. When they finally came to Eldamar some centuries later, Olwë became Lord of Alqualondë. His daughter Eärwen married Finarfin son of Finwë and later High King of the Ñoldor in Valinor, and thus their children, when these returned to Middle-earth, could claim kinship to Thingol, for Eärwen had several sons.
 
