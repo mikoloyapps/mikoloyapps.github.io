@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](rumilOfLorien/1.jpg)
+
+#### Rúmil (right) and his brothers
 
 <53>**Rúmil** was an Elf of Lórien and brother of Orophin and Haldir, the leading Marchwarden of Lórien, during the Third Age.
 
@@ -7,9 +9,9 @@
 
 <53>Rúmil was a marchwarden of Lórien, and was one who guarded the border of the western part of the forest, with his brothers. He was present at the Fellowship of the Ring's first meeting with the Galadhrim.
 
-![](characters/galadriel/2.jpg)
+![](rumilOfLorien/2.jpg)
 
-#### Galadriel in Aman
+#### Marchwarden of Lothlórien
 
 <53>Later, he and Haldir guided the Fellowship to Caras Galadhon. Rúmil spoke very little Westron and so could not significantly interact with the Fellowship when he and his brothers encountered them in the forest.
 
