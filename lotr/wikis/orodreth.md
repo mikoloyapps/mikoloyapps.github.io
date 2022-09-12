@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](orodreth/1.jpg)
 
 <53>**Orodreth** was a Ñoldorin Elf of the First Age who was the second ruler of the underground city of Nargothrond in western Beleriand. He was born to a Noldorin father, Finarfin, and a Telerin mother, Eärwen, in the city of Tirion during the Years of the Trees and was the brother of Finrod Felagund, Angrod, Aegnor and Galadriel. Orodreth had an only child and daughter Finduilas with an unnamed wife. He was later killed in the Battle of Tumhalad.
 
@@ -9,9 +9,9 @@
 
 <53>Through his grandmother (mother) Eärwen of the Falmari (Teleri of Aman), he shared the blood of both the Ñoldor (House of Finarfin) and that of the Falmari (House of Olwë). After the Doom of Mandos was announced in Araman, he and the rest of the Ñoldor left for Middle-earth. Even as his grandfather (father) Finarfin and many of his House turned back to Valinor, Orodreth stayed with his uncle Fingolfin and his host and pursued his journey to Middle-earth.
 
-![](characters/galadriel/2.jpg)
+![](orodreth/2.jpg)
 
-#### Galadriel in Aman
+#### Orodreth
 
 <53>Orodreth once held the isle of Minas Tirith in the vale of Sirion until Sauron overran the isle and turned it into Tol-in-Gaurhoth. Orodreth then fled south to Nargothrond.
 
