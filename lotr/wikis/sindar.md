@@ -1,23 +1,27 @@
-![](characters/galadriel/7.jpg)
+![](sindar/1.jpg)
 
-<53>The **Sindar** (Q.: "Grey Ones"), singular Sinda, also known as the Grey-elves, were a sub-group of the Telerin Elves, who chose to stay in Beleriand and thus did not complete the Great Journey to Aman. These Elves were likely considered "grey" by the Ñoldorin Exiles because they were neither Elves of the Light, having never set foot in the Undying Lands, nor Avari, or the Elves of Darkness, setting out on the journey and therefore counting among the Eldar. Eventually, the Sindar were reconsidered as Úmanyar, or the Elves of the Twilight, along with their Nandorin brethren, some of whom became the Laiquendi of Ossiriand.
+<53>The **Sindar** (Q.: "Grey Ones"), singular **Sinda**, also known as the **Grey-elves**, were a sub-group of the Telerin Elves, who chose to stay in Beleriand and thus did not complete the Great Journey to Aman. These Elves were likely considered "grey" by the Ñoldorin Exiles because they were neither Elves of the Light, having never set foot in the Undying Lands, nor Avari, or the Elves of Darkness, setting out on the journey and therefore counting among the Eldar. Eventually, the Sindar were reconsidered as Úmanyar, or the Elves of the Twilight, along with their Nandorin brethren, some of whom became the Laiquendi of Ossiriand.
 
-<53>They referred to themselves simply as Edhil (S.: "Elves"), singular Edhel.
+<53>They referred to themselves simply as **Edhil** (S.: "Elves"), singular Edhel.
 
 # History
 ---
 
 <53>The Teleri were the greatest host of the Eldar. They had two kings, the brothers Elwë Singollo (or Elu Thingol as he was later known in the Sindarin tongue) and Olwë. When the Teleri reached Beleriand during the Great Journey from Cuiviénen, Thingol went wandering in the forests. In the forest of Nan Elmoth he met Melian, one of the Maiar. They fell in love, and with Melian, Thingol stood spellbound in Nan Elmoth for several years.
 
-![](characters/galadriel/2.jpg)
+![](sindar/2.jpg)
 
-#### Galadriel in Aman
+#### Thranduil, the Sindar Elf
 
 <53>Olwë and many of the Teleri could not delay longer, and went to Aman without Elwë and his following. Elwë's followers stayed in Beleriand, to search for their king. At long last, he awoke from the spell and set up a kingdom in the midst of Beleriand: Eglador (Land of the Forsaken, or Land of the Elves). The Dwarves of Nogrod and Belegost in the Blue Mountains were contracted to aid in the building of the city of Menegroth.
 
 <53>Other Teleri also stayed behind: these were the friends of Ossë the Maia, who had fallen in love with the shores of Middle-earth, and did not wish to depart. Their leader was Círdan the Shipwright, and they established cities at Eglarest and Brithombar. They were known as the Falathrim, or Elves of the Falas (Shore). They were not part of the realm of Eglador, but still took Thingol as their High King.
 
 <53>Yet other stray bands of Teleri settled in Nevrast and Hithlum to the north of Eglador, although these did not form any realms. The Teleri of Eglador, the northlands, and the Falas were also known as Sindar, in later days, because they developed a civilisation all their own, which almost equalled that of the Calaquendi.
+
+![](sindar/0.jpg)
+
+#### A Sindarin flautist of Doriath
 
 <53>A last group of Teleri in Beleriand was the Laiquendi: they were descended from the Nandor, who had split from the Great Journey before the Hithaeglir, and gone south along the Great River Anduin. A part of them, under Denethor, son of Lenwë, crossed the Blue Mountains, and eventually settled in Ossiriand, or as it was later known: Lindon. They remained a people apart for long, although many of them removed to Thingol's realm after Denethor was killed.
 
