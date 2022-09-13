@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](thrainII/1.jpg)
+
+#### Thráin II in Peter Jackson's The Hobbit: An Unexpected Journey
 
 <53>**Thráin II** was the father of Thorin II Oakenshield, and the son of King Thrór, making him a direct descendant of Durin the Deathless. After his father Thrór was beheaded by Azog in Moria, Thráin became the rightful King under the Mountain as well as the King of Durin's Folk.
 
@@ -13,9 +15,9 @@
 
 <53>Thráin fled Erebor with his father, his three children, and the surviving Dwarves of the Lonely Mountain when the dragon Smaug descended on the mountain in TA 2770, desolating the kingdom and claiming its treasure. Exiled, he and his relatives wandered farther south, and they eventually settled in the hills of Dunland. They would remain in Dunland for twenty years, reduced to poverty.
 
-![](characters/galadriel/2.jpg)
+![](thrainII/2.jpg)
 
-#### Galadriel in Aman
+#### Depiction of Thrór's Key in Peter Jackson's The Hobbit trilogy
 
 <53>Years after the destruction of Erebor, poverty took a toll on the mind of King Thrór, rendering him restless and desperate. He sought to journey away searching for a scrap of wealth, though he did not specify Moria. At their parting, he gave to his son Thráin his Ring of power and the Map and Key to the Side-door of the Lonely Mountain. He departed from his people with a single companion, his only and old friend named Nár.
 
@@ -24,6 +26,10 @@
 <53>Nár would return to their dwelling in Dunland many weeks later, but he would return alone. He told the tale to Thráin of what had become of his father Thrór, who had brashly ventured into Moria, despite the pleas of Nár not to go in, but he did not return. Days later, it was revealed that the King had been branded and murdered by Azog the Orc who claimed to now rule the ancient mansions of Durin's Folk.
 
 <53>When Thráin heard Nár's recounting of what had become of his father and that an Orc was ruling their ancestral home, he wept and tore his beard and then fell silent. For seven days, he sat and said no word. However, on the seventh day, he stood up and declared, "This cannot be borne!" These words were the beginning of the War of the Dwarves and Orcs.
+
+![](thrainII/3.jpg)
+
+#### Thráin as he appears in the extended edition of The Hobbit: The Desolation of Smaug
 
 <53>Thráin sent messengers to deliver the tale to all the corners of the world. Word was sent to all the Houses of the other Dwarven Fathers. The kings of the other Houses answered to Thráin's call to vengeance, as they all saw this heinous deed committed by Azog to be a profound dishonor to the heir of the eldest of their race, and it raised their fury. While most of the war was fought in the mines and tunnels beneath the Misty Mountains, the climactic Battle of Azanulbizar took place beneath the East-gate of Moria in the valley of Azanulbizar. Heavy losses were inflicted on both sides. Frerin, the younger brother of Thorin Oakenshield, was among those that fell. Thráin himself had been wounded in the battle and suffered a grievous eye-wound. The tide of war, at last, turned when fresh reinforcements from the Iron Hills arrived late. Realizing that his hordes were being annihilated and routed by the Dwarves, Azog turned and attempted to flee back to the gate but was slain by Dáin Ironfoot, bringing about an end to the war.
 
