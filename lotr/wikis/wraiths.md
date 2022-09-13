@@ -1,4 +1,4 @@
-![](characters/galadriel/7.jpg)
+![](wraiths/0.jpg)
 
 <53>A **wraith** is someone who has been killed yet lives on by some dark sorcery (necromancy or a Morgul-blade), or someone who died in darkness or serious dishonour (the latter are comparable to popular culture's notion of ghosts).
 
