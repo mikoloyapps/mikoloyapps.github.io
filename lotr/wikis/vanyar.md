@@ -1,15 +1,13 @@
-![](characters/galadriel/7.jpg)
+![](vanyar/0.jpg)
 
-<53>The **Vanyar** (Q.: "Fair Ones"), singular **Vanya**, also known as the Fair-elves or Light-elves, were the first and smallest of Three Kindreds of the Eldar. Under the leadership of Ingwë, the Vanyar were the first to set forth on the Great Journey and reach the shores of Belegaer; they sailed to Aman on the first voyage of Tol Eressëa and remained there permanently. Very few, if any, Vanyar remained in or returned to Middle-earth after the Great Journey.
+#### Ingwë, the King of the Vanyar and High King of the Elves
+
+<53>The **Vanyar** (Q.: "Fair Ones"), singular **Vanya**, also known as the **Fair-elves** or **Light-elves**, were the first and smallest of Three Kindreds of the Eldar. Under the leadership of Ingwë, the Vanyar were the first to set forth on the Great Journey and reach the shores of Belegaer; they sailed to Aman on the first voyage of Tol Eressëa and remained there permanently. Very few, if any, Vanyar remained in or returned to Middle-earth after the Great Journey.
 
 # History
 ---
 
 <53>Vanyar were descendants of Imin, the first Elf to awake at Cuiviénen, his wife Iminyë, and six other pairs of Elves who were awoken by them. Imin's companions, Tata and Enel, later awoke groups of nine and twelve pairs respectively, and Imin decided that since his group was the smallest and each group that he and his companions discovered was larger than the last, he then chose third rather than first in order to make up the numbers. However, only a further two groups were discovered, leaving Imin's group of fourteen by far the smallest of the three Elven clans.
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
 
 <53>When the Elves were discovered by Oromë, each clan chose an ambassador to return with him to Valinor to verify his claims of its greatness. The Minyar (Imin's companions) sent Ingwë. Upon his return, his people were swayed by his testimony and adopted him as their king, and he led them with Oromë to Aman. Ingwë was since reckoned the High King of all Elves, and became known as Ingwë Ingweron, the "Chief of Chieftains", and his people were known by the rest of the Eldar as the Vanyar. In Aman the Vanyar first dwelt in Tirion. Later, they came to love the full light of the Trees and wandered into Valinor or settled on Taniquetil. Ingwë dwelt with them on the slopes of Taniquetil, beneath the halls of Manwë.
 
