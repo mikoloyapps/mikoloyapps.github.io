@@ -1,6 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](silvanElves/1.jpg)
 
-<53>The **Silvan Elves**, or Tawarwaith in Sindarin (also called Wood-elves, Woodland Elves, or East-elves) were a subgroup of the Nandor, ultimately of Telerin descent. As Úmanyar, they, like the Sindar, began the Great Journey but did not complete it. In the Third Age, most remaining Silvan Elves lived either in Lothlórien or the Woodland Realm.
+<53>The **Silvan Elves**, or **Tawarwaith** in Sindarin (also called **Wood-elves**, **Woodland Elves**, or **East-elves**) were a subgroup of the Nandor, ultimately of Telerin descent. As Úmanyar, they, like the Sindar, began the Great Journey but did not complete it. In the Third Age, most remaining Silvan Elves lived either in Lothlórien or the Woodland Realm.
 
 <53>Their kindred across history were ruled by Ñoldor or Sindar elves.
 
@@ -8,15 +8,13 @@
 ---
 
 > *"These are not wicked folk. If they have a fault it is distrust of strangers. Though their magic was strong, even in those days they were wary. They differed from the High Elves of the West, and were more dangerous and less wise. For most of them (together with their scattered relations in the hills and mountains) were descended from the ancient tribes that never went to Faerie in the West."*
->> \\- The Hobbit
+>> \- The Hobbit
 
 ## **Origin**
 
 <53>The Silvan Elves were of Nandorin background, descended from the followers of Lenwë, who were fascinated by the landscape East of the Misty Mountains and afraid to attempt to cross them. They thus abandoned the Great Journey, choosing instead to remain in the wide forests, where they became a scattered people. The Silmarillion also implies that many Avari joined these realms.
 
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
+![](silvanElves/2.jpg)
 
 <53>Little is known of the wanderings of the Nandor, save that they spread throughout the Vales of Anduin over a period of many centuries, some following the Great River southward, eventually settling at the Mouths of Anduin or instead turning north again into Eriador, where eventually Denethor gathered as many as he could and crossed the Blue Mountains into Beleriand. These were later known as the Green-elves of Ossiriand, and were welcomed by Thingol as long lost kin.
 
