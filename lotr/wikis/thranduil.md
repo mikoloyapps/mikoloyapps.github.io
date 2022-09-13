@@ -1,4 +1,6 @@
-![](characters/galadriel/7.jpg)
+![](thranduil/1.jpg)
+
+#### Lee Pace portrays Thranduil in The Hobbit trilogy
 
 <53>**Thranduil**, son of Oropher, was an Elven king who ruled over the Woodland Realm in the Third Age. Though inherently cautious, his army was key to victory in the Battle of Five Armies and he defended his realm against the forces of Sauron in the War of the Ring. He was the father of the Elven prince of Mirkwood, Legolas, who was a member of the Fellowship of the Ring.
 
@@ -9,15 +11,19 @@
 
 ## **First and Second Ages**
 
+![](thranduil/2.jpg)
+
+#### The Elvenking
+
 <53>Thranduil was the only son of Oropher, King of the Woodland Realm. He was born during the First Age, and lived in Doriath at some point prior to the Second Kinslaying. At the beginning of the Second Age, some Sindar traveled east and Oropher eventually founded the Elven realm in Greenwood the Great.
-
-![](characters/galadriel/2.jpg)
-
-#### Galadriel in Aman
 
 <53>In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war. He claimed his inheritance and became King of the Woodland Realm, reigning over the whole of Greenwood the Great.
 
 ## **Third Age**
+
+![](thranduil/3.jpg)
+
+#### Bilbo shows the Arkenstone to the Elvenking and Bard
 
 <53>As the Third Age progressed, however, a sorcerer known as the Necromancer (later revealed to be Sauron returned) took over the abandoned Elven fortress of Amon Lanc and turned it into Dol Guldur. Under his malign influence the Greenwood grew dark, becoming known as Mirkwood, and infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings, Thranduil's title was King of the Elves of Northern Mirkwood.
 
@@ -25,16 +31,28 @@
 
 ## The Quest of Erebor
 
+![](thranduil/4.jpg)
+
+#### The Elvenking arrives at the Lonely Mountain
+
 <53>When Thorin II Oakenshield and company entered northern Mirkwood, the party encountered visions of a feast in the woods, which unknown to them was Thranduil's court. Different members of the party tried to enter the clearing where the feast was being held, but each time darkness would fall and the interrupter fell into a deep sleep. In this manner was Thorin separated from the company, and captured by Thranduil. He provided no information when interrogated, and Thranduil, in turn, sent him to the dungeon cave "not too gently, for they did not love Dwarves and thought he was an enemy". The rest of the party was captured shortly after and brought before Thranduil. When the party proved uncooperative with Thranduil's questioning, he accused them of wandering in his kingdom without leave, interrupting their feast, and stirring up trouble with spiders. They were sent to the dungeon as well, in separate cells and unaware that Thorin was captured.
+
+![](thranduil/5.jpg)
+
+#### Thranduil confronts Narzug, a captured Orc
 
 > **Thranduil**: *"What were you doing in the forest?"*
 > **Thorin**: *"Looking for food and drink, because we were starving."*
 > **Thranduil**: *"Take him away and keep him safe, until he feels inclined to tell the truth, even if he waits a hundred years."*
->> \\- The Hobbit
+>> \- The Hobbit
 
 <53>After the death of the dragon Smaug, Thranduil supported Bard the Bowman's claim of a share of the treasure the Dwarves recovered from the Lonely Mountain, since Bard was a descendant of Lord Girion of Dale, and the treasure of that town had been taken by Smaug to the Lonely Mountain.
 
 <53>Thranduil led the Elven forces in the Battle of Five Armies. His army was positioned on the southern side of the Mountain, and was the first to charge.
+
+![](thranduil/6.jpg)
+
+#### Thranduil as shown during the Siege of Dale
 
 <53>After the battle and Thorin's death, Thranduil took Orcrist, which was previously confiscated in Mirkwood, and laid it upon Thorin's tomb. The treasure was divided among Elves and Men, and Thranduil received the Emeralds of Girion. Bilbo, Gandalf and Beorn traveled with the Elf-host back to Mirkwood but would not stay in the woods, even when Thranduil asked them to.
 
