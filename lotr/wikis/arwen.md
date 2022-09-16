@@ -12,7 +12,7 @@ In marrying Aragorn II Elessar after the War of the Ring, she became Queen of th
 
 ## **Early life**
 
-    Arwen 2 was born in TA 241, to Lord Elrond and Lady Celebrían of Rivendell. Like her father and brothers, she had the right to choose between immortality or mortal life. She lived most of her life in Rivendell and Lothlórien interchangeably.
+    Arwen 3 was born in TA 241, to Lord Elrond and Lady Celebrían of Rivendell. Like her father and brothers, she had the right to choose between immortality or mortal life. She lived most of her life in Rivendell and Lothlórien interchangeably.
 
 ## **Third Age**
 
