@@ -5,7 +5,7 @@
 
 <53>**Arwen** was the Half-elven daughter of Elrond and Celebrían. She was often called **Arwen Undómiel** or **"Evenstar"**.
 
-In marrying Aragorn II Elessar after the War of the Ring, she became Queen of the Reunited Kingdom of Arnor and Gondor, and like Beren and Lúthien before her, she united Elf and Man in peace, while becoming mortal.
+<53>In marrying Aragorn II Elessar after the War of the Ring, she became Queen of the Reunited Kingdom of Arnor and Gondor, and like Beren and Lúthien before her, she united Elf and Man in peace, while becoming mortal.
 
 # History
 ---
