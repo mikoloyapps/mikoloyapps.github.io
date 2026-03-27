@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earwen/1.jpg)
+![](earwen/1.jpg)
 
 <53>**Eärwen** was the daughter of Olwë and had several unnamed brothers. She was the wife of Finarfin, and mother of Finrod, Angrod, Aegnor, and Galadriel.
 
@@ -7,7 +7,7 @@
 
 <53>Eärwen was born during the Years of the Trees either in Middle-earth or in the Elven realms of the Far West, possibly Tol Eressëa or Alqualondë. In YT 1280, she wedded Finarfin the youngest son of Finwë. Her children were Finrod, Angrod, Aegnor, and Galadriel. She was said to be a friend of Anairë, wife of Fingolfin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earwen/2.jpg)
+![](earwen/2.jpg)
 
 #### Earwen and Finarfin at Alqualonde
 

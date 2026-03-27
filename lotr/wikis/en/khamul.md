@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/khamul/1.jpg)
+![](khamul/1.jpg)
 
 > *"Shire... Baggins..."*
 >> \- Khamûl, to Farmer Maggot
@@ -10,7 +10,7 @@
 
 ## **Second Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/khamul/2.jpg)
+![](khamul/2.jpg)
 
 #### Khamûl the Easterling
 
@@ -26,7 +26,7 @@
 
 <53>Khamûl was the wraith who pursued the hobbits to Bucklebury Ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/khamul/3.jpg)
+![](khamul/3.jpg)
 
 #### Khamûl, as seen in The Hobbit films
 

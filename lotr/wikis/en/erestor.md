@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/erestor/1.jpg)
+![](erestor/1.jpg)
 
 > *"That is the path of despair. Of folly I would say, if the long wisdom of Elrond did not forbid me."*
 >> \- The Fellowship of the Ring

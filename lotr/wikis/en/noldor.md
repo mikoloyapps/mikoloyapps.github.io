@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/1.jpg)
+![](noldor/1.jpg)
 
 #### The Oath of Fëanor
 
@@ -8,7 +8,7 @@
 
 <53>They were also called Deep-elves, Sword-elves, Aulendur ("Servants of Aulë"), Noldoli or Gnomes, Golodhrim in Sindarin, and Golug in the Black Speech. The singular form of Ñoldor is Ñoldo and the adjective Ñoldorin. They were the Second Clan of the Elves in both order and size, the other clans being the Vanyar and the Teleri. They typically had dark hair, except for those of Vanyarin blood, most prominently the golden haired members of the House of Finarfin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/2.jpg)
+![](noldor/2.jpg)
 
 #### Finwë, first High King of the Ñoldor
 
@@ -21,7 +21,7 @@
 
 <53>In Valinor, the Ñoldorin Elves were first ruled by High King Finwë. They became friends and students of the Vala Aulë, due to their love of craft and the knowledge he imparted to them. They built the city of Tirion and dwelled there with the Vanyar until they departed. Then Finwë's wife Míriel gave birth to her only son, Fëanor, and was spent in mind and spirit. Miriel's spirit passed to the Halls of Mandos, depriving Finwë of joy in Valinor. But Fëanor proved to be a mighty Elf lord; subtle in speech, and the most skilled craftsmen of the Ñoldor. When he was come to his prime, Fëanor wrought the Silmarils, the great jewels that contained the light of the Two Trees. But he was prideful and arrogant, and did not take kindly to his father's second marriage to Indis of the Vanyar. From her Finwë fathered two more children who would found their own houses; Fingolfin and Finarfin. This was the first cause of disunion in the House of Finwë, as Fëanor had little love for his half-siblings.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/3.jpg)
+![](noldor/3.jpg)
 
 #### Galadriel, a notable Ñoldo
 
@@ -31,7 +31,7 @@
 
 <53>Once Melkor destroyed the Two Trees of Valinor and slew Finwë, he also stole the Silmarils and fled to Middle-earth. An enraged Fëanor then spoke before all of the Ñoldor and gave an impassioned speech. He urged them to leave the land of the Valar and take up kingdoms in Middle-earth, where they could rule as they wished. Many of the royal line, including Galadriel, wished indeed to see Middle-earth and rule their own fair kingdoms. Fëanor and his sons then swore a terrible Oath to reclaim the Silmarils, with the promise of retribution for any who should withhold them. The Ñoldorin Host gathered, though the greater part followed Fingolfin, trusting his wisdom over Fëanor's arrogance.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/4.jpg)
+![](noldor/4.jpg)
 
 #### Elrond, Gil-galad, and their army of Ñoldorin Elves
 
@@ -41,7 +41,7 @@
 
 <53>Fëanor's company was soon attacked by Morgoth. When Fëanor rode too far from his retinue during the Dagor-nuin-Giliath (year 1 of the First Age) he was slain by Gothmog and the other Balrogs.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/5.jpg)
+![](noldor/5.jpg)
 
 #### Gil-galad in the War of the Last Alliance, as portrayed in film
 
@@ -55,7 +55,7 @@
 
 <53>Turgon had withdrawn to Gondolin and tried to keep the kingdom hidden from Morgoth. The city was so hidden that even some Ñoldor were unaware of its location, and Turgon was High King in name alone. In FA 510, Gondolin was betrayed by Maeglin and sacked. During the attack Turgon was killed; however many of his people escaped and found their way south. As Turgon had no sons, the Kingship passed back to Fingon's son Gil-galad, becoming the sixth and last High King of the Ñoldor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/noldor/6.jpg)
+![](noldor/6.jpg)
 
 #### The arrival of Fingolfin
 

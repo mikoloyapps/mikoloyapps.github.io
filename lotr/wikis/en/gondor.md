@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/1.jpg)
+![](gondor/1.jpg)
 
 <53>**Gondor** was the most prominent kingdom of Men in Middle-earth, bordered by Rohan to the north, Harad to the south, the cape of Andrast and the Sea to the west, and Mordor to the east. Its first capital was Osgiliath, moved to Minas Anor in TA 1640. This city, later renamed Minas Tirith, remained the capital of Gondor for the rest of the Third Age and into the Fourth Age; other major fortresses included Pelargir, Dol Amroth in Belfalas and Minas Ithil.
 
@@ -11,7 +11,7 @@
 
 ## **Early years**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/2.jpg)
+![](gondor/2.jpg)
 
 #### Elendil, the first King of Gondor
 
@@ -23,7 +23,7 @@
 
 ## **Gondor prospers**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/3.jpg)
+![](gondor/3.jpg)
 
 #### Gondor joined the Last Alliance of Men and Elves against Sauron
 
@@ -45,7 +45,7 @@
 
 ## **Decline**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/4.jpg)
+![](gondor/4.jpg)
 
 #### The Argonath, monument to the earliest Kings of Gondor
 
@@ -57,7 +57,7 @@
 
 ## The Great Plague
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/5.jpg)
+![](gondor/5.jpg)
 
 #### Castamir's followers joined the Corsairs of Umbar after the Kin-strife
 
@@ -73,7 +73,7 @@
 
 ## Reunification Rejected
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/6.jpg)
+![](gondor/6.jpg)
 
 #### The White Tree of Gondor, originally planted in Minas Tirith by Isildur, was a symbol and coat of arms of Gondor
 
@@ -83,7 +83,7 @@
 
 ## The Last Heir of Anárion
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/7.jpg)
+![](gondor/7.jpg)
 
 #### The Nazgul captured Minas Ithil, renaming it Minas Morgul
 
@@ -95,7 +95,7 @@
 
 ## The Ruling Stewards
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/8.jpg)
+![](gondor/8.jpg)
 
 #### Gondor and Rohan became sworn allies
 
@@ -107,7 +107,7 @@
 
 ## Cirion and Eorl
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/9.jpg)
+![](gondor/9.jpg)
 
 #### Aragorn founded the Reunited Kingdom of Gondor and Arnor
 
@@ -119,7 +119,7 @@
 
 ## Sauron Returns
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/10.jpg)
+![](gondor/10.jpg)
 
 #### Map of Gondor
 
@@ -131,7 +131,7 @@
 
 <53>Sauron had prepared for the final conquest, and in TA 3018 his forces took the eastern half of Osgiliath. The attack was ended with the destruction of the last bridge across the Anduin. The following year Minas Tirith faced a larger attack from Mordor, with the additional threat of the Corsairs of Umbar. Aragorn summoned the Dead Men of Dunharrow to destroy the Corsairs, freeing forces in the south of Gondor to come to the aid of Minas Tirith. Gondor then defeated the army of Mordor with the aid of the Rohirrim in the Battle of the Pelennor Fields, though with heavy losses. The combined Army of the West then carried the battle to Sauron at the Battle of the Black Gate, a feint to distract the Dark Lord's attention from Frodo Baggins' quest to destroy the One Ring in Mount Doom, thus causing Sauron's destruction and the allies' ultimate victory.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/11.jpg)
+![](gondor/11.jpg)
 
 #### Anórien
 
@@ -159,7 +159,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/12.jpg)
+![](gondor/12.jpg)
 
 #### Minas Tirith
 
@@ -193,7 +193,7 @@
 
 <53>The long cape of Andrast was not populated (by the descendants of Númenóreans, but evidence from the Unfinished Tales suggests that a small group of Drúedain inhabited it).
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gondor/13.jpg)
+![](gondor/13.jpg)
 
 #### The ruined city of Osgiliath
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finrod/1.jpg)
+![](finrod/1.jpg)
 
 #### Finrod and Sauron
 
@@ -7,7 +7,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finrod/2.jpg)
+![](finrod/2.jpg)
 
 #### Finrod, First encounter with Edain
 
@@ -15,7 +15,7 @@
 
 <53>Finrod founded the original Minas Tirith in the Pass of Sirion. In around FA 50, he and his friend Turgon, while journeying down the river Sirion, encamped along its banks and were put to sleep by Ulmo. While asleep, Ulmo revealed to them the hidden caves of Nargothrond and the valley of Tumladen. Finrod discovered the system of caves beneath the Taur-en-Faroth, and with the help from the Dwarves of the Blue Mountains he started to build the city of Nargothrond and went on to found his own kingdom there. Finrod rewarded the Dwarves with many jewels from Valinor. And in that time they made for him the Nauglamír and gave him the honorific Felagund meaning "Hewer of Caves".
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finrod/4.jpg)
+![](finrod/4.jpg)
 
 #### Finrod swore an oath of abiding friendship and aid in every need to Barahir and all his kin
 
@@ -25,7 +25,7 @@
 
 <53>During the Dagor Bragollach, Barahir of the House of Bëor saved Finrod's life, and in friendship Finrod gave him his ring. This ring was later known as the Ring of Barahir and was eventually handed down to Aragorn when told of his true identity. Years after the Dagor Bragollach, Barahir's son Beren came to Nargothrond seeking help, and Finrod went with him on the Quest for the Silmaril to repay his debt, laying down his kingship. Celegorm and Curufin, who were living in Nargothrond at the time, persuaded (using fear of Morgoth, and barely veiled threats related to their Oath) most of Nargothrond to stay behind; only ten warriors, headed by one, Edrahil, were faithful and accompanied their King.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finrod/3.jpg)
+![](finrod/3.jpg)
 
 #### and he died in the dark, in Tol-in-Gaurhoth, whose great tower he himself had built. Thus King Finrod Felagund, the fairest and most beloved of the house of Finwë, redeemed his oath.
 
@@ -40,7 +40,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finrod/5.jpg)
+![](finrod/5.jpg)
 
 #### Finrod in The Rings of Power
 

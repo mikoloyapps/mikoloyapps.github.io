@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrimbor/1.jpg)
+![](celebrimbor/1.jpg)
 
 <53>**Celebrimbor** was a Ñoldorin prince and the last in the line of the House of Fëanor, who lived in Middle-earth. He was a ruler of Eregion in the Second Age, and a master smith. He is remembered primarily for his creation of the Three Rings of Power: Nenya, Vilya, and Narya, but also he made the second Elfstone (in one version) for Galadriel, who later gave it to Aragorn.
 
@@ -9,7 +9,7 @@
 
 <53>Celebrimbor was the son of Curufin, who was the fifth son of Fëanor (son of Finwë and his first wife Míriel) and Nerdanel. In the First Age, he fought in the battles of Dagor-nuin-Giliath and Dagor Aglareb. After fighting in the Dagor Bragollach, he lived with his father and uncle in Nargothrond, staying even after Curufin's exile. He later escaped the Sack of Nargothrond, and traveled to Gondolin. He would fight in and survive the Fall of Gondolin. Unlike some of his kin, he remained in Middle-earth afterwards.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrimbor/2.jpg)
+![](celebrimbor/2.jpg)
 
 #### Celebrimbor as a child with his parents in Valinor
 
@@ -19,7 +19,7 @@
 
 <53>In secret, Sauron forged the One Ring, a master ring that would rule all the lesser rings, to enable him to rule Middle-earth via its influence over those who used the other rings. When Sauron placed the One Ring on his finger, claiming dominance over all the Rings of Power and their bearers, the Elves knew his true identity and intentions. Celebrimbor and the Elves of Eregion defied Sauron by withholding the other rings from him. The greatest of the rings (aside from the One Ring) were created by Celebrimbor himself, and these were never touched by Sauron and thus were uncorrupted by him, although they were still subject to the One Ring. These were the three Rings of the Elves, the fairest of the Rings of Power. Celebrimbor named them Vilya, Narya, and Nenya after the principal Middle-earth elements of air, fire and water, respectively. He sent the three rings away for safekeeping: Vilya and Narya to Gil-galad in Lindon; and Nenya to Galadriel in Lórien. Celebrimbor also sent the mightiest of the seven to Durin III of Khazad-dûm.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrimbor/3.jpg)
+![](celebrimbor/3.jpg)
 
 #### Celebrimbor and Annatar forging the Rings
 
@@ -35,7 +35,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrimbor/4.jpg)
+![](celebrimbor/4.jpg)
 
 #### Celebrimbor in Amazon's "The Rings of Power"
 

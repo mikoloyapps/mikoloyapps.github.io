@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/melian/1.jpg)
+![](melian/1.jpg)
 
 #### Melian the Maia
 
@@ -7,19 +7,19 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/melian/2.jpg)
+![](melian/2.jpg)
 
 #### Melian and Thingol
 
 <53>Before she came to Middle-earth, Melian served both Vána and Estë, and dwelt in Lórien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser (with the exception of Ilmarë, Arien ,Olórin and Uinen), more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the Two Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuiviénen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/melian/3.jpg)
+![](melian/3.jpg)
 
 #### Melian and Thingol
 
 <53>While in the forest of Nan Elmoth she met and fell in love with the Elven-king Elu Thingol, and later she ruled the kingdom of Doriath by his side. For thousands of years, she used her powers to guard and defend the kingdom with a protection spell called the Girdle of Melian, but she predicted that one person would one day breach this defense. The Girdle functioned to bewilder any who attempted to enter Doriath, and was so potent that even Ungoliant was unable to breach it. She and her husband had a child, a daughter named Lúthien. During her stay in Doriath she became a friend and mentor of Galadriel. Melian wanted to know the cause of the exile of the Ñoldor. Galadriel only briefly narrated the story to her, leaving out the death of Finwë, the Kinslaying at Alqualondë, and the burning of the ships at Losgar. But eventually she and Thingol learned the truth.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/melian/4.jpg)
+![](melian/4.jpg)
 
 #### Melian encounters Elwë the woods of Nan Elmoth
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nellas/1.jpg)
+![](nellas/1.jpg)
 
 <53>**Nellas** was an Elf-maiden of Doriath during the First Age.
 
@@ -7,7 +7,7 @@
 
 <53>Being a lady of nature, she lived in the woods and never came to the city but she knew much and was very wise. Nellas was young during the latter-half of the fourth century First Age and it was during that time that Túrin had come to Doriath as a boy. With the blessings of Melian, she befriended him and became his teacher and he learned much about the wilderness and nature. She also taught him an older and richer form of Sindarin and the many manners of its pronunciation. As he began to grow into manhood, he drifted away from her but she still continued to watch over him be it in secrecy.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nellas/2.jpg)
+![](nellas/2.jpg)
 
 #### Turin's childhood with Nellas
 

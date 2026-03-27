@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/1.jpg)
+![](nazgul/1.jpg)
 
 > *"Nine he gave to Mortal Men, proud and great, and so ensnared them. Long ago they fell under the dominion of the One, and they became Ringwraiths, shadows under his great Shadow, his most terrible servants. Long ago. It is many a year since the Nine walked abroad. Yet who knows? As the Shadow grows once more, they too may walk again."*
 >> \- Gandalf explaining the Nazgûl to Frodo
@@ -8,7 +8,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/2.jpg)
+![](nazgul/2.jpg)
 
 #### Kings of Men with their Rings of Power, as seen in The Lord of the Rings
 
@@ -18,13 +18,13 @@
 
 <53>Only two of the Nine were ever named: the Witch-king of Angmar and Khamûl the Easterling.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/3.jpg)
+![](nazgul/3.jpg)
 
 <53>The Nine were first observed around 2251 of the Second Age, and soon became Sauron's primary servants. Despite their great power and position as instruments of Sauron's will, not much is known of their activities during the Second Age. They were temporarily dispersed after Sauron's downfall in SA 3434 in the War of the Last Alliance. Though no longer able to maintain physical form, just as Sauron was after losing the One Ring, both the Nazgûl and Sauron were able to endure as long as the Ring survived.
 
 ## **Return of the Nazgûl**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/4.jpg)
+![](nazgul/4.jpg)
 
 #### The Witch-king's true undead appearance as depicted in Peter Jackson's films
 
@@ -32,7 +32,7 @@
 
 <53>But Arthedain was not yet defeated, and it managed to maintain a line of defense along the Weather Hills. In TA 1409 came the attack on Cardolan. Also during this time, the forces of the Witch-king burned and destroyed the watchtower of Amon Sûl. After the fall of Cardolan, Angmar's advance was slowed by resistance from the Elves of Lindon, Lothlórien and Rivendell. By TA 1974, Angmar attacked again and captured Arthedain's capital of Fornost, and with that, the last kingdom of Arnor was destroyed.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/6.jpg)
+![](nazgul/6.jpg)
 
 #### The Witch-king, Lord of the Nazgûl, as seen in The Lord of the Rings: The Return of the King
 
@@ -44,13 +44,13 @@
 
 ## Search for the Shire
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/5.jpg)
+![](nazgul/5.jpg)
 
 #### The Nine leaving Minas Morgul
 
 <53>A few years before the War of the Ring, Gollum, a Stoor who had once owned the One Ring, was captured and tortured in Mordor. From him, Sauron learned the family name of the Ring's bearer and the fact that he lived in a land called the Shire. Sauron wasted no time in attempting to capture the Ring, sending all of the Nine to retrieve it on July 1, TA 3018. Gollum had claimed that the Halflings' homeland was in the Vales of Anduin. On this information, after Mordor had captured eastern Osgiliath from the Men of Gondor, the Nazgûl crossed secretly at night and passed through Anórien, up the Vale of Entwash, and into the Wold, relatively unnoticed. They arrived at the west shore of Anduin, north of Sarn Gebir, and received horses and clothes on July 17. On July 22, they met the Nazgûl from Dol Guldur on the Field of Celebrant. From them they learned that no halflings had lived in the Vales of Anduin for many years and that Gollum, having been re-captured by Sauron's Orcs, had escaped them and the Woodland Elves. However, knowing no better counsel, they continued riding north in the land between Lothlórien and the Misty Mountains, but failed to learn anything and returned south. Upon their return to the Wold in September, messengers from Barad-dûr gave them terrible threats from Sauron, and also news that Saruman might have the location of the Shire. As ordered by Sauron, they rode to Isengard openly through Rohan at great speed, causing many to flee in terror.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/8.jpg)
+![](nazgul/8.jpg)
 
 #### The Nine crossing the Ford of Bruinen
 
@@ -60,7 +60,7 @@
 
 ## Hunt for Frodo
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/12.jpg)
+![](nazgul/12.jpg)
 
 #### A Nazgûl
 
@@ -70,7 +70,7 @@
 
 ## Weathertop
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/7.jpg)
+![](nazgul/7.jpg)
 
 #### Five Nazgûl confronting the four Hobbits at Weathertop
 
@@ -80,7 +80,7 @@
 
 ## The Ford of Bruinen
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/15.jpg)
+![](nazgul/15.jpg)
 
 #### The Nazgûl in Dol Guldur
 
@@ -91,7 +91,7 @@
 
 ## **War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/9.jpg)
+![](nazgul/9.jpg)
 
 #### Gandalf confronted by the Witch-king
 
@@ -108,7 +108,7 @@
 
 ## Battle of the Morannon and Defeat
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/10.jpg)
+![](nazgul/10.jpg)
 
 #### Nazgûl caught in the firestorm and destroyed
 
@@ -122,7 +122,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/11.jpg)
+![](nazgul/11.jpg)
 
 #### The Witch-king
 
@@ -139,7 +139,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/13.jpg)
+![](nazgul/13.jpg)
 
 #### A Nazgûl set on fire
 
@@ -157,7 +157,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nazgul/14.jpg)
+![](nazgul/14.jpg)
 
 #### The Witch-king mounted on his Fell-beast
 

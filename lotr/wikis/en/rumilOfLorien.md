@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/rumilOfLorien/1.jpg)
+![](rumilOfLorien/1.jpg)
 
 #### Rúmil (right) and his brothers
 
@@ -9,7 +9,7 @@
 
 <53>Rúmil was a marchwarden of Lórien, and was one who guarded the border of the western part of the forest, with his brothers. He was present at the Fellowship of the Ring's first meeting with the Galadhrim.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/rumilOfLorien/2.jpg)
+![](rumilOfLorien/2.jpg)
 
 #### Marchwarden of Lothlórien
 

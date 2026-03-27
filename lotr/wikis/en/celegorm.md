@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celegorm/1.jpg)
+![](celegorm/1.jpg)
 
 #### Celegorm and Huan
 
@@ -11,7 +11,7 @@
 
 <53>Celegorm was born in Valinor sometime during the Noontide of Valinor. He was very close to Oromë and probably hunted with him in his woods.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celegorm/2.jpg)
+![](celegorm/2.jpg)
 
 #### Tyelkormo
 

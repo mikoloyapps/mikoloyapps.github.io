@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/1.jpg)
+![](feanor/1.jpg)
 
 <53>**Fëanor** was a Ñoldorin Elf, first King of the Noldor, and one of the Elven kindred that departed from Valinor in the land of Aman, where they had lived with the Valar.
 
@@ -11,7 +11,7 @@
 
 ## **Early life**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/2.jpg)
+![](feanor/2.jpg)
 
 #### High princes Fëanor and Fingolfin
 
@@ -19,7 +19,7 @@
 
 ## **The making of the Silmarils**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/3.jpg)
+![](feanor/3.jpg)
 
 #### Fëanor
 
@@ -29,7 +29,7 @@
 
 <53>After three ages of imprisonment, Melkor, the mightiest of the Valar and the world's primordial source of evil, deceived the Valar with a false show of repentance. Pardoned and residing in Valinor, his malice had in fact reached hitherto unprecedented levels, and its primary target quickly became the Elves, as it had been for their sake that he had been overthrown. He found that, of the three primary groups of Elves in Valinor, the Ñoldor were the easiest to manipulate due to their thirst for knowledge and willingness to listen. Focusing his efforts solely on the Ñoldor, he subtly spread lies amongst them that the Valar were keeping them imprisoned in Valinor so that the race of Men might inherit Middle-earth and claim the glory that could have been theirs. Although Fëanor mistrusted and feared Melkor, in his arrogance and impatience he often unwittingly repeated the lies of Melkor. He quickly became the most prominent of the rebellious Ñoldor, to the point where the other Valar, not knowing of Melkor's lies, saw him as the source of the Ñoldor's distemper.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/4.jpg)
+![](feanor/4.jpg)
 
 #### Get thee gone, and take thy due place!
 
@@ -39,7 +39,7 @@
 
 ## **Theft of the Silmarils**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/5.jpg)
+![](feanor/5.jpg)
 
 #### Fëanor and his sons swear the Oath of Fëanor
 
@@ -49,7 +49,7 @@
 
 ## **The Flight of the Ñoldor**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/6.jpg)
+![](feanor/6.jpg)
 
 #### The battle in which the Ñoldor attacked the Teleri
 
@@ -57,7 +57,7 @@
 
 <53>Now King of the Ñoldor after the death of his father, Fëanor returned to Tirion, ignoring the fact that he was still technically exiled, and gave one of the most impassioned speeches ever delivered in Arda. But due to his rage, grief, and pride, he unwittingly filled his speech with many of the lies and half-truths of Morgoth. He railed against the Dark Lord, but he also blamed the Valar in part for Morgoth's deeds, claiming that they should have been able to stop him and had failed. He spoke of the fact that because Morgoth had attacked and badly marred the kingdom of the Valar without consequence to himself, there was neither bliss nor surety of safety to be found in Aman any longer. He evoked images of the kingdoms his people could build in Middle-earth, and the glory that could be theirs once they regained the Silmarils. Fëanor then swore an oath by the name of Ilúvatar himself that he would suffer none, no matter their race or reasons, to withhold a Silmaril from him, and that he would pursue with violence any who attempted it. The Oath of Fëanor was also taken by his seven sons below the tower of the Mindon Eldaliéva in the Great Square of Tirion. This oath became the cause for great tragedy for Fëanor's family, and for the Eldar in general.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/7.jpg)
+![](feanor/7.jpg)
 
 #### Fëanor watches the burning of the Teleri boats
 
@@ -67,13 +67,13 @@
 
 <53>After delivering his speech and departing with his host, Fëanor's mood cooled somewhat and he belatedly realized that he had no practical means of transporting himself and his people to Middle-earth. For though Middle-earth and Aman were connected in those days by the Helcaraxë, a treacherous and bitterly cold region of shifting arctic ice, it was deemed to be impassable. Fëanor then gave thought to the building of ships, but there were no shipwrights amongst the Ñoldor and even had there been, crafting a fleet large enough to ferry all of his people to Middle-earth would have been a monumental and time consuming task. Fëanor therefore went to Alqualondë where the seafaring Teleri lived and attempted to persuade them to join him, or failing that, to secure the use of their ships. But the Teleri had no desire whatsoever to leave Aman and would not give Fëanor their ships, for they held them too dearly. Fëanor angrily cited that the Teleri owed the Ñoldor for instructing them in the arts of crafting buildings and cities. But Olwë, the lord of the Teleri, was unmoved, and rather urged Fëanor not to return to Middle-earth.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/9.jpg)
+![](feanor/9.jpg)
 
 #### Fëanor
 
 <53>But Fëanor would not take no for an answer. He understood that many of his people had been inflamed by his impassioned words, and knew that haste was essential to keep cooler heads from swaying the Ñoldor to a more reasonable course. As such, he persuaded his host to aid him in taking the ships by force. This he attempted, and the Teleri resisted, casting many of the the Ñoldor into the sea and thrice driving them back despite being far more lightly armed than the Ñoldor. However, Fingolfin's host, which had been less eager to start the journey and thus slower, came upon the battle in progress. Believing that the Teleri had been the aggressors, perhaps even on the orders of the Valar themselves, Fingolfin's host came to the aid of his brother's and the Teleri were overcome. The ships were stolen, and many of the Teleri mariners were wickedly slain. After commandeering the ships, the Ñoldor, their hosts lessened by battle and by terrible storms conjured by Ossë in vengeance for the Teleri, encountered a figure that may have been Mandos himself. This figure uttered a terrible Doom, exiling the Ñoldor from Valinor and foretelling that their war against Morgoth would cause them only misery. Due to their wickedness in slaughtering their kin, they would be utterly forsaken in the eyes of the Valar, and would receive neither welcome nor aid from Valinor in their struggles. Additionally, Fëanor and his house were cursed, and Mandos foretold great suffering and hardship would be their lot, due in no small part to the oath they had taken to regain the Silmarils at all costs. Above all, the figure made it explicitly clear that any war made by the Ñoldor against Morgoth would be utterly hopeless, for the Ñoldor, being Elves, simply did not have the power to overcome a Vala. Hearing this Doom, and having not participated in the Kinslaying, Finarfin and his host turned back in grief, cursing Fëanor. They were pardoned and accepted by the Valar, and Finarfin ruled as High-King of the Ñoldor in Tirion. Fëanor, however, defied the Doom and proceeded onward. As such the journey northward continued, the land became ever darker, and the temperatures began to drop precipitously as the Ñoldor approached the Helcaraxë. It was at this point that many of the Ñoldor, already reluctant to follow Fëanor, began to openly express dissatisfaction with his leadership. For despite having succeeded in seizing the Teleri fleet, the storms of Ossë had wrecked many of the ships, and there were no longer enough to bear all of the Ñoldor at once to Middle-earth. However, the Doom of Mandos had kindled fear of treachery in the hearts of the Ñoldor, and none were willing to be left in Aman while others crossed the sea first. Fëanor was all too aware of both the dissatisfaction of his people and the problem that lay in ferrying all of them to Middle-earth, and sought counsel with his sons.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/10.jpg)
+![](feanor/10.jpg)
 
 #### Fëanor's hammer in The Rings of Power, in which it is used by Celebrimbor
 
@@ -81,7 +81,7 @@
 
 ## **Final battle and death**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/feanor/8.jpg)
+![](feanor/8.jpg)
 
 #### Fëanor faces Gothmog
 

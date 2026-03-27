@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrian/1.jpg)
+![](celebrian/1.jpg)
 
 <53>**Celebrían** was an Elven noblewoman, the daughter of Celeborn and Galadriel, wife of Elrond, and the mother of Elladan, Elrohir and Arwen.
 
@@ -9,7 +9,7 @@
 
 <53>In TA 109, Elrond wedded Celebrían. She bore him twin sons, Elladan and Elrohir in TA 130, and then a daughter, Arwen in TA 241.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celebrian/2.jpg)
+![](celebrian/2.jpg)
 
 #### Celebrían and Arwen
 

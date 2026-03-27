@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/eluredAndElurin/0.jpg)
+![](eluredAndElurin/0.jpg)
 
 #### Maedhros searches for Eluréd and Elurín in vain (Eluréd and Elurín shown in the lower right-hand side)
 

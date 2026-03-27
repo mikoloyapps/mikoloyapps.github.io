@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/1.jpg)
+![](gandalf/1.jpg)
 
 <53>**Gandalf the Grey**, later known as **Gandalf the White**, and originally named **Olórin**, was an Istar (Wizard), dispatched to Middle-earth in the Third Age to combat the threat of Sauron. He joined Thorin II Oakenshield and his company to reclaim the Lonely Mountain from Smaug, helped form the Fellowship of the Ring to destroy the One Ring, and led the Free Peoples in the final campaign of the War of the Ring.
 
@@ -9,7 +9,7 @@
 
 <53>Originally called Olórin, he was accounted as the wisest of the Maiar. He was created by Ilúvatar before the Music of the Ainur, and was at the beginning of Time amongst the Ainur who entered into Eä. In his "youth" he became one of the Maiar who served Manwë, Varda, Irmo, and Nienna. He was associated with light and fire, much like Varda, yet his ways often took him to Nienna, from whom he learned pity and patience. He loved the Elves, but walked unseen among them, or wore the guise of an Elf, and sent them fair visions in their hearts that made them wiser. Throughout his life he followed the example of Nienna, talking pity on the sorrows of the Children of Ilúvatar and drawing those who listened to him out of despair.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/2.jpg)
+![](gandalf/2.jpg)
 
 #### Gandalf as a Maia named Olórin before leaving the Undying Lands
 
@@ -21,7 +21,7 @@
 
 <53>Olórin, like the other Wizards, took the shape of an old man. He was robed in grey and wandered about as a counsellor. At Mithlond he was welcomed by Glorfindel, his friend from Valinor (who had been sent earlier on a similar mission), and Círdan the shipwright who possessed Narya, one of the Three Elven Rings of Power. Círdan divined in Olórin a sense of strength and power despite his appearance as a bent and aged man. Círdan gave Narya to Olórin with a prediction of his future struggles with evil, and a promise that it would support and aid him in his labours.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/3.jpg)
+![](gandalf/3.jpg)
 
 #### Gandalf is received by Círdan
 
@@ -33,13 +33,13 @@
 
 <53>Around year TA 1100, the Istari and Eldar discovered that some evil entity resided in at Dol Guldur in Mirkwood; while some thought a Nazgûl had returned to torment the world, or some new evil was arising, Gandalf began to suspect that perhaps Sauron himself might have returned. As in the next two hundred years, evil continued to grow and spread, as well as the source directing it. Gandalf went to Dol Guldur in TA 2063 to discover its secret. However, the Necromancer fled upon Gandalf's arrival, preventing Gandalf from identifying him. After Gandalf's incursion, the evil there seemed to desist, and its absence allowed for some centuries of calmness.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/4.jpg)
+![](gandalf/4.jpg)
 
 #### Gandalf investigating Dol Guldur
 
 <53>That peaceful period was known as the Watchful Peace and lasted for almost four hundred years, but the Nazgûl had used this period to prepare for Sauron's return, in TA 2460. Realising the returning evil, Galadriel formed and reunited the White Council three years later composed of four members: herself, Gandalf, Saruman, and Elrond the Half-elven (who was the bearer of another of the Three Rings). Galadriel wished Gandalf to be the chief of the Council, but he refused the position, wishing to set down no roots and to maintain his independence; Saruman took this place instead because of his vast knowledge and skill. However, he later grew jealous and afraid of Gandalf, which was one of the reasons for his future betrayal.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/5.jpg)
+![](gandalf/5.jpg)
 
 #### Gandalf giving a fireworks display at Old Took's party in the Shire
 
@@ -47,7 +47,7 @@
 
 <53>When King Thráin II, a Dwarf of the royal line of Durin, disappeared on journey to Erebor, Gandalf looked for him. At some point after TA 2845 he entered the abandoned city of Khazad-dûm during this search. After this proved to be in vain, the Wizard exited through the Doors of Durin; however this experience did not help him know how to open the doors from the outside. In TA 2850, his quest led him once more to Dol Guldur, this time in secrecy. He found Thráin in the dungeons, who gave the Wizard his last possessions, the map and key to Erebor. Most importantly, he found out that the Necromancer was not a Nazgûl - it was Sauron himself, and he had taken the last of the Seven Rings from the Dwarf King; Sauron was gathering the remaining Rings of Power and possibly searching for his lost One Ring.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/6.jpg)
+![](gandalf/6.jpg)
 
 #### Gandalf finds Thráin in the dungeons of Dol Guldur
 
@@ -55,7 +55,7 @@
 
 <53>As time went on, the wizard became increasingly troubled by his knowledge of Sauron's resurgent strength. He knew that Sauron was already plotting war from Dol Guldur, and that as soon as he felt strong enough, he would attack Rivendell. Unfortunately, the only power left besides Rivendell to resist an attempt from Mirkwood to regain the lands of Angmar were the isolated Dwarves of the Iron Hills.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/7.jpg)
+![](gandalf/7.jpg)
 
 #### The White Council meeting on the question of Dol Guldur
 
@@ -69,7 +69,7 @@
 
 ## *Leading the company*
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/0.jpg)
+![](gandalf/0.jpg)
 
 <53>Feeling that a Hobbit should be involved, Gandalf remembered Bilbo Baggins. At first he found only Holman Cotton as Bilbo had left on the occasion of the Elven new year, something that persuaded Gandalf that Bilbo was the right person for the job. He visited Bilbo later, bringing along the kinsmen of Thorin. In the end, Gandalf convinced the reluctant Baggins to become a burglar for Thorin. Gandalf then accompanied Thorin and Company to Rivendell. During the journey Gandalf was instrumental in saving the travellers' lives from several calamities. He saved them from a trio of Stone-trolls, and later obtained the legendary sword Glamdring from their Troll-hoard; Gandalf bore it thenceforth.
 
@@ -84,7 +84,7 @@
 
 ## The Battle of Five Armies
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/8.jpg)
+![](gandalf/8.jpg)
 
 #### Gandalf fighting at the Battle of Five Armies
 
@@ -96,7 +96,7 @@
 
 ## Return of the Shadow
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/9.jpg)
+![](gandalf/9.jpg)
 
 #### The White Council's last meeting
 
@@ -106,7 +106,7 @@
 
 ## Return to the Shire
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/10.jpg)
+![](gandalf/10.jpg)
 
 #### Gandalf returning to the Shire in Peter Jackson's "The Fellowship of the Ring"
 
@@ -116,7 +116,7 @@
 
 ## One Ring's search
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/11.jpg)
+![](gandalf/11.jpg)
 
 #### Gandalf seeking answers in Minas Tirith
 
@@ -126,7 +126,7 @@
 
 <53>Upon returning to the Shire, Gandalf immediately went to Frodo and confirmed his suspicions by throwing the Ring into Frodo's hearth fire, which revealed, in Black Speech, the inscription upon the ring. Gandalf then told a dumbfounded Frodo about the One Ring and its history, and how Sauron would seek to regain it. Instructing Frodo to go to Rivendell with the ring, Gandalf told him to make arrangements to leave the Shire quietly.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/12.jpg)
+![](gandalf/12.jpg)
 
 #### Gandalf telling Frodo of the One Ring
 
@@ -140,7 +140,7 @@
 
 <53>Gandalf hurriedly went to Rohan, desiring to find a strong steed; there he obtained Shadowfax from King Théoden, who later resented the gift. This mighty horse and Gandalf forged a special bond, and Gandalf made quick use of Shadowfax's incredible strength and endurance.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/13.jpg)
+![](gandalf/13.jpg)
 
 #### Gandalf fighting the Nazgûl
 
@@ -152,7 +152,7 @@
 
 ## Forming of the Fellowship
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/14.jpg)
+![](gandalf/14.jpg)
 
 #### Gandalf leading the Fellowship through Eregion
 
@@ -162,7 +162,7 @@
 
 ## Fall in Mines of Moria
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/15.jpg)
+![](gandalf/15.jpg)
 
 #### Gandalf and the Balrog
 
@@ -173,7 +173,7 @@
 
 <53>Unfortunately Durin's Bane caught up to the group at the Bridge of Khazad-dûm. Gandalf and Legolas immediately realised what it was: a Balrog of Morgoth, a servant of the first Dark Lord. In a spectacular display of bravery Gandalf faced the demon and broke the bridge both stood upon, leaving the beast to fall into a seemingly bottomless chasm. But the Balrog's whip lashed out, and grasped Gandalf by the knees, causing him to fall into the pit. While falling, Gandalf shouted "Fly, you fools" and vanished into the abyss.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/16.jpg)
+![](gandalf/16.jpg)
 
 #### Gandal battling the Balrog on Durin's Tower
 
@@ -190,7 +190,7 @@
 
 ## War in Rohan
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/17.jpg)
+![](gandalf/17.jpg)
 
 #### Gandalf confronting Théoden, controlled by Saruman
 
@@ -199,7 +199,7 @@
 > Keep well the Lord of the Mark, till I return. Await me at Helm's Gate. Farewell!
 >> \- Gandalf to Aragorn and Éomer and the men of the king's household
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/18.jpg)
+![](gandalf/18.jpg)
 
 #### Gandalf the White returns, at Helm's Deep
 
@@ -207,7 +207,7 @@
 
 ## Siege of Gondor
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/19.jpg)
+![](gandalf/19.jpg)
 
 #### Gandalf saves the Osgiliath force
 
@@ -215,7 +215,7 @@
 
 <53>Minas Tirith was soon besieged by a vast force from Mordor, led by the Witch-king of Angmar. Faramir having received a wound from a poisoned dart in the retreat from Osgiliath, lay near death inside the Tower. Still, Gandalf encouraged the men of Minas Tirith to have hope, and dispelled the fear of the Ringwraiths by his very presence. But Sauron's catapults hurled flaming bolts upon the city; soon the first circle of the city burned unchecked. Denethor now lost all heart as the city burned and his only remaining son hovered near death; he abandoned his leadership of the city. Gandalf then took it upon himself to direct the defense in cooperation with Prince Imrahil of Dol Amroth. When the gigantic ram Grond destroyed the Great Gate of Minas Tirith, Gandalf placed himself alone at the ruined gateway. The Witch-king then appeared in the midst of the blasted gate upon a black horse and threatened Gandalf with death; but Gandalf did not move — seated upon Shadowfax he defied the mightiest of Sauron's minions. However, the stand-off ended inconclusively, as the morning arrived along with the host of the Rohirrim. Hearing the horns of the Riders of Rohan, the Witch-king departed.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/20.jpg)
+![](gandalf/20.jpg)
 
 #### Gandalf faces the Witch-king of Angmar
 
@@ -227,7 +227,7 @@
 
 <53>In Minas Tirith, Gandalf was selected by Aragorn, Imrahil, and Éomer (the Captains of the West) to be their leader in the coming final battles. This would be the culmination of Gandalf's efforts in Middle-earth. Fully aware that the west would stand or fall on the outcome of Frodo's mission, he advised the lords to launch an attack against the Morannon, thereby drawing Sauron's eye away from Frodo's likely location. This plan surely would result in a catastrophic loss for the outnumbered army, but it gave Frodo a chance to achieve the quest of Mount Doom.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/21.jpg)
+![](gandalf/21.jpg)
 
 #### Gandalf in the final battle at the Black Gate of Mordor
 
@@ -235,7 +235,7 @@
 
 <53>Yet Sauron himself became the victim of Gandalf's trap. Unbeknownst to all, Frodo and Sam had succeeded in scaling Mount Doom and even as the Battle of the Black Gate began Frodo stood at the Cracks of Doom. But the power and lure of the Ring finally overcame his will and he placed the Ring upon his finger, claiming it as his own. Immediately the Nazgûl were summoned by their lord, as he in terror realised his blunder: his enemies intended to destroy his Ring.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/22.jpg)
+![](gandalf/22.jpg)
 
 #### Gandalf with Gwaihir rescues Frodo and Sam
 
@@ -245,7 +245,7 @@
 
 <53>In Minas Tirith, Gandalf and the remaining members of the Fellowship reunited. At the coronation of King Elessar, Gandalf (at Aragorn’s request) set the crown upon the King’s head, and declared "Now come the days of the King, and may they be blessed while the thrones of the Valar endure!". Thus Gandalf ushered in the new age of men. Not long after Gandalf led Aragorn to the High Hallow on the upper slopes of Mindolluin and there they found a sapling of the White Tree of Gondor, a sign of the renewal that was to come.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/23.jpg)
+![](gandalf/23.jpg)
 
 #### Departing from Middle-earth
 
@@ -272,7 +272,7 @@
 
 ## **Der Berggeist**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/24.jpg)
+![](gandalf/24.jpg)
 
 #### Der Berggeist
 
@@ -286,7 +286,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/25.jpg)
+![](gandalf/25.jpg)
 
 <53>Gandalf is often described in The Lord of the Rings as quick to anger, and equally quick to laugh. His deep wisdom and compassion clearly derived from the patience he learned in Valinor, just as his care for all creatures of good will must have come from his strong sense of pity for the weak. Both his patience and sense of pity were revealed again and again, extending even to the servants of his enemies.
 
@@ -304,7 +304,7 @@
 
 <53>Círdan the Shipwright seemed to have foreseen this, for he entrusted the care of Narya, the Ring of Fire (one of the Three Rings of the Elves) to Gandalf rather than Saruman.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gandalf/26.jpg)
+![](gandalf/26.jpg)
 
 #### Gandalf finds Glamdring in the Trolls' cave
 

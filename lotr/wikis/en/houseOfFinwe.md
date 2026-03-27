@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/houseOfFinwe/1.jpg)
+![](houseOfFinwe/1.jpg)
 
 #### Descendants of Finwë
 

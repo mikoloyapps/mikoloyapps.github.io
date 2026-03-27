@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/houseOfFeanor/1.jpg)
+![](houseOfFeanor/1.jpg)
 
 #### The Oath of Fëanor
 

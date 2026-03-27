@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/durinVI/1.jpg)
+![](durinVI/1.jpg)
 
 <53>**Durin VI** was the sixth Dwarven king to bear the name of Durin. In his lifetime he ruled Durin's Folk from the city of Khazad-dûm.
 

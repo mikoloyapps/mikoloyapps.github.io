@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/eldalote/1.jpg)
+![](eldalote/1.jpg)
 
 #### Eldalote & Angrod
 

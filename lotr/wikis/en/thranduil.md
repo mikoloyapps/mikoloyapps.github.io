@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/1.jpg)
+![](thranduil/1.jpg)
 
 #### Lee Pace portrays Thranduil in The Hobbit trilogy
 
@@ -11,7 +11,7 @@
 
 ## **First and Second Ages**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/2.jpg)
+![](thranduil/2.jpg)
 
 #### The Elvenking
 
@@ -21,7 +21,7 @@
 
 ## **Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/3.jpg)
+![](thranduil/3.jpg)
 
 #### Bilbo shows the Arkenstone to the Elvenking and Bard
 
@@ -31,13 +31,13 @@
 
 ## The Quest of Erebor
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/4.jpg)
+![](thranduil/4.jpg)
 
 #### The Elvenking arrives at the Lonely Mountain
 
 <53>When Thorin II Oakenshield and company entered northern Mirkwood, the party encountered visions of a feast in the woods, which unknown to them was Thranduil's court. Different members of the party tried to enter the clearing where the feast was being held, but each time darkness would fall and the interrupter fell into a deep sleep. In this manner was Thorin separated from the company, and captured by Thranduil. He provided no information when interrogated, and Thranduil, in turn, sent him to the dungeon cave "not too gently, for they did not love Dwarves and thought he was an enemy". The rest of the party was captured shortly after and brought before Thranduil. When the party proved uncooperative with Thranduil's questioning, he accused them of wandering in his kingdom without leave, interrupting their feast, and stirring up trouble with spiders. They were sent to the dungeon as well, in separate cells and unaware that Thorin was captured.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/5.jpg)
+![](thranduil/5.jpg)
 
 #### Thranduil confronts Narzug, a captured Orc
 
@@ -50,7 +50,7 @@
 
 <53>Thranduil led the Elven forces in the Battle of Five Armies. His army was positioned on the southern side of the Mountain, and was the first to charge.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thranduil/6.jpg)
+![](thranduil/6.jpg)
 
 #### Thranduil as shown during the Siege of Dale
 

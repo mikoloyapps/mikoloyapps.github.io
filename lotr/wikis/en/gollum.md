@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/1.jpg)
+![](gollum/1.jpg)
 
 > *"My precious!"*
 >> \- Gollum referring to the Ring
@@ -12,7 +12,7 @@
 
 ## **Early life**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/2.jpg)
+![](gollum/2.jpg)
 
 #### Andy Serkis portrays Gollum(Sméagol) in The Lord of the Rings and The Hobbit films
 
@@ -22,7 +22,7 @@
 
 <53>He lived in the Misty Mountains for over four hundred years, living on raw blind fish (which he caught from his small row boat), bats and small Goblins when he could get them. Indeed, he made a song about raw fish, which is "The rocks and stones! They're like old bones all bare of meat!" that he uses as a riddle to Bilbo and much later sings to Frodo in a longer version. In later years, he found Hobbit and Elven food repulsive.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/3.jpg)
+![](gollum/3.jpg)
 
 #### Gollum living in the Misty Mountains
 
@@ -30,7 +30,7 @@
 
 <53>In July, TA 2941, during the Quest of Erebor, the Hobbit Bilbo Baggins stumbled upon the subterranean lake on which he lived and found Gollum's Ring. Gollum had lost the Ring while squabbling with an imp goblin in the network of caves leading to the lake, though in fact it is more proper to say that the Ring abandoned Gollum, for it was known to have a will of its own. As Gandalf says later, it looks after itself, trying to get back to Sauron. After the infamous Riddle Game, during which Gollum was unaware of his loss, Gollum refused to show Bilbo the promised way out and plotted to murder him. When he went to get his "birthday present," however, he found that it was gone. He suddenly realized the true answer to Bilbo's last riddle—"What have I got in my pocket?" -, breaking into a rage and then begun to chase him in the tunnels. Bilbo inadvertently stumbled across the Ring's power of invisibility as he ran, allowing him to follow Gollum to the back entrance of the cave. There, Bilbo at first thought to kill Gollum, but was overcome with pity, so he jumped over him to escape. As Bilbo ran, Gollum cried out, "Thief! Thief, Baggins! Curse it and crush it! We hates it forever!"; he did not immediately follow Bilbo out of fear of being caught by the goblins, and so lingered in his cave.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/4.jpg)
+![](gollum/4.jpg)
 
 #### Gollum's spying eyes in the Mines of Moria
 
@@ -40,7 +40,7 @@
 
 ## **The War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/5.jpg)
+![](gollum/5.jpg)
 
 #### Gollum while leading Frodo and Sam through Ithilien, in the films
 
@@ -48,7 +48,7 @@
 
 <53>Along the way, it was revealed that Gollum, having lived in a cave for hundreds of years, feared both the Sun and the Moon, calling them the 'Yellow Face' and the 'White Face' respectively.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/7.jpg)
+![](gollum/7.jpg)
 
 #### Gollum fishing in the Forbidden Pool in Ithilien
 
@@ -58,7 +58,7 @@
 
 <53>Frodo and Sam were caught by Faramir, and Gollum followed them. When Frodo allowed Faramir to briefly take Gollum prisoner, however, he felt betrayed, allowing the "Gollum" personality to take total control. Faramir found out that the place Gollum was taking them was called Cirith Ungol. He then warned Frodo and Sam of the evil of that place.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/8.jpg)
+![](gollum/8.jpg)
 
 #### Gollum as seen in the films
 
@@ -68,7 +68,7 @@
 
 ## **Death**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/6.jpg)
+![](gollum/6.jpg)
 
 #### Gollum dying with the One Ring in the fires of Mount Doom
 
@@ -82,7 +82,7 @@
 
 <53>Ironically the one being who suffered the most from the One Ring was the one who managed to destroy it in the end. The ring was Gollum or Sméagol's great love, but also the source of his suffering, as through his unnaturally long life he was tortured by it into gradual mental destruction.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gollum/9.jpg)
+![](gollum/9.jpg)
 
 #### Gollum with Talion and Celebrimbor
 

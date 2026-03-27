@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/laiquendi/1.jpg)
+![](laiquendi/1.jpg)
 
 #### The mysterious Laiquendi, the Green elves of Ossiriand
 

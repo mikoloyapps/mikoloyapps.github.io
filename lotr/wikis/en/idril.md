@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/idril/1.jpg)
+![](idril/1.jpg)
 
 #### Turgon and Idril
 
@@ -9,7 +9,7 @@
 
 <53>Idril Celebrindal was the only child of Turgon, whose wife Elenwë perished during the crossing of the Helcaraxë. Together with Angrod's son Orodreth, she was one of the two Ñoldor in the third generation to come into exile. Idril was loved in secret by her cousin Maeglin, the son of Eöl the Dark Elf and Aredhel, Turgon's sister, but she scorned his advances because of his dark character, as well as the fact that they were too closely related.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/idril/2.jpg)
+![](idril/2.jpg)
 
 #### Idril and her son Eärendil
 
@@ -17,7 +17,7 @@
 
 <53>Being far-sighted she sensed danger and she encouraged Tuor to prepare a secret passage under the city so that if the city was attacked survivors could safely escape. After the Fall of Gondolin, Idril and Tuor became leaders of the exiles at the Mouths of Sirion in West Beleriand in the region of Arvernien, where they also received Elwing, daughter of Dior.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/idril/3.jpg)
+![](idril/3.jpg)
 
 #### Idril Celebrindal
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finarfin/1.jpg)
+![](finarfin/1.jpg)
 
 <53>**Finarfin** was a Ñoldorin Elf of Valinor.
 
@@ -9,7 +9,7 @@
 
 <53>Finarfin was the youngest child and third son of Finwë, High-King of the Ñoldor in Aman, with his second wife Indis of the Vanyar. His elder siblings were Findis, Fingolfin, and Írimë; his elder half-brother was the infamous Ñoldorin High-prince Fëanor, son of Finwë and his first wife Míriel. In YT 1280, Finarfin married Eärwen, the daughter of Olwë, King of the Teleri, which therefore made him related to Thingol, King of Doriath, Olwë's brother. Together, they had four (or five) children: Finrod Felagund, Orodreth (according to the published Silmarillion) Angrod, Aegnor, and an only daughter Galadriel who was the youngest child.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finarfin/2.jpg)
+![](finarfin/2.jpg)
 
 #### Finarfin and Eärwen
 

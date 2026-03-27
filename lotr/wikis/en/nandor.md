@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nandor/1.jpg)
+![](nandor/1.jpg)
 
 <53>The **Nandor** (Quenya; singular Nando) were Elves of Telerin descent, who left the Great Journey from Cuiviénen to Valinor as the Elves reached the Misty Mountains.
 

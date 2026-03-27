@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/1.jpg)
+![](maglor/1.jpg)
 
 <53>**Maglor** was the second son of Fëanor and Nerdanel. He was the greatest poet and minstrel of the Ñoldor and was said to have inherited more of his mother's gentler temperament.
 
@@ -7,7 +7,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/2.jpg)
+![](maglor/2.jpg)
 
 #### Maglor with his brothers and father swear the Oath of Fëanor
 
@@ -15,7 +15,7 @@
 
 <53>Maglor took part in the Kinslaying at Alqualondë, and he made the lament Noldolantë, the Fall of the Noldor, in memory of the terrible event.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/4.jpg)
+![](maglor/4.jpg)
 
 #### Maglor takes pity on the sons of Eärendil
 
@@ -23,7 +23,7 @@
 
 <53>Maglor and his brothers traveled toward the east of Beleriand. Maglor founded the area between the hills surrounding Himring and Blue Mountains, called Maglor's Gap. Years later, the dragon Glaurung passed Maglor's Gap and destroyed the lands about. Maglor and his people fled to Himring to join Maedhros before the Dagor Bragollach took place.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/5.jpg)
+![](maglor/5.jpg)
 
 #### Maglor casts his Silmaril into the sea
 
@@ -31,7 +31,7 @@
 
 <53>Following the taking of the Silmaril by Beren and Lúthien, Maedhros had formed the Union of Maedhros, an alliance between Elves and Men. Under him, Maedhros' host held the east to draw out the army of Angband while Fingon and his host would attack from the west. During the Nírnaeth Arnoediad, Ulfang betrayed the Eldar and Edain. Maglor slew Uldor, son of Ulfang. The Union of Maedhros was broken and though the brethren were all wounded, none were slain. They escaped to Mount Dolmed in the east. After the battle, they took up a woodland life in Ossiriand.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/6.jpg)
+![](maglor/6.jpg)
 
 #### Maglor by the sea
 
@@ -39,7 +39,7 @@
 
 <53>Afterwards, Maglor and his surviving brothers dwelt on Amon Ereb in East Beleriand. Hearing that Elwing, the wife of Eärendil, had escaped from Doriath with the Silmaril and was now living at the Havens of Sirion, the brothers did not act at once, repenting against their destruction of Doriath. But after a time, remembering their oath, they sent messages to the Havens of Sirion that offered friendship while demanding that the Silmaril be returned to them. And when these demands were refused, they mounted an attack on the Havens with their remaining followers, thus perpetrating the Third Kinslaying that resulted from the accursed Oath of Fëanor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maglor/3.jpg)
+![](maglor/3.jpg)
 
 #### Maglor
 

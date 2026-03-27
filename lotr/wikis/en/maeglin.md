@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maeglin/1.jpg)
+![](maeglin/1.jpg)
 
 <53>**Maeglin** was an Elf, the son of Eöl the "Dark Elf" and Aredhel, daughter of Fingolfin. He lived during the First Age of the Sun in Middle-earth, and was a lord of the hidden Elven kingdom of Gondolin. He became infamous for his betrayal of the location of Gondolin to the Dark Lord Morgoth.
 
@@ -7,13 +7,13 @@
 
 ## **Life in Valinor**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maeglin/2.jpg)
+![](maeglin/2.jpg)
 
 #### The death of Eöl and the cursing of Maeglin
 
 <53>Aredhel had left Gondolin to wander through Beleriand, and in the woods of Nan Elmoth, she met Eöl, and stayed with him, eventually giving birth to Maeglin. Eöl gave his child the name Maeglin when he was twelve. His mother told him about Gondolin and its people throughout his childhood and he desired to see his related kin in the Hidden City. He and his mother soon grew weary and discontented with their life in Nan Elmoth and Eöl's strict shunning of the outside world. When Aredhel finally decided to leave Eöl, she took her son (who stole his father's sword, Anguirel, forged of meteor iron) with her and returned to Gondolin. However, Eöl had followed her, and in judgement before Turgon, he attempted to kill Maeglin with a poisoned dart, but hit Aredhel instead. She died, and Eöl was cast down to his death from the city walls.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maeglin/3.jpg)
+![](maeglin/3.jpg)
 
 #### Maeglin outside of Eöl's house in Nan Elmoth
 
@@ -21,7 +21,7 @@
 
 <53>Even though Maeglin was one of the mighty of Gondolin, his greatest desire was to take Turgon's daughter Idril to be his wife. But his desire was in vain, for Idril was his own first cousin, and as such was considered by Elven society to be too close in kinship with Maeglin to allow for any romantic relationship. Additionally, Idril was well aware of Maeglin's thoughts concerning her and despised him for it.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/maeglin/4.jpg)
+![](maeglin/4.jpg)
 
 #### From left to right: Turgon, Idril, and Maeglin
 

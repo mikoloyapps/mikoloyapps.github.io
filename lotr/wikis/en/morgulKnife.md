@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/morgulKnife/1.jpg)
+![](morgulKnife/1.jpg)
 
 #### Aragorn observes the Morgul-blade that the Witch-king used to stab Frodo
 
@@ -7,7 +7,7 @@
 # Description
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/morgulKnife/2.jpg)
+![](morgulKnife/2.jpg)
 
 #### Elrond, Gandalf, and Galadriel discuss the appearance of the Morgul-knife
 
@@ -18,7 +18,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/morgulKnife/3.jpg)
+![](morgulKnife/3.jpg)
 
 #### Morgul-knife
 

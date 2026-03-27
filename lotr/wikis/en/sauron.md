@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/1.jpg)
+![](sauron/1.jpg)
 
 > *"Now Sauron's lust and pride increased, until he knew no bounds, and he determined to make himself master of all things in Middle-earth, and to destroy the Elves, and to compass if he might, the downfall of Númenor. He brooked no freedom nor any rivalry, and he named himself Lord of the Earth. A mask he still could wear so that if he wished he might deceive the eyes of Men, seeming to them wise and fair. But he ruled rather by force and fear, if they might avail; and those who perceived his shadow spreading over the world called him the Dark Lord and named him the Enemy; and he gathered under his government all the evil things of the days of Morgoth that remained on earth or beneath it, and the Orcs were at his command and multiplied like flies."*
 >> \- The Silmarillion
@@ -14,14 +14,14 @@
 
 ## **Years of the Lamps**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/18.jpg)
+![](sauron/18.jpg)
 
 <53>Sauron's original name was **Mairon**. He was the mightiest Maia of the Vala Aulë the Smith, and learned much from Aulë in the ways of smithing and handiwork, becoming a great craftsman, and "mighty in the lore of" Aulë's people. He was among the most powerful Maiar.
 
 <53>During this time, Mairon was as Eru had created him: good and uncorrupted. His greatest virtue was his love of order and perfection, and dislike of anything wasteful. However, this would also prove to be the cause of his downfall, as Mairon saw in Melkor the will and power that would help him achieve his personal ends quicker than if he pursued them alone. However, while Melkor wanted to either control or destroy Middle-earth itself, Mairon's desire was to dominate the minds and wills of its creatures for what he perceived to be their own benefit. To see his marvelous designs through, Mairon sought to increase his innate power and this power in time became the end in itself; so he was ensnared by Melkor, entering his following and soon becoming his (self-centered) 
 chief agent.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/0.jpg)
+![](sauron/0.jpg)
 
 <53>After allying with Morgoth, Mairon maintained apparent fidelity to the Valar, but secretly fed Morgoth information of their dealings. It was only when Morgoth established his strongholds in Middle-earth that Mairon left Valinor and openly declared his allegiance, becoming a recognized foe of the Valar.
 
@@ -31,7 +31,7 @@ chief agent.
 
 ## **First Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/2.jpg)
+![](sauron/2.jpg)
 
 #### Sauron as Morgoth's lieutenant in the First Age
 
@@ -44,7 +44,7 @@ chief agent.
 
 <53>After the Dagor Bragollach in FA 456, Sauron's hunters brought Gorlim and interrogated him about Barahir's (father of Beren) location. Gorlim refused to tell them anything, even under torture, until Sauron himself came forth and bartered with the man. Gorlim asked for his wife Eilinel, whom he thought captured. Thus, Sauron agreed and Gorlim yielded the information. However, Sauron revealed that Eilinel was dead, and he put Gorlim to death afterward. During the Quest for the Silmaril, Beren and Finrod King of Nargothrond were captured by Sauron, who defeated Finrod in a duel with songs of power. He stripped them of their Orc disguises and cast them into the dark pits where werewolves devoured their companions. When a werewolf came to attack Beren, Finrod wrestled with and killed it, but died soon after of his injuries.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/3.jpg)
+![](sauron/3.jpg)
 
 #### Sauron, as a werewolf, defeated by Huan
 
@@ -61,7 +61,7 @@ chief agent.
 
 <53>After remaining hidden and dormant for five centuries, Sauron began revealing himself once more, and by SA 1000 had gathered power and established himself in the land of Mordor, in eastern Middle-earth, and began building the dreaded Barad-dûr near Mount Doom. Soon massive armies of Orcs, Trolls, and other creatures from the days of Morgoth were raised; and Sauron corrupted the hearts of certain nations of Men such as the Easterlings and Haradrim with delusions of power and wealth.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/4.jpg)
+![](sauron/4.jpg)
 
 #### Sauron raised massive armies for his conquest
 
@@ -71,7 +71,7 @@ chief agent.
 
 <53>However, as soon as Sauron put on the Ring the Elves sensed his treachery, and removed their rings and hid them. Enraged, Sauron came against them in open war and demanded that all Rings of Power be given to him. The Elves managed to hide the three greatest of the Rings from him, but the other sixteen Rings of Power were either captured by Sauron, destroyed, or lost. To the Dwarves he had given Seven, but to Men he had given Nine, knowing that they would be the easiest to corrupt. The Dwarf Lords who received the Rings proved to be very resistant to their power, and neither "faded" nor became enslaved to Sauron's will. The Rings, however, created in them an insatiable lust for gold, which ultimately caused a great deal of grief for the Dwarves.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/5.jpg)
+![](sauron/5.jpg)
 
 #### The One Ring worn by Sauron
 
@@ -83,7 +83,7 @@ chief agent.
 
 ## Life in Númenor
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/6.jpg)
+![](sauron/6.jpg)
 
 #### Depiction of Sauron as a priest of Melkor in Númenor
 
@@ -93,7 +93,7 @@ chief agent.
 
 ## Loss of the Ring
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/7.jpg)
+![](sauron/7.jpg)
 
 #### Sauron defeated, after the One Ring was cut from his hand
 
@@ -103,7 +103,7 @@ chief agent.
 
 ## **Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/8.jpg)
+![](sauron/8.jpg)
 
 #### Sauron's appearance as "the Necromancer"
 
@@ -116,7 +116,7 @@ chief agent.
 
 <53>In the year TA 1000, Sauron at last began to rise again, occupying the stronghold of Dol Guldur, the Hill of Sorcery, in southern Mirkwood in TA 1050. There, he used the guise of a dreaded sorcerer known as "the Necromancer", and the Elves did not realize at first that he was actually the hidden Dark Lord.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/9.jpg)
+![](sauron/9.jpg)
 
 #### The Ringwraiths in The Fellowship of the Ring
 
@@ -130,7 +130,7 @@ chief agent.
 
 ## War of the Ring
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/10.jpg)
+![](sauron/10.jpg)
 
 #### Aragorn reveals himself to Sauron through the palantí
 
@@ -140,7 +140,7 @@ chief agent.
 
 <53>Meanwhile, Sauron lured Saruman the White, one of the Istari, into his service, and used him to try to destroy Rohan, one of the major obstacles to Sauron's conquest of Gondor and the remaining Elves. Saruman failed however, and Sauron lost one of his most powerful vassals as well as Saruman's large Uruk-hai army.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/11.jpg)
+![](sauron/11.jpg)
 
 #### Barad-dûr's downfall
 
@@ -150,7 +150,7 @@ chief agent.
 
 ## Downfall
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/12.jpg)
+![](sauron/12.jpg)
 
 #### Sauron's fair disguise as "Annatar"
 
@@ -159,7 +159,7 @@ chief agent.
 
 <53>Despite their successful repulse of Sauron's armies at Minas Tirith, Gandalf and Aragorn knew that the bulk of Sauron's forces remained in Mordor, readying themselves for another, deadlier strike against the city. Filled as Mordor was with Sauron's troops, Frodo Baggins stood almost no chance of reaching Mount Doom undetected. In light of the situation, Aragorn called for a council consisting of the major commanders of all the forces present in Minas Tirith, and appointed Gandalf to be their commander until the crisis had passed. Gandalf made it clear to all those present that, despite their great victory, they ultimately could not hope to defeat Sauron's armies by force. Therefore, they had two options available. They could station their remaining force, considerably greater than it had been before the battle due to the reinforcements from Rohan and southern Gondor, at Minas Tirith and hope to endure Sauron's next attack. Or, they could take a force to the Black Gate and attempt to challenge Sauron directly. This force, as Gandalf suggested, would only need to be great enough to offer battle, and the rest of their forces could remain behind to garrison Minas Tirith. This option, though suicidal for those involved, would serve to distract Sauron from gazing into his own land, through which the Ring Bearer would be traveling. Furthermore, Gandalf theorized that, once Sauron learned that a force too small to pose any real threat to him was on its way to the Black Gate to directly assault Mordor, he would likely believe that the leader of the attacking force would have the One Ring in their possession. Sauron would assume that the Ring itself would influence its wielder, who, in his pride and over-confidence in his newfound power, might be foolish enough to challenge Sauron's might with a force too small to assault Mordor in earnest.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/13.jpg)
+![](sauron/13.jpg)
 
 #### Depiction of Mordor's coat-of-arms, with the Eye of Sauron
 
@@ -173,7 +173,7 @@ chief agent.
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/14.jpg)
+![](sauron/14.jpg)
 
 #### The Eye of Sauron
 
@@ -181,7 +181,7 @@ chief agent.
 
 <53>Among Sauron's chief powers were deception and disguise: In the First Age Sauron took on many forms. During his battle against Lúthien and Huan in The Silmarillion, he took on no less than four separate shapes: his "normal" shape, (some kind of terrible dark sorcerer), a great wolf, a serpent, and finally a vampire "dripping blood from his throat upon the trees" ("Of Beren and Lúthien," The Silmarillion). At the end of the First Age, Sauron took on a fair form to appeal to the Captain of the Host of the Valar and ask for pardon. In the Second Age, Sauron took up that fair form again and used it under the alias "Annatar" to deceive the Elves into creating the Rings of Power. The level of deception required to fool the Elves of Eregion must have gone beyond simply taking on a fair form, since Sauron was literally instructing the Elves to make artifacts that, while capable of great good, were ultimately purposed for his own domination and were imbued with power to arrest the natural order of the world, yet the Elves were unaware of who they were dealing with until the eleventh hour, and only narrowly escaped his trap. Centuries later, Sauron was able to deceive the Númenóreans and steer them directly to their own destruction under promises of eternal life. Such destruction is a testament to Sauron's manipulative nature and ability to twist the perceptions of his enemies.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/15.jpg)
+![](sauron/15.jpg)
 
 #### Sauron, disguised as Annatar, with the newly-forged One Ring
 
@@ -197,7 +197,7 @@ chief agent.
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/17.jpg)
+![](sauron/17.jpg)
 
 <53>The symbol of Sauron was the Eye of Sauron, particularly after he arose in Mirkwood at Dol Guldur. In The Lord of the Rings it is called also the Great Eye, the Eye of Barad-dûr, the Red Eye, the Lidless Eye, and the Evil Eye. It is clearly an exemplification of the Dark Lord's apparent all-seeing and all-knowing nature, stemmed by his vain belief in his god-king omnipotence.
 
@@ -207,7 +207,7 @@ chief agent.
 
 <53>Despite being the title character of The Lord of the Rings, Sauron is notable for never directly appearing during the events of the trilogy. Nowhere is any detailed description given of what he looks like, other than in vague terms.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sauron/16.jpg)
+![](sauron/16.jpg)
 
 #### Sauron in his Dark Lord appearance
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finduilas/1.jpg)
+![](finduilas/1.jpg)
 
 #### Nargothrond - Turin and Finduilas
 
@@ -11,7 +11,7 @@
 
 <53>In 472 of the First Age, Gwindor was captured during the Nírnaeth Arnoediad by Morgoth, and when he returned in FA 490 he came with a companion who called himself Agarwaen son of Umarth (the Bloodstained, son of Ill-Fate). Unbeknownst to Finduilas, this was actually Túrin, son of Húrin. Despite her old feelings for Gwindor, Finduilas fell in love with Túrin, but Túrin refused her in respect for his friend. Gwindor realized this, and revealed Túrin's name to Finduilas and tried to let Túrin fall in love with Finduilas, since he realized Finduilas loved Túrin instead of him.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finduilas/2.jpg)
+![](finduilas/2.jpg)
 
 #### Finduilas in Nargothrond
 

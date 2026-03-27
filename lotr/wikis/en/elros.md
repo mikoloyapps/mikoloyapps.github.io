@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elros/1.jpg)
+![](elros/1.jpg)
 
 #### And Maglor took pity on them
 
@@ -15,7 +15,7 @@
 
 ## **Second Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elros/2.jpg)
+![](elros/2.jpg)
 
 #### Elrond and his brother Elros with Maglor
 

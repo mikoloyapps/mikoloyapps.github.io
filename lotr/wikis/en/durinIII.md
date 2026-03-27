@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/durinIII/1.jpg)
+![](durinIII/1.jpg)
 
 #### Durin III in The Rings of Power
 
@@ -9,7 +9,7 @@
 
 <53>As a descendant of Durin I who bore the same name, Durin III was considered by many Dwarves to be the reincarnation of the original Durin due to the great similarity in appearance and manner.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/durinIII/2.jpg)
+![](durinIII/2.jpg)
 
 #### Durin III in The Fellowship of the Ring
 

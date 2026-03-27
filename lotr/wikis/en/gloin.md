@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gloin/1.jpg)
+![](gloin/1.jpg)
 
 #### Thorin - Gloin - Oin - Balin
 
@@ -11,7 +11,7 @@
 
 ## **Early Life**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gloin/2.jpg)
+![](gloin/2.jpg)
 
 #### Glóin, as portrayed by Peter Hambleton
 
@@ -23,7 +23,7 @@
 
 ## **Quest of Erebor**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gloin/3.jpg)
+![](gloin/3.jpg)
 
 #### Gloin and Oin
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wraithWorld/0.jpg)
+![](wraithWorld/0.jpg)
 
 <53>The **wraith-world** was the unseen realm in which cursed spirits such as the Ringwraiths had form.
 

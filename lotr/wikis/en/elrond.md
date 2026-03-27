@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/1.jpg)
+![](elrond/1.jpg)
 
 > *"The face of Elrond was ageless, neither old nor young, though in it was written the memory of many things both glad and sorrowful. His hair was dark as the shadows of twilight, and upon it was set a circlet of silver; his eyes were grey as a clear evening, and in them was a light like the light of stars. Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior in the fulness of his strength. He was the Lord of Rivendell and mighty among both Elves and Men."*
 >> \- The Fellowship of the Ring
@@ -10,7 +10,7 @@
 
 ## **First Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/2.jpg)
+![](elrond/2.jpg)
 
 #### Maglor raising Elrond
 
@@ -20,7 +20,7 @@
 
 <53>Elrond and Elros were given the choice at the end of the First Age to be counted among Men or Elves. Elros chose the Fate of Men and became Elros Tar-Minyatur, the first King of Númenor. Elrond chose to be counted among the Elves, and remained in Lindon as captain and herald of Gil-galad, the High King of the Ñoldor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/3.jpg)
+![](elrond/3.jpg)
 
 #### Elrond in battle during the War of the Last Alliance
 
@@ -28,7 +28,7 @@
 
 <53>With the arrival of the Númenóreans the army besieging Rivendell was caught between the forces of Gil-galad and Elrond and destroyed. Elrond remained in Rivendell and hosted the first White Council, attended by Galadriel, at which it was decided that Elrond's home, the Last Homely House, would remain the last stronghold west of the Misty Mountains, and that the Three Rings then held by Gil-galad and Galadriel would remain hidden. According to one account Gil-galad at this time gave Elrond Vilya the Blue Ring, though in other accounts Gil-galad kept both Narya and Vilya until the end of the Second Age. It was also here that Elrond first met Celebrían, the daughter of Celeborn and Galadriel.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/4.jpg)
+![](elrond/4.jpg)
 
 #### Elrond in Rivendell at the time of the Quest of Erebor
 
@@ -38,7 +38,7 @@
 
 ## **Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/5.jpg)
+![](elrond/5.jpg)
 
 #### Elrond departs Middle-earth
 
@@ -48,7 +48,7 @@
 
 <53>He also was a member of the White Council, which was often held in Rivendell, and was a great friend of Gandalf the Grey. He helped Thorin II Oakenshield's expedition to retake the Lonely Mountain by discovering and translating the Moon Writing on Thorin's map.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/6.jpg)
+![](elrond/6.jpg)
 
 #### Elrond as he appears in The Hobbit: The Battle of the Five Armies
 
@@ -58,7 +58,7 @@
 
 <53>Five months later, Elrond sent his sons Elladan and Elrohir with the Rangers of the North to Rohan. Through his sons, Elrond advised Aragorn to take the Paths of the Dead.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/7.jpg)
+![](elrond/7.jpg)
 
 #### Elrond in Amazon's "The Lord of the Rings: The Rings of Power"
 
@@ -70,7 +70,7 @@
 
 <53>Elrond was a skillful warrior in battle and had commanded various Elven armies, including the Last Alliance. He was just as effective at leadership and gave much wise counsel. He had the gift of foresight through which he could view lands and events far away from Rivendell. He was also adept at healing others, though whether through medical knowledge or magic isn't known. The latter may be more probable in that Elrond managed to cure a Morgul wound, something which is almost invariably fatal due to its association with dark sorcery. While it is unknown just how powerful Elrond was compared to other Elf Lords, he certainly held vast potential, being descended from the angelic Maia Melian and being the wielder of the ring of power Vilya. A notable demonstration included Elrond summoning a great flood on the River Bruinen to sweep away the Nazgûl. Elrond was also familiar with ósanwe, the skill of entering others' minds. After the destruction of the One Ring Elrond communicated mentally with Galadriel and Gandalf on their return journey from Minas Tirith.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elrond/8.jpg)
+![](elrond/8.jpg)
 
 #### Elrond and Celebrimbor approach the West-gate of Khazad-dûm
 

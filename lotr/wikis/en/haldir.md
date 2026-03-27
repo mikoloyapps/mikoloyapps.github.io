@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/haldir/1.jpg)
+![](haldir/1.jpg)
 
 #### "The Dwarf breathed so loudly we could have shot him in the dark"
 
@@ -11,13 +11,13 @@
 
 ## **Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/haldir/2.jpg)
+![](haldir/2.jpg)
 
 #### Haldir fighting in Helm's Deep, on the Deeping Wall
 
 <53>On January 15, 3019, Haldir and fellow guards encountered the Fellowship near the Nimrodel in the eaves of the forest. Haldir was able to speak to the Fellowship, for he knew the Common Tongue. He welcomed Legolas as a distant kinsman from the north (Mirkwood), and recognized Aragorn as a friend to Lady Galadriel. He was prepared to lead the Fellowship into Lórien, but hesitated upon learning that one of the party was a Dwarf. After consulting with his brothers, Haldir agreed that Gimli could enter if he went blindfolded. The fellowship then insisted that if one of them had to go blindfolded, they all would. The brothers reluctantly agreed, and then led them into the forest.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/haldir/3.jpg)
+![](haldir/3.jpg)
 
 #### Haldir meets his end
 
@@ -25,7 +25,7 @@
 
 <53>In the morning, Haldir fashioned a rope bridge for the Fellowship to use to cross the Silverlode. Haldir learned from Merry Brandybuck that the Grey Havens lay west of the Shire, and he spoke longingly of the sea, but sadly of the time when he and his kin would have to leave Lórien. When news came that the Fellowship's blindfolds could be removed, Haldir apologized to Gimli and welcomed him as the first Dwarf to enter Lórien since the time of Durin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/haldir/4.jpg)
+![](haldir/4.jpg)
 
 #### Haldir and his Elves of Lorien
 

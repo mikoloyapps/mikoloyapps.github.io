@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/1.jpg)
+![](legolas/1.jpg)
 
 > *"Nay, time does not tarry ever, but change and growth is not in all things and places alike. For the Elves the world moves, and it moves both very swift and very slow."*
 >> \- Legolas, speaking to Frodo in The Fellowship of the Ring
@@ -14,7 +14,7 @@
 
 ## **War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/2.jpg)
+![](legolas/2.jpg)
 
 #### Legolas in combat with the Goblins during the Skirmish in Balin's Tomb
 
@@ -24,7 +24,7 @@
 
 <53>Gimli quarreled with him in Moria (which was not unexpected considering the ancient quarrel between Elves and Dwarves) - Legolas' father Thranduil had once imprisoned Gimli's father, Glóin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/3.jpg)
+![](legolas/3.jpg)
 
 #### Legolas and Gimli at Helm's Deep
 
@@ -37,7 +37,7 @@
 > *"Legolas Greenleaf, long under tree, In joy thou hast lived. Beware of the Sea! If thou hearest the cry of the gull on the shore, Thy heart shall then rest in the forest no more."*
 >> \- Galadriel's message to Legolas
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/9.jpg)
+![](legolas/9.jpg)
 
 #### Legolas confronts Thorin and Company
 
@@ -48,7 +48,7 @@
 > *"The Dead are following. I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."*
 >> \- Legolas in the Paths of the Dead
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/6.jpg)
+![](legolas/6.jpg)
 
 #### Legolas in Parth Galen
 
@@ -65,7 +65,7 @@
 
 ## **After the war**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/4.jpg)
+![](legolas/4.jpg)
 
 #### Legolas and Gimli sail to Valinor
 
@@ -75,7 +75,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/5.jpg)
+![](legolas/5.jpg)
 
 #### Young Legolas
 
@@ -87,7 +87,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/7.jpg)
+![](legolas/7.jpg)
 
 #### Legolas' Bow of the Galadhrim
 
@@ -97,7 +97,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/legolas/8.jpg)
+![](legolas/8.jpg)
 
 #### Legolas' dual long knives that were used in the films (One in the books)
 

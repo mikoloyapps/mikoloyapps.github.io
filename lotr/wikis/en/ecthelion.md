@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ecthelion/1.jpg)
+![](ecthelion/1.jpg)
 
 #### Ecthelion of the Fountain vs Gothmog Lord of the Balrogs
 
@@ -13,7 +13,7 @@
 
 ## **Aredhel's escort**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ecthelion/2.jpg)
+![](ecthelion/2.jpg)
 
 #### Ecthelion and Glorfindel
 
@@ -23,7 +23,7 @@
 
 <53>In the year, FA 473 Ecthelion fought alongside Turgon in the battle Nírnaeth Arnoediad, leading a wing of Gondolin's forces. Upon the defeat of the Ñoldor, he defended a flank as Turgon retreated.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ecthelion/3.jpg)
+![](ecthelion/3.jpg)
 
 #### Ecthelion preparing to face Gothmog during the Fall of Gondolin
 
@@ -38,7 +38,7 @@
 
 ## **Warcry of the Eldar**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ecthelion/4.jpg)
+![](ecthelion/4.jpg)
 
 #### Echthelion faces Gothmog
 

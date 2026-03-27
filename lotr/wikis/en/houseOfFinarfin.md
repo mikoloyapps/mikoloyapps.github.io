@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/houseOfFinarfin/1.jpg)
+![](houseOfFinarfin/1.jpg)
 
 #### The Children of Finarfin
 

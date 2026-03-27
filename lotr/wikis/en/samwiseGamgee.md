@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/1.jpg)
+![](samwiseGamgee/1.jpg)
 
 > *"I know we are going to take a very long road, into darkness; but I know I can't turn back. It isn't to see Elves now, nor dragons, nor mountains, that I want I don't rightly know what I want: but I have something to do before the end, and it lies ahead, not in the Shire."*
 >> \- The Fellowship of the Ring
@@ -13,13 +13,13 @@
 
 ## **Early life**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/2.jpg)
+![](samwiseGamgee/2.jpg)
 
 <53>Sam was the youngest son of Hamfast and Bell Gamgee, and had many brothers and sisters. A gardener by trade, Sam seemed to be a simple Hobbit of plain speech. However, his love for Elves, his gift for poetry, and his belief that the world contained greater wonders than most hobbits were aware of (all nurtured by his tutor Bilbo Baggins) set him apart from the beginning. It was Sam who first introduced (in J.R.R. Tolkien's novels) the theme of the Elves sailing from Middle-earth, a subtle foreshadowing of Bilbo and Frodo's final journey across the sea from the Grey Havens. He lived with his father, Hamfast Gamgee, known commonly as "The Gaffer", on Bagshot Row in the Shire, close to Bag End. He had five siblings: Hamson, Halfred, Daisy, May, and Marigold.
 
 ## **Quest of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/3.jpg)
+![](samwiseGamgee/3.jpg)
 
 #### Sam and Frodo
 
@@ -29,7 +29,7 @@
 
 <53>After Shelob attacked and seemingly killed Frodo, Sam took the Ring, intending to complete the quest on his own. Because he held the Ring for a time, he was considered one of the Ring-bearers and during the time he possessed it the Ring tempted him with visions of a great garden all for himself. Being humble, Sam never gave into the treacherous visions and temptations of the Ring, and returned it when he discovered Frodo alive in the Tower of Cirith Ungol. He and Bilbo were the only ones ever to have given up the Ring willingly, and only Sam surrendered it readily.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/8.jpg)
+![](samwiseGamgee/8.jpg)
 
 #### Sam confronts Shelob with the Phial of Galadriel in Peter Jackson's third film
 
@@ -37,7 +37,7 @@
 
 <53>Sam and Frodo made their way to Mount Doom, disguised as Orcs along the way. The way to Mount Doom was filled with fiery rocks and pillows of ash which made it almost impossible for the hobbits to pass. When Frodo collapsed from weakness, Sam carried him up the slopes of Mount Doom, only to be stopped by Gollum. Sam delayed Gollum while Frodo continued towards the Cracks of Doom. Sam then rushed to follow Frodo, only to see Frodo renounce the quest and claim the Ring as his own, putting it on his finger. Unbeknownst to Sam, Gollum had followed in his tracks, and attacked him from behind. In the moments while Sam was dazed, Gollum attacked Frodo, and after a brief struggle took the Ring by force by biting off Frodo's finger. Gollum began to celebrate regaining the Ring, but in doing so slipped and fell to his death in the fiery chasm below, destroying the Ring in the process.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/4.jpg)
+![](samwiseGamgee/4.jpg)
 
 #### Sam carries Frodo to the entrance of Mount Doom
 
@@ -49,7 +49,7 @@
 
 ## **After the War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/5.jpg)
+![](samwiseGamgee/5.jpg)
 
 #### Sam and Rosie at their wedding
 
@@ -57,7 +57,7 @@
 
 ## **Later years**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/6.jpg)
+![](samwiseGamgee/6.jpg)
 
 #### Sam with Elanor, Rosie & his son Frodo
 
@@ -72,7 +72,7 @@
 > *"The choice of Gamgee was primarily directed by alliteration; but I did not invent it. It was caught out of childhood memory, as a comic word or name. It was in fact the name when I was small (in Birmingham) for 'cotton-wool'. (Hence the association of the Gamgees with the Cottons.) I knew nothing of its origin."*
 >> \- The Letters of J.R.R. Tolkien
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/samwiseGamgee/7.jpg)
+![](samwiseGamgee/7.jpg)
 
 #### Sam Gamgee as portrayed in Peter Jackson's films
 

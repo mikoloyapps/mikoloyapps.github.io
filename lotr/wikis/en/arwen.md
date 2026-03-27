@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/arwen/1.jpg)
+![](arwen/1.jpg)
 
 >*"For I am the daughter of Elrond. I shall not go with him when he departs to the Havens: for mine is the choice of Lúthien, and as she so have I chosen, both the sweet and the bitter."*
 >> \- The Return of the King
@@ -17,7 +17,7 @@
 
 ## Aragorn and Arwen
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/arwen/2.jpg)
+![](arwen/2.jpg)
 
 #### Queen Arwen and King Aragorn Elessar are wed in The Lord of the Rings: The Return of the King
 
@@ -25,7 +25,7 @@
 
 <53>About thirty years later, the two were reunited in Lórien, where Arwen reciprocated Aragorn's love and they "plighted their troth" (promised themselves to each other) on the mound of Cerin Amroth, Arwen choosing to become mortal and to stay in Middle-earth with Aragorn, and giving up the chance to sail over the sea and live forever in the Blessed Realm. Nonetheless Elrond would not permit the two to marry until Aragorn had taken the thrones of Arnor and Gondor, the price for Arwen's abandonment of immortality. Arwen never broke faith with Aragorn, even when he went to war. While the War in the South raged on, Arwen wove a banner for Aragorn, which would become his standard after he became king.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/arwen/3.jpg)
+![](arwen/3.jpg)
 
 #### Elrond learns of Arwen's choice to become mortal
 
@@ -43,7 +43,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/arwen/4.jpg)
+![](arwen/4.jpg)
 
 #### Arwen takes up the task of delivering Frodo to Rivendell
 
@@ -58,7 +58,7 @@
 
 <53>Arwen was the youngest child of Elrond and Celebrían; her elder brothers were the twins Elladan and Elrohir. Through her father, she was the granddaughter of Eärendil the Mariner (the second of the Half-elven), great-granddaughter of Tuor of Gondolin, and therefore a direct descendant of the ancient House of Hador. Arwen was also a descendant of High King Turgon of the Ñoldor through her great-grandmother, Idril. Through her mother, she was the granddaughter of the Lady Galadriel and the great-granddaughter of Finarfin. Éomer of Rohan said that the Lady Arwen was more fair than the Lady Galadriel of Lórien, but Gimli son of Glóin thought differently. Through both of her parents Arwen was a direct descendant of the ancient Elven House of Finwë. Furthermore, Arwen was a descendant of Beren and Lúthien Tinúviel, whose story resembled hers. Indeed, Arwen was held to be the reappearance in likeness of her ancestress Lúthien, fairest of all the Elves, who was called Nightingale (Tinúviel).
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/arwen/5.jpg)
+![](arwen/5.jpg)
 
 <53>Arwen was a very distant relative of her husband Aragorn. Aragorn's ancestor, Elros Tar-Minyatur, the first King of Númenor, was her father Elrond's brother, who chose to live as a man rather than one of the Eldar. This means that Aragorn also has very distant Elvish ancestry. Elros died in SA 442, some 3240 years before Arwen was born.
 

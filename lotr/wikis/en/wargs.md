@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wargs/1.jpg)
+![](wargs/1.jpg)
 
 <53>**Wargs** were a breed of wolves who lived in the Misty Mountains. Some were captured and used by Orcs of Isengard and Mordor in the Third Age, and others had an allegiance with the northern goblins. They appear first in The Hobbit, attacking Thorin and Company as they traveled east from the Misty Mountains.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wargs/2.jpg)
+![](wargs/2.jpg)
 
 #### A Warg eyeing Gimli in Peter Jackson's films
 
@@ -11,13 +11,13 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wargs/3.jpg)
+![](wargs/3.jpg)
 
 #### Azog's female white Warg
 
 <53>In TA 2941, a pack of Wargs planned to meet the goblins of the Misty Mountains and organize a raid on several nearby villages, to expel the Woodmen and capture some slaves. As the pack approached the meeting-place east of the mountains, they happened upon Thorin's Company along with Gandalf and Bilbo Baggins, who had just escaped from the same goblins. Gandalf had anticipated this, suggesting the Company climb up a nearby stand of trees. This was done, and Dori helped Bilbo out of the Wargs' reach just in time.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wargs/4.jpg)
+![](wargs/4.jpg)
 
 #### A Warg pack in The Hobbit: An Unexpected Journey
 
@@ -25,7 +25,7 @@
 
 <53>Not long after the news of Smaug’s death spread throughout Middle-earth, Wargs and goblins united to claim the Lonely Mountain as their own, but were defeated by an alliance of Dwarves, Elves, Lake-men, and Great Eagles in the Battle of Five Armies.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/wargs/5.jpg)
+![](wargs/5.jpg)
 
 #### A Warg as seen in The Lord of the Rings: The Two Towers
 

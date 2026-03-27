@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/luthien/1.jpg)
+![](luthien/1.jpg)
 
 #### Beren and Lúthien
 
@@ -9,7 +9,7 @@
 
 ## **Early years**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/luthien/2.jpg)
+![](luthien/2.jpg)
 
 #### Beren fell in love when he saw Lúthien dance
 
@@ -27,7 +27,7 @@
 
 ## **The Quest for the Silmaril**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/luthien/3.jpg)
+![](luthien/3.jpg)
 
 #### Beren lies dying in Lúthien's arms
 
@@ -37,7 +37,7 @@
 
 ## **Later years**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/luthien/4.jpg)
+![](luthien/4.jpg)
 
 #### Lúthien sings before Mandos
 

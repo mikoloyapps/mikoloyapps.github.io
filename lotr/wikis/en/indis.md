@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/indis/1.jpg)
+![](indis/1.jpg)
 
 #### Finwë and Indis
 

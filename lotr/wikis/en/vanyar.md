@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/vanyar/0.jpg)
+![](vanyar/0.jpg)
 
 #### Ingwë, the King of the Vanyar and High King of the Elves
 

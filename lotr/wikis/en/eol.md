@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/eol/1.jpg)
+![](eol/1.jpg)
 
 #### Aredhel and Eöl
 
@@ -13,7 +13,7 @@
 
 <53>Eöl forged a suit of armor out of galvorn to which he wore and kept. He lived in Nan Elmoth, a forest in Beleriand to which he appointed himself Lord and built a home there. He forged poisoned javelins and stayed isolated in his land for many years until the arrival of Aredhel.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/eol/2.jpg)
+![](eol/2.jpg)
 
 #### Eöl welcomes Aredhel
 

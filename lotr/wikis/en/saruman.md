@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/1.jpg)
+![](saruman/1.jpg)
 
 > *"Once he was as great as his fame made him. His knowledge was deep, his thought was subtle, and his hands marvelously skilled; and he had a power over the minds of others. The wise he could persuade, and the smaller folk he could daunt. That power he certainly still keeps. There are not many in Middle-earth that I should say were safe, if they were left alone to talk with him, even now when he has suffered a defeat. Gandalf, Elrond, and Galadriel, perhaps, now that his wickedness has been laid bare, but very few others."*
 >> \- Aragorn II Elessar, *"The Two Towers"*
@@ -12,7 +12,7 @@
 
 ## **Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/2.jpg)
+![](saruman/2.jpg)
 
 #### Depiction of Saruman as the Maia Curumo, before leaving Valinor
 
@@ -22,7 +22,7 @@
 
 ## Arrival in Middle-earth
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/3.jpg)
+![](saruman/3.jpg)
 
 #### The arrival of the Istari in Middle-earth
 
@@ -32,7 +32,7 @@
 
 ## The White Council
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/4.jpg)
+![](saruman/4.jpg)
 
 #### Saruman the White
 
@@ -40,7 +40,7 @@
 
 ## At Isengard
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/5.jpg)
+![](saruman/5.jpg)
 
 #### Saruman making a bomb in his tower
 
@@ -51,7 +51,7 @@
 
 <53>In TA 2850, Gandalf entered Dol Guldur and confirmed that the evil presence was indeed Sauron. On Saruman's advice, the White Council decided against attacking Dol Guldur. Gandalf would later remark that it was at this council meeting that he first began to suspect that Saruman desired to possess the One Ring. Saruman's real intention was to permit Sauron to build up his strength, so that the One Ring would reveal itself. He later found that Sauron had more knowledge of the possible location of the One Ring than he expected, and in TA 2941, Saruman finally agreed to attack Dol Guldur. The attack was successful, and by the devices of Saruman, Sauron was driven from the fortress.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/6.jpg)
+![](saruman/6.jpg)
 
 #### Saruman looks down upon Gandalf from the Pinnacle of Orthanc
 
@@ -61,7 +61,7 @@
 
 ## The Beginning of the End
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/7.jpg)
+![](saruman/7.jpg)
 
 #### Saruman's staff broken by Gandalf
 
@@ -69,7 +69,7 @@
 
 <53>By another account, Saruman only discovered that Gandalf had escaped when the Nazgûl arrived. He had been, according to this account, about to beg Gandalf for forgiveness and help, only to find him gone. To evade the danger at hand and enticed by the thought of being Sauron's servant alone or gaining the Ring, he pretended that Gandalf was still there and that the latter had just been forced to tell the location of the Shire. The Nazgûl later learned that Saruman knew far more than he had revealed. On their way to the Shire, the Nazgûl met one of the wizard's informants in Eriador, from whom they got detailed maps of the Shire made by Saruman. They sent the spy back to the Shire after warning him that he was now in the service of Mordor (the Dunlending in the Inn of The Prancing Pony).
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/8.jpg)
+![](saruman/8.jpg)
 
 #### Saruman falling to his death from Orthanc
 
@@ -77,7 +77,7 @@
 
 ## Power destroyed
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/9.jpg)
+![](saruman/9.jpg)
 
 #### Saruman and Gríma Wormtongue in the Tower of Orthanc in the films
 
@@ -90,7 +90,7 @@
 
 ## Final fall
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/10.jpg)
+![](saruman/10.jpg)
 
 #### Saruman as he appears in the Guardians of Middle-earth
 
@@ -98,13 +98,13 @@
 
 ## Legacy
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/11.jpg)
+![](saruman/11.jpg)
 
 <53>After his departure from Orthanc, King Elessar entered the tower with the intent of re-ordering it. Inside, Elessar's men found many treasures that Saruman had conned off of King Théoden. There was a secret closet that could only be found with the aid of Gimli; it contained the original Elendilmir, which had presumed to be lost forever when Isildur perished in the Gladden Fields, as well as a golden chain which was presumed to have once borne the One Ring.
 
 ## Fate
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/12.jpg)
+![](saruman/12.jpg)
 
 <53>Saruman, being a Maia, did not truly die. His spirit separated from his body much like his master Sauron's after the Downfall of Númenor. As an incorporeal spirit, he should have been called to the Halls of Mandos, but the tale implies that he was barred from returning. Tolkien indicated that his spirit was left naked, powerless and wandering, never to return to Middle-earth:
 
@@ -129,7 +129,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/saruman/13.jpg)
+![](saruman/13.jpg)
 
 <53>Saruman's status as chief of the Wizards and head of the White Council (before Gandalf) gave him arsenal to a variety of powers. Though he would eventually be defeated by Gandalf the White, Saruman was very mighty indeed at the peak of his power and he managed to imprison Gandalf the Grey. Gandalf described Saruman as an individual of great knowledge, cunning, and skill. He was capable of breeding his own Uruk-hai, and had many spies, be they walking on two legs or birds, that evaded detection. He was extremely learned in Ringlore and mechanics, and his knowledge enabled him to create great forges and explosives that could breach the walls of Helm's Deep and burn an Ent to death. Unfortunately, it was Saruman's extensive knowledge of the Rings of Power that was one of the reason leading to his downfall, as he became enamored of the power of the rings, and particularly the One Ring.
 

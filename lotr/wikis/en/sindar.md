@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sindar/1.jpg)
+![](sindar/1.jpg)
 
 <53>The **Sindar** (Q.: "Grey Ones"), singular **Sinda**, also known as the **Grey-elves**, were a sub-group of the Telerin Elves, who chose to stay in Beleriand and thus did not complete the Great Journey to Aman. These Elves were likely considered "grey" by the Ñoldorin Exiles because they were neither Elves of the Light, having never set foot in the Undying Lands, nor Avari, or the Elves of Darkness, setting out on the journey and therefore counting among the Eldar. Eventually, the Sindar were reconsidered as Úmanyar, or the Elves of the Twilight, along with their Nandorin brethren, some of whom became the Laiquendi of Ossiriand.
 
@@ -9,7 +9,7 @@
 
 <53>The Teleri were the greatest host of the Eldar. They had two kings, the brothers Elwë Singollo (or Elu Thingol as he was later known in the Sindarin tongue) and Olwë. When the Teleri reached Beleriand during the Great Journey from Cuiviénen, Thingol went wandering in the forests. In the forest of Nan Elmoth he met Melian, one of the Maiar. They fell in love, and with Melian, Thingol stood spellbound in Nan Elmoth for several years.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sindar/2.jpg)
+![](sindar/2.jpg)
 
 #### Thranduil, the Sindar Elf
 
@@ -19,7 +19,7 @@
 
 <53>Yet other stray bands of Teleri settled in Nevrast and Hithlum to the north of Eglador, although these did not form any realms. The Teleri of Eglador, the northlands, and the Falas were also known as Sindar, in later days, because they developed a civilisation all their own, which almost equalled that of the Calaquendi.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sindar/0.jpg)
+![](sindar/0.jpg)
 
 #### A Sindarin flautist of Doriath
 

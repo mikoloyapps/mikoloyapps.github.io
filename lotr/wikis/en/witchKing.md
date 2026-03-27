@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/1.jpg)
+![](witchKing/1.jpg)
 
 > *"Upon it sat a shape, black-mantled, huge and threatening. A crown of steel he bore, but between rim and robe naught was there to see, save only a deadly gleam of eyes: the Lord of the Nazgûl... now he was come again, bringing ruin, turning hope to despair, and victory to death. A great black mace he wielded. "*
 >> \- The Return of the King
 
 <53>The **Witch-king of Angmar**, also known as the **Lord of the Nazgûl**, was the leader of the Nazgûl (Ringwraiths) and Sauron's second-in-command during the Second and Third Ages of Middle-earth.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/2.jpg)
+![](witchKing/2.jpg)
 
 #### Witch-king and his Nazgûl
 
@@ -18,7 +18,7 @@
 
 ## **The Second Age: the Nine Rings and the advent of the Nazgûl**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/3.jpg)
+![](witchKing/3.jpg)
 
 #### The Witch-king is gifted his Ring of Power as a human
 
@@ -28,7 +28,7 @@
 
 ## **The Third Age: return and the arising of Angmar**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/4.jpg)
+![](witchKing/4.jpg)
 
 #### The Witch-king's true undead appearance in the first Lord of the Rings film
 
@@ -38,7 +38,7 @@
 
 ## **The Witch-king's conquest of the North**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/5.jpg)
+![](witchKing/5.jpg)
 
 #### The Witch-king in his throne of Angmar
 
@@ -46,7 +46,7 @@
 
 <53>Now, the only resistance against his forces was the Kingdom of Arthedain. The Witch-king's armies invaded Arthedain and came close to destroying it, but King Araphor with the help of the Elves of Lindon and Rivendell managed to defend the capital, Fornost Erain, and drive back the invaders.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/6.jpg)
+![](witchKing/6.jpg)
 
 <53>An uneasy peace descended, but the deathless Lord of the Nazgûl could wage his war over hundreds of years. After the last surviving Dúnedain of Cardolan died in TA 1636, he sent evil wights to the Barrow-downs in order to prevent the rebirth of that kingdom. Ultimately, in TA 1974 the Witch-king claimed victory in the north, when his forces captured Fornost Erain. With its fall, the final bastion of the old North-kingdom collapsed, and although Arvedui Last-King attempted to escape via the far north he was drowned in the Icebay of Forochel and the last remnants of the realm of Arnor were extinguished.
 
@@ -54,7 +54,7 @@
 
 ## **The Battle of Fornost**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/7.jpg)
+![](witchKing/7.jpg)
 
 #### Minas Morgul, the final seat of the Witch-king
 
@@ -68,7 +68,7 @@
 
 ## **Return to Mordor and the rise of Minas Morgul**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/8.jpg)
+![](witchKing/8.jpg)
 
 #### The Witch-king at Barad-dûr
 
@@ -76,7 +76,7 @@
 
 <53>In TA 2043, King Eärnil II of Gondor passed away and his son Eärnur, the Witch-king's old foe, inherited the throne. Upon his coronation, the Lord of the Nazgûl challenged the new king to single combat, but Eärnur refused. However, seven years later in TA 2050 he challenged Eärnur again, and Eärnur accepted. Gondor's king rode out of Minas Tirith to meet his enemy in combat at Minas Morgul. He entered and was never seen again. Thus ended the reign of the Kings of Gondor and the rule of the Stewards of Gondor began. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur to avoid the investigations of Gandalf and hid in the East, and the Nazgûl remained quiet in Minas Morgul for the next 400 years.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/9.jpg)
+![](witchKing/9.jpg)
 
 #### The Lord of the Nazgûl during the Battle of the Pelennor Fields
 
@@ -86,7 +86,7 @@
 
 ## **The War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/11.jpg)
+![](witchKing/11.jpg)
 
 #### The Witch-king confronts Gandalf and Pippin in Minas Tirith
 
@@ -98,7 +98,7 @@
 
 ## Siege of Gondor
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/12.jpg)
+![](witchKing/12.jpg)
 
 #### The Witch-king fights Radagast
 
@@ -110,7 +110,7 @@
 
 ## Downfall
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/10.jpg)
+![](witchKing/10.jpg)
 
 #### The Witch-king's last moments
 
@@ -130,7 +130,7 @@
 
 ## Aftermath
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/13.jpg)
+![](witchKing/13.jpg)
 
 #### The Witch-king's burial in The Hobbit: The Desolation of Smaug
 
@@ -144,7 +144,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/14.jpg)
+![](witchKing/14.jpg)
 
 #### View of the Witch-king's sword and armor
 
@@ -162,7 +162,7 @@
 
 ## **Broadsword**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/15.jpg)
+![](witchKing/15.jpg)
 
 #### The sword of the Witch-king
 
@@ -180,7 +180,7 @@
 
 ## **Morgul-blade**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/16.jpg)
+![](witchKing/16.jpg)
 
 #### Morgul-Blade
 
@@ -188,7 +188,7 @@
 
 ## **Fellbeast**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/witchKing/17.jpg)
+![](witchKing/17.jpg)
 
 #### The fellbeast as depicted in The Lord of the Rings: The Return of the King
 

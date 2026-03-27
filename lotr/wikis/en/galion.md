@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/galion/1.jpg)
+![](galion/1.jpg)
 
 #### Galion as seen in The Hobbit film
 

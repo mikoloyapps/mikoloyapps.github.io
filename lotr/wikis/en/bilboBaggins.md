@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/1.jpg)
+![](bilboBaggins/1.jpg)
 
 > *"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."*
 >> \- Thorin, to (and about) Bilbo
@@ -14,7 +14,7 @@
 
 ## **Childhood**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/2.jpg)
+![](bilboBaggins/2.jpg)
 
 #### A young Bilbo upon first meeting Gandalf
 
@@ -30,7 +30,7 @@
 
 ## An Unexpected Journey
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/3.jpg)
+![](bilboBaggins/3.jpg)
 
 #### Gandalf invites Bilbo on an "adventure"
 
@@ -38,7 +38,7 @@
 
 <53>Undeterred, Gandalf continued in his plan, sending thirteen Dwarves, led by Thorin Oakenshield, to Bag End the very day. These Dwarves, needing an additional member for their company, initially came by pairs, and lastly with Gandalf, who had himself selected Bilbo as the best person for the Dwarves' job. The Dwarves explained to Bilbo their background and purpose; that they were among the Dwarves of Erebor who had been forced from the Lonely Mountain when the dragon Smaug attacked and taken up residence there. They now had determined to reclaim the mountain and needed a "burglar" to help them in situations requiring stealth. Bilbo reluctantly agreed to go, and the next morning they set off from The Green Dragon Inn.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/4.jpg)
+![](bilboBaggins/4.jpg)
 
 #### Thorin's Company traverses the Lone-lands
 
@@ -48,7 +48,7 @@
 
 ## Discovery of the One Ring
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/5.jpg)
+![](bilboBaggins/5.jpg)
 
 #### Bilbo finds The One Ring
 
@@ -56,7 +56,7 @@
 
 <53>Coming to and finding himself alone, Bilbo crawled his way through the pitch-black tunnel, using his hobbit nose to gain a sense of direction. He eventually stumbled upon a small Ring, but thought nothing of it, and put it in his back pocket. Although he did not know it, this lost trinket was the One Ring, forged by the Dark Lord Sauron thousands of years ago. Bilbo soon encountered Gollum, who had been in possession of the Ring for over five hundred years. The two challenged each other to a game of riddles with the condition that Gollum would show the way out if Bilbo won. However, Gollum was not satisfied with Bilbo's final riddle, and while mourning his loss, found that his Ring was gone. Gollum then realized the answer to Bilbo's riddle, "What have I got in my pocket?" and paddled back on his boat towards Bilbo, who he then accused of stealing his precious, but Bilbo had vanished.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/20.jpg)
+![](bilboBaggins/20.jpg)
 
 #### Bilbo meets Gollum
 
@@ -64,7 +64,7 @@
 
 ## Into Wilderland
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/6.jpg)
+![](bilboBaggins/6.jpg)
 
 #### Bilbo and Gandalf with Beorn
 
@@ -72,7 +72,7 @@
 
 <53>The Company began to follow the path through the treacherous forest. Eventually the provisions ran low and the Company was forced to send Bilbo up a tree to see where the forest ended. Bilbo climbed up a tree, where a rewarding breeze of cool air and butterflies met him. Bilbo only saw more forest, so when he reluctantly climbed back down, he did not see that the forest ended. He reported his findings to the Dwarves, where they met the news with ill comfort, angry that they were fatter than Bilbo and so could not climb the trees to feel cool air or see the butterflies. Eventually the last provisions were eaten. The Company then came upon the Enchanted stream, of which they had been warned not to drink by Beorn. Bilbo saw a boat on the other side, leading the Dwarves to retrieve it. A deer came out of nowhere when all the Dwarves were on the other side. A Dwarf shot it where it died, on the other side. The Dwarves hoped for venison for dinner, when Bilbo realized that Bombur was drowning. The Dwarves fished him out to find he had been put to sleep by the stream's magic, but the boat was knocked away, ending the hope for venison.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/7.jpg)
+![](bilboBaggins/7.jpg)
 
 #### Bilbo reaches the canopy of Mirkwood
 
@@ -80,7 +80,7 @@
 
 <53>When Bilbo awoke in the night, he was alone. He cursed the Dwarves for leaving the path and discovered that great spiders had captured his companions. Bilbo was forced to find his lost companions and cut through the cocoons the spiders had formed around his companions. He distracted the spiders by improvising several insulting songs to irritate them, and succeeded when the creatures left their domain to find the intruder and eat him. Bilbo killed a few by throwing stones at them and by stabbing them with Sting. The spiders never found him, since during this time Bilbo made use of the Ring to remain invisible. After freeing the Dwarves, he led them into a charge against the spiders, where the company killed dozens of the arachnids.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/8.jpg)
+![](bilboBaggins/8.jpg)
 
 #### Bilbo faces the spiders of Mirkwood
 
@@ -90,7 +90,7 @@
 
 ## The Lonely Mountain
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/9.jpg)
+![](bilboBaggins/9.jpg)
 
 #### Bilbo conversing with Smaug
 
@@ -100,7 +100,7 @@
 
 ## The Battle of Five Armies and aftermath
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/10.jpg)
+![](bilboBaggins/10.jpg)
 
 #### Bilbo gives the Arkenstone to Thranduil
 
@@ -109,13 +109,13 @@
 
 <53>In the meantime, Thorin and company had reclaimed the Lonely Mountain, though Bilbo, having found the Arkenstone that Thorin greatly desired, kept it secret from the Dwarf. They were informed by Roäc, an old raven of the mountain, of Smaug's death in Lake-town, but quickly the Dwarves' mirth was dampened by the news that the surviving Men of Lake-town and the Elven-king's army were marching to the mountain to reclaim their wealth. Thorin, suspicious of the armies, refused to make any deal, with them at their arrival, and barricaded the mountain, thus beginning a siege. Bilbo, hoping to avoid conflict, took the Arkenstone to Bard and Thranduil, in order for them to barter their share of the treasure with. Despite Bard and the Elvenking's offers for the hobbit to stay with them for the time being, Bilbo decided to return to the mountain. To his surprise on leaving to return to Thorin's company, he found that Gandalf had returned, and found the wizard supported his decision. Bilbo then slipped back to the mountain unnoticed by the Dwarves.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/11.jpg)
+![](bilboBaggins/11.jpg)
 
 #### Bilbo admits to taking the Arkenstone
 
 <53>Thorin, on soon afterwards discovering Bilbo's perceived treachery, was furious and banished the hobbit from the mountain. Bilbo stayed with Gandalf and Bard for a short time, until Dwarves from the Iron Hills, led by Dáin Ironfoot, arrived to aid Thorin's cause. However, shortly following this, a great army of goblins, led by Bolg, attacked, forcing the Dwarves, Elves, and Men to fight together to both defend the mountain and survive. This became known as the Battle of Five Armies, and though the goblins were defeated, Thorin and his nephews Fíli and Kíli were mortally wounded. Bilbo only witnessed part of the battle, as he was rendered unconscious early on, and wearing the ring, lay undiscovered until he came to following the battle's conclusion. Beorn, the Beorning chieftain, who had joined the fight, slew Bolg along with his bodyguard and carried Thorin to safety. Bilbo, making his way to the tents of the wounded, found Thorin lying on a bed, in his last minutes of life. Thorin praised Bilbo and apologized to him for cursing him earlier, and thereafter passed away.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/18.jpg)
+![](bilboBaggins/18.jpg)
 
 #### Bilbo in Smaug's gold
 
@@ -123,7 +123,7 @@
 
 ## Return to the Shire
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/12.jpg)
+![](bilboBaggins/12.jpg)
 
 #### Bilbo leaves Gandalf to return to Hobbiton
 
@@ -133,7 +133,7 @@
 
 ## Returning to Shire-life
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/13.jpg)
+![](bilboBaggins/13.jpg)
 
 #### Bilbo finds his belongings being auctioned off.
 
@@ -143,7 +143,7 @@
 
 ## Another adventure
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/14.jpg)
+![](bilboBaggins/14.jpg)
 
 #### Bilbo at the time of his 111th birthday party
 
@@ -151,7 +151,7 @@
 
 <53>On September 22, a farewell Birthday Party was held in his honor, where he announced his intention to leave the Shire, to the shock of his family and friends. Immediately afterward, he put on his Ring and disappeared, as a joke on his neighbors. He returned to his house where he was confronted by his friend Gandalf, who tried to persuade him to leave the Ring for Frodo. Bilbo initially agreed, but then became hostile and accused Gandalf of trying to steal the ring for his own benefit, which he referred to as his "precious."
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/15.jpg)
+![](bilboBaggins/15.jpg)
 
 #### Bilbo gives up the Ring before leaving Bag End
 
@@ -164,7 +164,7 @@
 
 ## Life in Rivendell
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/16.jpg)
+![](bilboBaggins/16.jpg)
 
 #### Bilbo Baggins at Rivendell
 
@@ -174,7 +174,7 @@
 
 ## Leaving Middle-earth
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/17.jpg)
+![](bilboBaggins/17.jpg)
 
 #### Bilbo shortly before departing Middle-earth, aged 131
 
@@ -184,7 +184,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/bilboBaggins/19.jpg)
+![](bilboBaggins/19.jpg)
 
 #### Bilbo and Sting in Mirkwood
 

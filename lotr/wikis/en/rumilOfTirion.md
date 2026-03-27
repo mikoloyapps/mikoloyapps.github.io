@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/rumilOfTirion/1.jpg)
+![](rumilOfTirion/1.jpg)
 
 <53>**Rúmil** was a knowledgeable loremaster of the Ñoldor living in the city of Tirion, in Valinor.
 

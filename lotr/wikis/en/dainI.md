@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/dainI/1.jpg)
+![](dainI/1.jpg)
 
 #### Dáin's Halls
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earendil/1.jpg)
+![](earendil/1.jpg)
 
 #### Ancalagon vs Earendil
 
@@ -11,7 +11,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earendil/2.jpg)
+![](earendil/2.jpg)
 
 #### Eärendil searches Tirion
 
@@ -19,7 +19,7 @@
 
 <53>At this time, Elwing had in her possession the Silmaril that Beren had once wrested from Morgoth. News of this came to the remaining Sons of Fëanor, and they attacked the people living in Arvernien, slaying most of them. Círdan and Gil-galad sent ships to their aid, but were too late. But Elwing, to avoid capture, threw herself with the Silmaril into the Sea, leaving her young sons behind.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earendil/3.jpg)
+![](earendil/3.jpg)
 
 #### Eärendil slays Ancalagon
 
@@ -27,7 +27,7 @@
 
 <53>Because Eärendil had undertaken this errand on behalf of Men and Elves, and not for his own sake, Manwë forbore to deal out the punishment of death that was due; and because both Eärendil and Elwing were descended from a union of Elves and Men, Manwë granted to them and their sons the gift to choose to which race they would be joined (a gift that was further passed to the children of Elrond, who became known as the Half-elven). Elwing chose to be one of the Elves. Eärendil would have rather been one of the Men; however, for the sake of his wife, he chose to be one of the Elves.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earendil/4.jpg)
+![](earendil/4.jpg)
 
 #### Eärendil In Bronze
 
@@ -45,7 +45,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earendil/5.jpg)
+![](earendil/5.jpg)
 
 #### Eärendil the Blessed
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/miriel/1.jpg)
+![](miriel/1.jpg)
 
 #### Finwë and Míriel
 
@@ -9,7 +9,7 @@
 
 <53>Míriel married Finwë sometime during the Noontide of Valinor and they lived in Tirion. In YT 1169, Míriel bore a son, called Curufinwë, whom she called Fëanáro ("Spirit of Fire"). After giving birth to him she could no longer live, and so wished to die, something which was impossible because, as an Elf, she was immortal within Arda.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/miriel/2.jpg)
+![](miriel/2.jpg)
 
 #### Finwë near his wife Míriel Serindë
 

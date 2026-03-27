@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/1.jpg)
+![](aragorn/1.jpg)
 
 > *"I am Aragorn son of Arathorn, and am called Elessar, the Elfstone, Dúnadan, the heir of Isildur Elendil's son of Gondor. Here is the sword that was broken and is forged again!"*
 >> \- Aragorn, speaking to Éomer in *The Two Towers*
@@ -10,7 +10,7 @@
 
 ## **Early years**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/2.jpg)
+![](aragorn/2.jpg)
 
 #### Aragorn as a toddler, portrayed by Luke Johnston in the fan film Born of Hope
 
@@ -19,7 +19,7 @@
 
 <53>Aragorn was a descendant of Elros Tar-Minyatur through the line of the Lords of Andúnië to Elendil, High King of Arnor and Gondor. Like all of the kings before him, he is related to Elrond through the line of Elros. His ancestor Arvedui was wedded to Fíriel, descended from Anárion, who bore their son Aranarth, making Aragorn the last descendant of both Isildur and Anárion.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/3.jpg)
+![](aragorn/3.jpg)
 
 #### Young Aragorn with the shards of Narsil
 
@@ -27,7 +27,7 @@
 
 <53>Elrond revealed to "Estel" his true name and ancestry when he was twenty, and gave to him the Ring of Barahir and the Shards of Narsil. Elrond withheld the Sceptre of Annúminas from Aragorn until he "came of the right" to possess the item. It was also around this time that Aragorn met and fell in love with Arwen, Elrond's daughter, newly returned from her mother's homeland of Lothlórien where she had been visiting her grandmother Galadriel.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/4.jpg)
+![](aragorn/4.jpg)
 
 #### Aragorn the Ranger in the wild, in the fan film The Hunt for Gollum
 
@@ -35,25 +35,25 @@
 
 <53>Aragorn met Gandalf the Grey in 2956 and they became close friends. Heeding Gandalf's advice, Aragorn and the Rangers began to guard a small land known as the Shire inhabited by the diminutive and agrarian Hobbits, and he became known among the peoples just outside the Shire's borders as Strider.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/25.jpg)
+![](aragorn/25.jpg)
 
 <53>From TA 2957 to TA 2980, Aragorn undertook great journeys, serving in the armies of King Thengel of Rohan, and Steward Ecthelion II of Gondor. Many of his tasks helped to raise morale in the West and counter the growing threat of Sauron and his allies, and he earned priceless experience which he would later put to use in the War of the Ring. Aragorn served these lords in disguise and his name in Gondor and Rohan during that time was Thorongil ("Eagle of the Star"). With a small squadron of ships from Gondor, he led an assault on the long-standing Corsair city of Umbar in 2980, burning many of the Corsairs' ships and personally slaying their lord during the battle. After the victory at Umbar, "Thorongil" left Gondor and, to the dismay of his men, went east.
 
 <53>Later in 2980, he visited Lothlórien, and there once again met Arwen. He gave her the heirloom of his House, the Ring of Barahir, and, on the hill of Cerin Amroth, Arwen pledged her hand to him in marriage, renouncing her Elvish lineage and accepting the Gift of Men; death.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/24.jpg)
+![](aragorn/24.jpg)
 
 <53>Elrond withheld from Aragorn permission to marry his daughter until such a time as his foster son should be king of "both" Gondor and Arnor. As both Elrond and Aragorn knew, to marry a mortal, Arwen would be required to choose mortality, and thus deprive the deathless Elrond of his daughter while the world lasted. Elrond was also concerned for Arwen's own happiness, fearing that in the end she might find death (her own and that of her beloved) too difficult to bear.
 
 <53>Before the events of The Lord of the Rings properly take place, Aragorn traveled widely through Middle-earth, entering the Dwarven mines of Moria via the East-gate of Moria but exiting the same way. He also journeyed to Harad, where (in his own words) "the stars are strange". Tolkien does not specify when these travels occurred nor does he indicate what happened during Aragorn's visits.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/26.jpg)
+![](aragorn/26.jpg)
 
 <53>In TA 3009, Gandalf grew suspicious of the origin of the Ring belonging to the Hobbit Bilbo Baggins, which later turned out to be the One Ring, the key to the Dark Lord Sauron's power. Setting a guard of Rangers on the Shire, Aragorn went at Gandalf's request into Rhovanion in search of Gollum, who had once possessed the Ring. He caught the creature in the Dead Marshes near Mordor, and brought him as a captive to Thranduil's Halls in Mirkwood, where Gandalf questioned him. Gollum, however, escaped some time later with the aid of Sauron's Orcs.
 
 ## **War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/5.jpg)
+![](aragorn/5.jpg)
 
 #### Strider at The Prancing Pony in Bree
 
@@ -64,11 +64,11 @@
 
 <53>Aragorn returned with Gandalf in the spring of TA 3018, and then went away on his own journey, and was not able to help when Gandalf discovered the Nazgûl were seeking for Frodo and the Ring in the Shire. After Frodo left Hobbiton, Gildor Inglorion informed Aragorn that the Nine were looking for him and Gandalf was missing. Aragorn continued to watch the Great East Road until Tom Bombadil and the four hobbits came from the Barrow-downs. Following them to Bree, he met Frodo at Inn of the Prancing Pony under the name "Strider," as the Men of Bree called him. Though originally the hobbits were suspicious of him, Barliman Butterbur brought a letter from Gandalf that made them trust him. Aragorn was aged 87 at that time, nearing the prime of life for one of royal Númenórean descent.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/23.jpg)
+![](aragorn/23.jpg)
 
 <53>After the raid on Bree, Aragorn led the Hobbits out of Bree-land and through the Midgewater Marshes. While there, he saw Gandalf's battle with the Nazgûl on Weathertop from a distance. When they themselves came to Weathertop, they discovered five of the Nazgûl had followed them, and during the later attack he fought off the Ringwraiths. After attempting to heal Frodo with athelas, he led them across the Lone-lands towards the Trollshaws. They met with the Elf-lord Glorfindel who led them to the Ford of Bruinen. When the Nazgûl caught up with them and Elrond released a flood, Aragorn and the Hobbits kindled fire and flushed out those Nazgûl that had remained on the western bank. He then accompanied Frodo to Rivendell.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/18.jpg)
+![](aragorn/18.jpg)
 
 #### Aragorn and Hasufel
 
@@ -88,7 +88,7 @@
 
 ## Accompanying the Fellowship
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/20.jpg)
+![](aragorn/20.jpg)
 
 <53>Aragorn and Gandalf had been planning their journey to Mordor for weeks. He and Gandalf guided the Fellowship south along the line of the Misty Mountains. When they came to Hollin, Aragorn grew suspicious due to the lack of any sound he heard and spotted the Crebain who were spying out the land for Saruman. He then convinced Gandalf to try the pass over Caradhras. However, while they were still far down the mountain, they were caught in a freak storm brought on by Sauron, and were forced to retreat. Aragorn, together with Boromir, made a path through the snow for the Fellowship to escape.
 
@@ -98,7 +98,7 @@
 
 ## Breaking of the Fellowship
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/6.jpg)
+![](aragorn/6.jpg)
 
 #### Aragorn saying goodbye to Boromir after his death
 
@@ -113,13 +113,13 @@
 
 ## The Three Hunters
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/8.jpg)
+![](aragorn/8.jpg)
 
 #### The Three Hunters
 
 <53>Aragorn ran from Parth Galen across the width of Rohan in just four days. As they approached Fangorn Forest, the "Three Hunters" Aragorn, Legolas, and Gimli encountered Éomer, who had recently pursued and routed an Orc-band in the area. From Éomer, Aragorn learned that the Orcs who had kidnapped Merry and Pippin had been destroyed and that the Hobbits had not been found. Dejected, he led Legolas and Gimli to the site of the battle. Clues led Aragorn to believe that the Hobbits might still be alive, and he led the Three Hunters into Fangorn Forest. They did not find the Hobbits, but they did find Gandalf the White, sent back to continue his struggle against Sauron. Gandalf told the Three Hunters that the Hobbits were safe with the Ents of Fangorn.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/7.jpg)
+![](aragorn/7.jpg)
 
 #### Aragorn at Amon Hen
 
@@ -133,11 +133,11 @@
 
 <53>Together, Gandalf and the Three Hunters travelled to Edoras, where Gandalf freed Théoden from Saruman's enchantment and helped him organize the Rohirrim against Saruman. He allied with Théoden and led the refugees to Helm's Deep.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/19.jpg)
+![](aragorn/19.jpg)
 
 <53>Aragorn, Legolas and Gimli then helped the people of Rohan in the Battle of the Hornburg, in which they conclusively defeated Saruman's army. Afterward Aragorn went with Gandalf to Isengard, only to find it in ruins by the work of the Ents. Aragorn, being present with Gandalf, Théoden, Éomer, Legolas and Gimli, negotiated in a final parley with Saruman. Saruman attempted to bend Théoden to his will, and at first the king was almost swayed, but mastering his will he refused to join with Saruman. Saruman also attempted to sway Gandalf, but failed in this also, and even so Gandalf offered his counterpart the opportunity for forgiveness. Saruman refused to repent out of pride and to avoid seeming a rebel to Sauron, and thus Gandalf broke Saruman's staff and banished him from the Order of Wizards and the White Council. After Saruman crawled away, Gríma Wormtongue threw the palantír of Orthanc at Gandalf as he and the others were leaving. He missed, however, unable to decide if he hated Saruman or Gandalf more, and thus ended the Battle of the Hornburg and the Battle of Isengard. After Pippin revealed himself to Sauron in the stone, Gandalf gave the palantír back to Aragorn.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/9.jpg)
+![](aragorn/9.jpg)
 
 #### Night Battle on Helm's Deep
 
@@ -145,7 +145,7 @@
 
 ## Return of the King
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/10.jpg)
+![](aragorn/10.jpg)
 
 #### Aragorn and the Army of the Dead attack the Orcs
 
@@ -153,17 +153,17 @@
 
 <53>Aragorn, a small force of Rangers, and a large contingent of men and soldiers from the southern regions then sailed up the Anduin to Minas Tirith. When they arrived at the Battle of the Pelennor Fields, Aragorn unfurled a standard that Arwen had made for him which showed both the White Tree of Gondor along with the jeweled crown and seven stars of the House of Elendil. With the help of the southern forces the armies of Gondor and Rohan rallied together and defeated Sauron's army.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/21.jpg)
+![](aragorn/21.jpg)
 
 <53>The Steward Denethor II declared that he would not bow to a descendant of Isildur (years before, he had seen "Thorongil" as a rival to his father's favor and soon discovered his true identity) and burned himself to death during the battle, despairing of final victory. Aragorn healed Faramir, Denethor's last heir, Éowyn and Merry, who together slew the Witch-king as well as many others. This won him the immediate recognition of Faramir as rightful heir to the throne; his humility and self-sacrifice gained him the hearts of the inhabitants of Gondor's capital city. Aragorn's healing abilities, moreover, were a sign to the people of Gondor of the identity of their true king; as Ioreth said, "The hands of the King are the hands of a healer, and so shall the rightful king be known." The people hailed him as King that same evening.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/27.jpg)
+![](aragorn/27.jpg)
 
 <53>Despite his immediate success and popularity, however, and despite his claim to the throne through raising the royal banner, Aragorn decided to lay aside his claim for the time being. He knew that if he aggressively promoted his claim, rival claimants or debates as to his legitimacy were not out of the question, and this could be a fatal distraction for Gondor at a time when the West needed to be united against Sauron. So, to avoid conflict, after he had healed people during the following nights of March 15–16, he left Minas Tirith and symbolically refused to enter it again until he was crowned King on May 1.
 
 ## Captain of the West
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/22.jpg)
+![](aragorn/22.jpg)
 
 <53>Aragorn then led the Army of the West to Mordor as per the advice of Gandalf and Elrond, to divert Sauron's attention from Frodo and Sam. They marched over the Anduin river and came to Minas Morgul, and set fire to the fields there. Leaving a guard at the Cross-roads, they began to march north through Ithilien, and Aragorn won a skirmish against some Orcs and Easterlings that tried to ambush them. They then reached the desert before Mordor, and Aragorn allowed those who were afraid to depart to retake Cair Andros. The Army of the West then reached the Black Gate, and Aragorn along with Gandalf, Éomer, Imrahil, Pippin, Legolas and Gimli rode up to it and called for Sauron to come forth. He then watched as the Mouth of Sauron revealed Sauron knew about Frodo and Sam, and saw Gandalf's rejection of Sauron's terms. The Host of the West was then encircled by Sauron's forces, a vast army of Orcs and Men. Aragorn then arranged the Army of the West defensively on two Slag Hills and the Battle of the Black Gate began.
 
@@ -171,7 +171,7 @@
 
 ## **As King of Reunited Gondor and Arnor**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/11.jpg)
+![](aragorn/11.jpg)
 
 #### Aragorn, son of Arathorn, King of Gondor
 
@@ -184,7 +184,7 @@
 
 ## **Death and End of Reign**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/12.jpg)
+![](aragorn/12.jpg)
 
 #### Aragorn's funeral
 
@@ -197,7 +197,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/13.jpg)
+![](aragorn/13.jpg)
 
 #### An artist's conception of Aragorn at The Prancing Pony
 
@@ -208,7 +208,7 @@
 
 <53>In The Tale of Aragorn and Arwen, he was said to be often grim and sad, with unexpected moments of levity. Some time after the publications of the books, Tolkien wrote that he was six feet six inches tall.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/14.jpg)
+![](aragorn/14.jpg)
 
 #### Aragorn with Andúril, Flame of the West
 
@@ -216,7 +216,7 @@
 
 <53>Though there is no indication of his ever doubting his role and destiny as the future king of the Reunited Kingdom and one of the leaders of the war against Sauron (as he did in Peter Jackson's film), he was not immune to self-doubt, as he doubted the wisdom of his decisions while leading the Fellowship after the loss of Gandalf in Moria, and blamed himself for many of their subsequent misfortunes.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/15.jpg)
+![](aragorn/15.jpg)
 
 #### Viggo Mortensen as Aragorn II
 
@@ -228,7 +228,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/16.jpg)
+![](aragorn/16.jpg)
 
 #### Aragorn's dagger given by Celeborn
 
@@ -249,7 +249,7 @@
 
 ## Titles
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aragorn/17.jpg)
+![](aragorn/17.jpg)
 
 #### Aragorn with a bow in the Balin's Tomb sequence
 

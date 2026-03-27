@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ingwe/1.jpg)
+![](ingwe/1.jpg)
 
 #### Ingwë, Finwë and Elwë; when they went to the land of the Valar as emissaries on behalf of their people
 
@@ -9,7 +9,7 @@
 
 <53>Ingwë was born in Cuiviénen during the Years of the Trees to Ilion, who was the direct descendant of Imin and Iminyë. After Oromë discovered the Quendi, Ingwë was part of the first embassy to Aman alongside his friends Finwë and Elwë, and became the lord of the first Kindred of the Elves, the later Vanyar, who led his people in the Great Journey. His name means "first one / chief" in Quenya.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ingwe/2.jpg)
+![](ingwe/2.jpg)
 
 #### Ingwe, Elwe and Finwe meeting the Valar
 

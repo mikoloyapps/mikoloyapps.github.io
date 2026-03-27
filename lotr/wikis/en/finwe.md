@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finwe/1.jpg)
+![](finwe/1.jpg)
 
 #### Finwë and Miriel
 
@@ -9,7 +9,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finwe/2.jpg)
+![](finwe/2.jpg)
 
 #### Finwë and Elwë in Cuiviénen before the Great Journey to Aman
 
@@ -17,7 +17,7 @@
 
 <53>There was great friendship between Finwë of the Ñoldor and Elwë of the Teleri. Then each became leaders of their own Elven-kindred. Thus, Finwë became the Lord of the Ñoldor who led his people on the Great Journey. And eventually, Finwë and his people the Ñoldor arrived in Valinor directly behind the Vanyar. There he and his people settled and Finwë thus became the First High King of the Ñoldor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finwe/3.jpg)
+![](finwe/3.jpg)
 
 #### Finwe near his wife Miriel Serinde
 
@@ -25,7 +25,7 @@
 
 <53>When Melkor, now free from the Halls of Mandos began spreading lies amongst the Ñoldor attempting to corrupt them, Finwë attempted to moderate his people and lead them back to the Valar. But it was too late, the Ñoldor had already begun to envision for themselves plans and new dominions they could have ruled back in Middle-earth and were proud. However, Fëanor mistrusted the Valar and believed the lies and began to horde his treasures and would only allow his beloved father or his sons to see the Silmarils. He also begun to suspect his half-brother was trying to usurp him as the favored son, and made trouble in Tirion drawing his sword on Fingolfin. For this he was banished from the city, but Finwë loved his elder son greatly and shared his exile and went with him northward and built the city/fortress of Formenos.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/finwe/4.jpg)
+![](finwe/4.jpg)
 
 #### Finwë and Indis
 

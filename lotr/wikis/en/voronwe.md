@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/voronwe/1.jpg)
+![](voronwe/1.jpg)
 
 #### Voronwë sitting by the sea after the foundering of his ship
 
@@ -7,7 +7,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/voronwe/2.jpg)
+![](voronwe/2.jpg)
 
 #### Voronwe of Gondolin
 

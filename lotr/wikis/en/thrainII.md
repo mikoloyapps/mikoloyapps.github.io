@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thrainII/1.jpg)
+![](thrainII/1.jpg)
 
 #### Thráin II in Peter Jackson's The Hobbit: An Unexpected Journey
 
@@ -15,7 +15,7 @@
 
 <53>Thráin fled Erebor with his father, his three children, and the surviving Dwarves of the Lonely Mountain when the dragon Smaug descended on the mountain in TA 2770, desolating the kingdom and claiming its treasure. Exiled, he and his relatives wandered farther south, and they eventually settled in the hills of Dunland. They would remain in Dunland for twenty years, reduced to poverty.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thrainII/2.jpg)
+![](thrainII/2.jpg)
 
 #### Depiction of Thrór's Key in Peter Jackson's The Hobbit trilogy
 
@@ -27,7 +27,7 @@
 
 <53>When Thráin heard Nár's recounting of what had become of his father and that an Orc was ruling their ancestral home, he wept and tore his beard and then fell silent. For seven days, he sat and said no word. However, on the seventh day, he stood up and declared, "This cannot be borne!" These words were the beginning of the War of the Dwarves and Orcs.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thrainII/3.jpg)
+![](thrainII/3.jpg)
 
 #### Thráin as he appears in the extended edition of The Hobbit: The Desolation of Smaug
 

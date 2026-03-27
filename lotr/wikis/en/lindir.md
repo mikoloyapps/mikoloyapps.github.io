@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/lindir/1.jpg)
+![](lindir/1.jpg)
 
 #### Lindir as portrayed by Bret McKenzie in The Hobbit films
 

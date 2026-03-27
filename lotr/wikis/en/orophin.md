@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/orophin/1.jpg)
+![](orophin/1.jpg)
 
 #### Orophin (left) with his brothers Haldir and Rúmil in The Lord of the Rings
 
@@ -9,7 +9,7 @@
 
 <53>Orophin guarded the western border of Lothlórien at the time of the War of the Ring. He stood guard with other Elves, including his brothers Haldir and Rumil.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/orophin/2.jpg)
+![](orophin/2.jpg)
 
 #### Galadriel in Aman
 

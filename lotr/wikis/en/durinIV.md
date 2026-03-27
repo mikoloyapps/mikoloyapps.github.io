@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/durinIV/1.jpg)
+![](durinIV/1.jpg)
 
 <53>**Durin IV** was a King of Durin's Folk and of Khazad-dûm in the Second Age.
 
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/durinIV/2.jpg)
+![](durinIV/2.jpg)
 
 #### Owain Arthur portrays Durin IV in The Lord of the Rings: The Rings of Power
 

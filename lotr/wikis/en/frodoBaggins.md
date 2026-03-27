@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/1.jpg)
+![](frodoBaggins/1.jpg)
 
 > *"I will take the Ring, though I do not know the way."*
 >> \- Frodo, at the Council of Elrond
@@ -10,7 +10,7 @@
 
 ## **Childhood**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/2.jpg)
+![](frodoBaggins/2.jpg)
 
 #### Frodo with Bilbo during his 111th birthday
 
@@ -22,7 +22,7 @@
 
 <53>Bilbo gave a memorable birthday speech before playing a joke on his fellow hobbits by using the One Ring to disappear, at which Gandalf quickly reacted and used his staff to create a blinding flash where Bilbo had been standing. The hobbits at the party were left confused and disgruntled, and Bilbo was never again seen in the Shire.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/3.jpg)
+![](frodoBaggins/3.jpg)
 
 #### Gandalf telling Frodo the story of the One Ring
 
@@ -32,7 +32,7 @@
 
 <53>After the party finished, Frodo returned home and discovered that he was now the master of Bag End and the recipient of Bilbo's magic Ring. Gandalf, ever more curious about the Ring's origin, power, and purpose (but not yet positive it was the One Ring), advised the young hobbit against the using the Ring. For the next seventeen years, Frodo complied with the wizard's request and hid the Ring in a safe place. However, on April 12, 3018, Gandalf returned to Bag End and warned Frodo that the Ring was actually the One Ring, which the Dark Lord Sauron needed to rule over Middle-earth. Realizing that Sauron would be looking for the Ring, Gandalf advised the Hobbit to secretly follow Bilbo's journey to Rivendell.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/4.jpg)
+![](frodoBaggins/4.jpg)
 
 #### Frodo meeting Strider in The Prancing Pony
 
@@ -42,7 +42,7 @@
 
 <53>Frodo was nearly captured by a Black Rider on the road, but was saved by Gildor Inglorion, whom he asked for advice. Leaving the roads to cut across country, Frodo and Sam reached Farmer Maggot's farm, who helped them to evade the Riders. Meeting Merry at Bucklebury Ferry, they saw a Rider tracking them from the bank they'd departed from. On arrival at Crickhollow, Frodo found that Merry and Pippin already knew about his "secret" journey. Frodo was left with no alternative but to bring the two youngsters with him. They cut through the Old Forest and the Barrow-downs in hopes of losing the Black Riders, which did succeed. They met other troubles in those places though, at the hands of Old Man Willow and the Barrow-wights, but were rescued twice by Tom Bombadil, a mysterious being who dwelt in a glade in the middle of the Old Forest.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/5.jpg)
+![](frodoBaggins/5.jpg)
 
 #### Frodo is stabbed by the Witch-king's Morgul-knife
 
@@ -54,7 +54,7 @@
 
 ## Weathertop
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/6.jpg)
+![](frodoBaggins/6.jpg)
 
 #### The Hobbits reuniting in Rivendell
 
@@ -62,7 +62,7 @@
 
 <53>Though Aragorn was a skilled healer, he could not heal Frodo's wound. A fragment of the Ringwraith's blade remained in Frodo's flesh, where it continued to move towards his heart. Near death (or worse), Frodo was rescued by Glorfindel, an Elf-lord, who put the injured Hobbit upon his horse Asfaloth. They were found and pursued by the Nazgûl, as Glorfindel rode and bore Frodo swiftly to the Ford of Bruinen, at the entrance to the valley of Rivendell. Once they had crossed the River Bruinen, the Nine Ringwraiths behind them demanded Frodo give up the Ring, but Frodo refused. Subsequently, the Ringwraiths entered the river and were washed away in a flood called up by Elrond.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/7.jpg)
+![](frodoBaggins/7.jpg)
 
 #### Frodo placing the One Ring before the Council of Elrond
 
@@ -78,7 +78,7 @@
 
 ## Moria
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/8.jpg)
+![](frodoBaggins/8.jpg)
 
 #### The Hobbits of the Fellowship of the Ring prepare to battle against goblins in Moria
 
@@ -88,7 +88,7 @@
 
 ## Lothlórien
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/9.jpg)
+![](frodoBaggins/9.jpg)
 
 #### Galadriel and Frodo
 
@@ -98,7 +98,7 @@
 
 <53>The Fellowship continued their journey south to Parth Galen. There, Boromir, a Man of Gondor and a member of the Fellowship, attempted to convince Frodo to bring the Ring to Minas Tirith and regroup from there. When the hobbit asked for an hour alone to consider his options, Boromir followed him. Seeing that Frodo did not intend to take the suggested course of action, Boromir tried to take the Ring from him by force.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/10.jpg)
+![](frodoBaggins/10.jpg)
 
 #### Frodo puts on the One Ring to hide from Boromir
 
@@ -110,7 +110,7 @@
 
 ## Emyn Muil
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/11.jpg)
+![](frodoBaggins/11.jpg)
 
 #### Frodo and Sam journey towards Mordor
 
@@ -120,7 +120,7 @@
 
 <53>The Dead Marshes lay to the south of Emyn Muil, and were just as disorienting, if not more so. There was thought to be no route through the marshes, as Orcs marched for miles around, although Gollum had secretly discovered a path when traveling. He led Frodo and Sam on a safe pathway through the marshes, warning them not to follow what seemed like small torches in the water.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/12.jpg)
+![](frodoBaggins/12.jpg)
 
 #### Frodo during the passage of the Marshes
 
@@ -130,7 +130,7 @@
 
 <53>Gollum led the two Hobbits to the Black Gate of Mordor, as Frodo had desired, but stopped the Hobbits from passing its doors, as the danger was too great. He then explained about a secret way into Mordor, 'Up the stairs and through the tunnel'. The Hobbits once again found themselves being led by Gollum. After venturing into Ithilien, and witnessing a skirmish between a company of Haradrim warriors (along with Oliphaunts) and Rangers from Gondor, they were apprehended by the Ranger's captain, Faramir. When the skirmish had ended, Faramir blindfolded the ring-bearer and his companions and led them to Henneth Annûn, the Window on the West.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/13.jpg)
+![](frodoBaggins/13.jpg)
 
 #### Frodo taken captive by Faramir's Rangers
 
@@ -140,7 +140,7 @@
 
 <53>Gollum led the hobbits past the lair of the Witch-king of Angmar, Minas Morgul, and up the Stairs of Cirith Ungol into 'The Tunnel'. When they arrived at the top though, they were abandoned by Gollum. They cautiously traveled through the tunnel, and managed to get to the end only to find their way barred by Shelob's great web. Whilst attempting to cut through the webbing, Frodo bravely stood up to Shelob and forced her back further into the tunnels giving him and Sam time enough to hack through the threads and escape.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/14.jpg)
+![](frodoBaggins/14.jpg)
 
 #### Frodo prior to being poisoned by Shelob
 
@@ -152,7 +152,7 @@
 
 ## Mordor and Mount Doom
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/15.jpg)
+![](frodoBaggins/15.jpg)
 
 #### Frodo missing a finger
 
@@ -160,7 +160,7 @@
 
 <53>Inside the Cracks of Doom, Frodo finally had the chance to destroy the Ring, and rid himself of his burden, but the power of the Ring was at its strongest due to it being in the place of it's making. It was here that Frodo finally yielded to the temptation and power of the Ring. Sam yelled for Frodo to destroy the Ring, but Frodo was overcome by its power and claimed the Ring for himself. Gollum attacked Sam, who fell and hit his head on a rock, temporarily knocking him unconscious. When he came to he saw Gollum fighting with an unseen foe (Frodo, having put on the Ring). Then Gollum bit off Frodo's finger, Ring and all, and was reunited with his treasure for a short time, until dancing with joy he toppled off the brink and fell into the depths, destroying himself and the One Ring.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/16.jpg)
+![](frodoBaggins/16.jpg)
 
 #### Sam and Frodo after the completion of their quest
 
@@ -176,7 +176,7 @@
 
 ## **Fourth Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/17.jpg)
+![](frodoBaggins/17.jpg)
 
 #### Frodo gazes fondly at his friends as he bids them farewell at the Grey Havens
 
@@ -190,7 +190,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/frodoBaggins/18.jpg)
+![](frodoBaggins/18.jpg)
 
 #### Frodo, Sam, Merry, and Pippin at The Green Dragon inn.
 

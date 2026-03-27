@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/salgant/0.jpg)
+![](salgant/0.jpg)
 
 <53>**Salgant** was an Elf of Gondolin.
 

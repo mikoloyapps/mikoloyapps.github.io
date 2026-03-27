@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/galdor/1.jpg)
+![](galdor/1.jpg)
 
 #### Galdor of the Havens
 

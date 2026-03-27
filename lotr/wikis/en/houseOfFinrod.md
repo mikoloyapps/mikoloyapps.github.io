@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/houseOfFinrod/1.jpg)
+![](houseOfFinrod/1.jpg)
 
 #### Gildor Inglorion, a well-known surviving member of the House of Finrod
 

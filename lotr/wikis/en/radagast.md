@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/1.jpg)
+![](radagast/1.jpg)
 
 > *"I think he's a very great wizard in his own way. He's a gentle soul who prefers the company of animals to others."*
 >> \- Gandalf on Radagast, *"The Hobbit: An Unexpected Journey"*
@@ -10,7 +10,7 @@
 
 ## **Years of the Lamps**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/2.jpg)
+![](radagast/2.jpg)
 
 #### Radagast was a Maia named Aiwendil before leaving the Undying Lands
 
@@ -22,7 +22,7 @@
 
 ## Arrival in Middle-earth
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/3.jpg)
+![](radagast/3.jpg)
 
 #### Radagast with fellow Wizard, Gandalf
 
@@ -32,7 +32,7 @@
 
 ## War of the Ring
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/4.jpg)
+![](radagast/4.jpg)
 
 #### Radagast the Brown during the War of the Ring
 
@@ -40,7 +40,7 @@
 
 <53>By the time of the War of the Ring Radagast did not dwell any more in Rhosgobel. In summer TA 3018 Saruman told Radagast that he was willing to help Gandalf, and sent the Brown Wizard to seek him out at once. Radagast did not know much of Eriador but sought for the Shire, knowing that he would find Gandalf nearby.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/5.jpg)
+![](radagast/5.jpg)
 
 #### Radagast as seen in Peter Jackson's The Hobbit film trilogy
 
@@ -48,7 +48,7 @@
 
 <53>By sending Gandalf to Orthanc, Radagast unwittingly had him captured. Saruman's message proved to be a trap for Gandalf who was imprisoned in Orthanc, but still he did not believe that Radagast was also a part of Saruman's plans. Indeed, it was thanks to Radagast that Gandalf was able to escape from the pinnacle of Orthanc upon the wings of Gwaihir.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/6.jpg)
+![](radagast/6.jpg)
 
 #### Radagast talking to a bird
 
@@ -58,7 +58,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/7.jpg)
+![](radagast/7.jpg)
 
 #### Radagast at Dol Guldur
 
@@ -72,7 +72,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/8.jpg)
+![](radagast/8.jpg)
 
 #### Radagast appears in the High Fells to aid Gandalf in investigating the Nazgûl tombs
 
@@ -81,7 +81,7 @@
 
 <53>Tolkien's writing does not shed much light on Radagast's personality. In the books, little is known about Radagast apart from certain defining characteristics. Saruman was the chief of the Order of Wizards and Gandalf came next in the order; Radagast meanwhile held much less power and wisdom.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/radagast/9.jpg)
+![](radagast/9.jpg)
 
 #### Radagast arrives at the Battle of Five Armies with the Great Eagles
 

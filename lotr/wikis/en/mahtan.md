@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mahtan/1.jpg)
+![](mahtan/1.jpg)
 
 <53>**Mahtan** was a renowned Ñoldorin metallurgist of Aman and the father of Nerdanel, the wife of Fëanor.
 

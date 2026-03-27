@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celeborn/1.jpg)
+![](celeborn/1.jpg)
 
 <53>**Celeborn** was the Lord of Lothlórien, and the husband of Galadriel, Lady of the Golden Wood. He was said to be one of the wisest Elves in Middle-earth at the end of the Third Age.
 
@@ -19,7 +19,7 @@
 
 <53>Around FA 502, King Thingol of Doriath summoned Dwarf craftsmen to set a Silmaril in the Nauglamír, the fabled jeweled necklace of the Dwarves. The Dwarf craftsmen coveted the necklace and especially the Silmaril, and they demanded that Thingol give it to them. When Thingol refused, they killed him and took the necklace and Silmaril. The Dwarven craftsmen were pursued by Elves of Doriath, who killed the Dwarves and retrieved the necklace. However, two Dwarves escaped and returned to Nogrod in the Blue Mountains and rallied their kinsmen to seek vengeance on the Elves of Doriath. An army of Dwarves attacked Doriath and defeated the Elves. They took the necklace once more, but Beren again reclaimed it at the Battle of Sarn Athrad.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celeborn/2.jpg)
+![](celeborn/2.jpg)
 
 #### Celeborn meets the Fellowship of the Ring
 
@@ -35,7 +35,7 @@
 
 <53>At some time early in the Second Age, Celeborn and Galadriel are said to have moved eastward into Eriador with a number of Elves in their following. They may have lived for a while near Lake Evendim. Their daughter Celebrían was born at around this time. They began to move eastward again around the year SA 700 because Galadriel sensed a growing evil in Middle-earth that she felt duty-bound to oppose.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celeborn/3.jpg)
+![](celeborn/3.jpg)
 
 #### Celeborn leaves to sail to the Undying Lands, as seen in The Return of the King.
 
@@ -55,7 +55,7 @@
 
 <53>Celeborn and Galadriel's daughter Celebrían married Elrond in TA 109. Elrond and Celebrían had three children: twin sons Elladan and Elrohir, born in TA 130, and a daughter, Arwen, born in TA 241.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/celeborn/0.jpg)
+![](celeborn/0.jpg)
 
 <53>Around TA 1050, the Necromancer, who was actually Sauron, built the stronghold of Dol Guldur across the Anduin from Lothlórien. Celeborn and Galadriel are said to have returned to Lothlórien to investigate the Necromancer and ensure the safety of Lothlórien. But after a time, they once again departed, possibly for Rivendell. Lothlórien remained under the rule of King Amroth.
 

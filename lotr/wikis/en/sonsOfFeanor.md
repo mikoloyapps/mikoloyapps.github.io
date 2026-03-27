@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sonsOfFeanor/2.jpg)
+![](sonsOfFeanor/2.jpg)
 
 <53>The seven **Sons of Fëanor**, the great Ñoldorin King, led their people from Valinor to rule over kingdoms in the Northeast of Beleriand:
 
@@ -17,7 +17,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/sonsOfFeanor/1.jpg)
+![](sonsOfFeanor/1.jpg)
 
 #### The Sons of Fëanor taking their Oath
 

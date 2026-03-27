@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/irime/1.jpg)
+![](irime/1.jpg)
 
 <53>**Írimë** was a Ñoldorin Elf, the younger daughter of Finwë, High King of the Ñoldor, and Indis; sister of Fingolfin, Finarfin, Findis, and half-sister of Fëanor.
 

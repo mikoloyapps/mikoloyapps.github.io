@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/avari/1.jpg)
+![](avari/1.jpg)
 
 <53>The **Avari** were a branch of the Elven race in Middle-earth, the group of Moriquendi ('Elves of Darkness') who never journeyed to Aman, and their descendants. They were also known as **Avamanyar** (Quenya for 'Those who would not go to Aman'), as opposed to the Amanyar, 'Those of Aman', and Úmanyar, 'Not of Aman'.
 
@@ -7,7 +7,7 @@
 
 <53>When Oromë found that Elves had awakened in Cuiviénen, he invited them to come with him to Valinor. All the Minyar and most of the Tatyar and Nelyar were persuaded and followed Oromë into the west on the Great Journey. The remainder of the Tatyar and Nelyar remained suspicious of the Lords of the west, seeing them only in their wrath, or they simply refused to depart from their own lands, and spread gradually throughout the wide lands of Middle-earth. They were after known in Quenya, the language of the Eldar that eventually reached Valinor, by the name Avari, meaning "the Unwilling", because they refused the summons.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/avari/2.jpg)
+![](avari/2.jpg)
 
 #### Avari
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gildor/1.jpg)
+![](gildor/1.jpg)
 
 > *"Courage is found in unlikely places."* 
 >> \- Gildor to Frodo
@@ -10,7 +10,7 @@
 
 <53>On September 24, 3018, Gildor and a company of Elves were passing through the Shire, singing as they walked, and inadvertently caused a Nazgûl who was seeking Frodo to flee. Gildor recognized Frodo, though they had never met, for he knew Bilbo. He invited Frodo, along with Sam Gamgee and Pippin Took, to spend the night in the Elves' company. To the three Hobbits, Gildor and the Elves appeared to shimmer as they walked through the night. The starlight glimmered in their hair and eyes. They camped in a clearing in the Woody End near Woodhall and the Elves provided the Hobbits with bread and fruit and a fragrant drink.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gildor/2.jpg)
+![](gildor/2.jpg)
 
 #### Gildor and the hobbits
 
@@ -22,7 +22,7 @@
 
 <53>Gildor then advised Frodo to leave quickly, to take with him friends he could trust, and to flee from the Nazgûl. He also promised to send out word to Elves and others to be on the lookout for Frodo and help him on his journey. Gildor was true to his word, for both Tom Bombadil and Aragorn heard of Frodo's peril from Gildor. Word also reached Rivendell, and Glorfindel rode out to find Aragorn and the Hobbits as they were pursued by the Nazgûl from Weathertop.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gildor/3.jpg)
+![](gildor/3.jpg)
 
 #### Gildor and the hobbits
 

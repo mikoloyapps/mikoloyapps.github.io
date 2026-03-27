@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/deagol/1.jpg)
+![](deagol/1.jpg)
 
 <53>**Déagol**, also known as **Nahald**, was a Stoor-hobbit of the Gladden Fields. Déagol was the cousin and best friend of Sméagol until his discovery of the Ring.
 
@@ -7,7 +7,7 @@
 
 <53>Déagol was born some time between TA 2400 and TA 2430. Déagol and Sméagol apparently lived in an extended family under a Matriarch. He became the third bearer of the One Ring, after Isildur, when he found it in the Gladden river (a tributary to the Anduin) with his cousin Sméagol. On Sméagol's birthday in TA 2463 they went fishing (or rather Déagol fished while Sméagol dug in the earth), and a big fish pulled Déagol underwater. It was then that he discovered the One Ring, half-buried in the river-bed. When Sméagol saw the Ring, he stared at it with great desire, and then asked to keep it for his birthday. When his cousin refused, Sméagol became enraged and strangled Déagol to death, hiding the body, which was never found. This deed haunted Gollum for the rest of his life.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/deagol/2.jpg)
+![](deagol/2.jpg)
 
 #### Thomas Robins as Deagol and Andy Serkis as Smeagol in The Lord of the Rings
 

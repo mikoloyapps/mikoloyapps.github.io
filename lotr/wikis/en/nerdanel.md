@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nerdanel/1.jpg)
+![](nerdanel/1.jpg)
 
 <53>**Nerdanel**, also known as **Nerdanel the Wise**, was the daughter of the Ñoldorin smith Mahtan and the wife of the infamous Fëanor, eldest son of King Finwë.
 
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nerdanel/2.jpg)
+![](nerdanel/2.jpg)
 
 #### Nerdanel with her sons Maedhros, Maglor, Celegorm, Caranthir, Curufin (unborn)
 
@@ -13,7 +13,7 @@
 
 <53>Unlike her husband, she was of a peaceful nature and sought to moderate his fiery temper and pride with wisdom. For a time, she was the only one able to influence him.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nerdanel/3.jpg)
+![](nerdanel/3.jpg)
 
 #### Nerdanel, with father Mahtan and future husband Fëanor
 

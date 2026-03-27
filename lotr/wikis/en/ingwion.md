@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/ingwion/1.jpg)
+![](ingwion/1.jpg)
 
 <53>**Ingwion** was a Vanyarin Elf and the son of Ingwë, High King of the Elves.
 

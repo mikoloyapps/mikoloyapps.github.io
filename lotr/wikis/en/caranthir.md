@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/caranthir/1.jpg)
+![](caranthir/1.jpg)
 
 <53>**Caranthir**, also known as Caranthir the Dark, was the fourth son of Fëanor and the harshest and the quickest to anger of his seven brothers.
 
@@ -9,7 +9,7 @@
 
 <53>Caranthir's realm was in Thargelion in East Beleriand, and was sometimes called Dor Caranthir (Caranthir's land); his abode was on the shores of Lake Helevorn. Because his realm bordered the great Dwarvish Kingdoms of Nogrod and Belegost in the Blue Mountains, he became very wealthy controlling much of the trade coming through the Dwarf-Road.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/caranthir/2.jpg)
+![](caranthir/2.jpg)
 
 #### Caranthir meets Haleth
 

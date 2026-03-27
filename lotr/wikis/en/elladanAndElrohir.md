@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elladanAndElrohir/1.jpg)
+![](elladanAndElrohir/1.jpg)
 
 <53>**Elladan** and **Elrohir** were the twin sons of Elrond the Half-elven and Celebrían of Rivendell, and were noted for their close friendship and cooperation with the Dúnedain of the North, Rangers of the North, and Men in general, and for their deeds during the War of the Ring.
 
@@ -11,7 +11,7 @@
 
 <53>In TA 2509, the brothers rescued their mother from her imprisonment by Orcs. Although she was physically healed by Elrond, after fear and torment from the Orcs she lost all joy from Middle-earth, and so she departed for the Undying Lands the next year. Due to this, the twins harbored great hatred for Orcs.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elladanAndElrohir/2.jpg)
+![](elladanAndElrohir/2.jpg)
 
 #### Elladan and Elrohir as they appear in the fan film Born of Hope
 
@@ -22,7 +22,7 @@
 <53>When the Fellowship of the Ring formed in Rivendell, the twins' role was to scout the lands and prepare the way for the Fellowship. Later, they traveled along with Halbarad and the Grey Company. They delivered a message from their father concerning the Paths of the Dead and accompanied Aragorn, Legolas and Gimli there. Elladan traveled behind the company, the Dead following after him. They battled on the Fields of Pelennor "with stars bound to their brows."
 
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elladanAndElrohir/3.jpg)
+![](elladanAndElrohir/3.jpg)
 
 #### Elladan and Elrohir
 
@@ -36,7 +36,7 @@
 
 <53>When their father departed to the West, the brothers stayed in Rivendell for a while. In time, their grandfather Celeborn came to live with them before journeying to the Grey Havens. It is unknown whether Elladan and Elrohir chose to remain in Middle-earth as mortal men or depart with the last of their kindred to Valinor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elladanAndElrohir/4.jpg)
+![](elladanAndElrohir/4.jpg)
 
 #### Elladan from The Lord of the Rings: The Card Game
 
@@ -48,7 +48,7 @@
 
 <53>The brethren were friends and companions-in-arms of the Rangers of the North, and helped defend the remnants of Arnor from evil after the fall of the North-kingdom. They held a special grudge against Orcs because of their mother's suffering at their hands.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elladanAndElrohir/5.jpg)
+![](elladanAndElrohir/5.jpg)
 
 #### Elrohir from The Lord of the Rings: The Card Game
 

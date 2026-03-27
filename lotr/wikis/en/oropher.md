@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/oropher/1.jpg)
+![](oropher/1.jpg)
 
 #### Oropher and Thranduil
 
@@ -15,7 +15,7 @@
 
 ## War of Last Alliance
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/oropher/2.jpg)
+![](oropher/2.jpg)
 
 #### Oropher with Thranduil
 

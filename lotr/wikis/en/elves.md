@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/1.jpg)
+![](elves/1.jpg)
 
 <53>The **Elves**, were the first and eldest of the Children of Ilúvatar, considered the fairest and wisest of the earthly race of Arda. They called themselves the **Quendi**, referring to how at their creation, they were the only living things they knew of who spoke.
 
@@ -11,7 +11,7 @@
 
 ## **Creation & awakening**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/2.jpg)
+![](elves/2.jpg)
 
 #### At Lake Cuiviénen
 
@@ -19,7 +19,7 @@
 
 <53>According to legend, Imin, Tata, and Enel, and their wives joined up and walked through the forests. They came across six, nine, and twelve pairs of Elves, and each "patriarch" claimed the pairs as his folk in order. The now sixty Elves dwelt by the rivers, and they invented poetry and music in Middle-earth. Journeying further, they come across a band of Elves watching the stars, which Tata claimed as his. These were tall and dark-haired, the fathers of most of the Ñoldor. The ninety-six Elves now invented many new words. Continuing their journey, they found twenty-four pairs of Elves, singing without language, and Enel added them to his people. These were the ancestors of most of the Lindar or "singers", later called Teleri. They found no more Elves; Imin's people, the smallest group, were the ancestors of the Vanyar. All in all they numbered 144. Because all Elves had been found in groups of twelve, twelve became their base number and 144 their highest number (for a long time). None of the later Elvish languages had a common name for a greater number.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/3.jpg)
+![](elves/3.jpg)
 
 #### The Drawing of the Sword
 
@@ -29,7 +29,7 @@
 
 <53>The Elves were content and dwelt long under the stars in woods near Cuiviénen. However, Melkor, the Dark Lord, became aware of them and their location before the Valar, and sent evil spirits to spy on and afflict them. Many spirits that harassed the Elves came in the form of great horsemen for the purpose of causing the Elves to fear the Vala Oromë, whom Melkor knew would likely be the first Vala to discover them. And so it was that, on one of his many journeys in the wilds of Middle-earth, Oromë came upon the Elves. Due to Melkor's foresight and malice, some Elves were afraid. Hiding and fleeing, some of these early Elves were taken by Melkor or his agents. These Elves were never seen again and were taken to Utumno, and were believed to be twisted and mutilated into the first Orcs. However, the Elves who stayed quickly learned that Oromë was far different from the evils that had been pursuing them. Oromë quickly came to love the Elves, and them and gave them the name Eldar (People of the Stars).
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/4.jpg)
+![](elves/4.jpg)
 
 #### Fëanor and his sons swear their Oath beneath the tower of the Mindon Eldaliéva in Tirion
 
@@ -37,7 +37,7 @@
 
 <53>When the three returned, they spoke to their people of the beauty and bliss of what they had seen and urged them to travel to Valinor and abide there. Thus began the Great Journey, also known as the Sundering of the Elves. All of the Elves agreed, save for the Avari, who chose to remain in Middle-earth. Led by Oromë, the Elven kindreds marched out of Cuiviénen but as they moved out of the forest area and saw the black clouds surrounding the north where Melkor had once lived, some grew afraid and turned back to Cuiviénen. The rest continued, albeit slowly, often stopping until Oromë returned, but were curious about what they saw.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/5.jpg)
+![](elves/5.jpg)
 
 #### Kinslaying at Alqualonde
 
@@ -47,13 +47,13 @@
 
 <53>The Elves that came to Aman were enriched by the knowledge of the Valar and the bliss of their lands, and the three Elven clans developed their own cultures. The former ambassadors Ingwë of the Vanyar and Finwë of the Ñoldor became kings of their people and, as Elwë never returned to Valinor, his brother Olwë became King of the Teleri. The Vanyar were drawn to the Valar and the full light of the Two Trees of Valinor and settled at the foot of Taniquetil with their king Ingwë, who became High King of the Elves, revered by all Elves living in the mountain below Manwë. The Ñoldor, beloved by Aulë the Smith for their love of arts and crafts, built the great city of Tirion on Túna where Finwë, the High King of the Ñoldor, lived. The Teleri were drawn to the sea and some never left the island ferry of Tol Eressëa until Olwë their lord later built Alqualondë, with the help of the Ñoldor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/6.jpg)
+![](elves/6.jpg)
 
 #### Gil-galad, Cirdan, and Galadriel with the Three Rings of Power, as portrayed in film
 
 <53>They developed writing and the arts of building, metallurgy, arts and crafts, and shipbuilding. Things like high culture, poetry, and many of the more subtle things were valued as well. For three ages, the Elves lived in total peace and bliss wandering the lands and beautifying its glory. Unfortunately, after three ages of imprisonment, Melkor completed his sentence. He feigned rehabilitation, and convinced Manwë that he was no longer a threat. However, his stay in prison had only increased his malice, and remembering that it was for the sake of the Elves that he had been overthrown, he sought to poison the peace of Valinor and bring ruin to the Elves. Adopting a fair and wise form, he began to cultivate the trust of those living in Valinor. Of the three Elven clans, Melkor saw the Teleri as being rather useless to him, and the Vanyar would have nothing to do with him, being content in their development. But the Ñoldor, desiring more knowledge, were willing to listen to him, and Melkor saw that, due to their creative skill, they were more potentially useful than the Teleri. And so Melkor began to teach them, and for a long while none of his evil was made manifest, for any who sought his aid and counsel benefited greatly from it. But with his genuine teachings came half-truths and disguised lies regarding the intentions of the Valar. Most harmful among these was the knowledge that Men, the Second Children of Illuvatar, would one day appear in Middle-earth. The Valar had not revealed this to the Elves, and after a time, rumors began to circulate amongst the Ñoldor that the Valar had brought them to Aman so that Men might inherit Middle-earth and usurp the glory that might have belonged to the Elves. Chief amongst these discontented Elves was Fëanor, the firstborn son of Finwë, King of the Ñoldor. Fëanor was gifted beyond virtually all of his peers in terms of beauty, skill, subtlety, and craftsmanship. It was he who had developed, amongst many other wonders, the system of letters used by the Ñoldor. But his greatest creation had been the Silmarils, three diamond-like gems in which the intermingled light of the Two Trees of Valinor had been captured.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/7.jpg)
+![](elves/7.jpg)
 
 #### Elrond at the Siege of Barad-dûr with elite Ñoldorin soldiers
 
@@ -65,7 +65,7 @@
 
 ## **The War of the Jewels**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/8.jpg)
+![](elves/8.jpg)
 
 #### Elrond, Celeborn, and Galadriel at the Grey Havens prior to departing to Valinor
 
@@ -73,7 +73,7 @@
 
 <53>Though for hundreds of years, the Ñoldor Elves fought and endured the forces of Morgoth with little military aid from the other Elven kindreds, a common fear and a common foe allowed for the Elves (especially the Ñoldor) to mingle with mortal Men, who had recently come into Beleriand from the east. The first of these were the Three Houses of the Edain. They were followed by the Easterlings, some of whom served Morgoth. At first, only the Ñoldor had dealings with Men, as the other Elves feared them, but over the generations, Men served the Ñoldor and gained their respect. After the Quest for the Silmaril, the blood of the Eldar and the Edain mingled with each other, first through the marriage of Beren and Lúthien, and then through Tuor and Idril. This union would create a bond that would enrich and ennoble both kindreds from then to later ages.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/9.jpg)
+![](elves/9.jpg)
 
 #### Elves leaving Middle-earth in The Lord of the Rings: The Return of the King
 
@@ -85,7 +85,7 @@
 
 <53>The Elven realms flourished for over one thousand years until SA 1200 when Sauron, under the guise of a messenger from the Valar named Annatar, appeared out of the east to offer knowledge to the Elves. Gil-galad mistrusted him and barred him from his kingdom. Sauron then approached Celebrimbor and the Elves of Eregion, and against Gil-galad's advice they accepted him and his knowledge.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/elves/10.jpg)
+![](elves/10.jpg)
 
 #### The Woodland Realm was one of the last populated Elven nations
 

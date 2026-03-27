@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/1.jpg)
+![](fingolfin/1.jpg)
 
 #### Morgoth and the High King of Noldor
 
@@ -13,7 +13,7 @@
 
 <53>Fingolfin was born in Tirion in Valinor during the Noontide of Valinor. Neither he nor his brothers were particularly close to Fëanor, as he was rather scornful of them. Nonetheless, he lived in peace with his kin for many centuries. However, the peace of Valinor was brought to an end when Melkor, the most powerful of the Valar and the source of evil in Arda, was released from imprisonment. Feigning repentance and rehabilitation, Melkor's malice had in fact only festered and grown worse while imprisoned, and he sought to bring ruin upon the Elves for, as he saw it, causing his downfall. Of the three clans of Elves in Aman, only the Ñoldor welcomed him, as his knowledge was the greatest of any of the Valar. Gaining their confidence, Melkor was slowly able to spread lies and half-truths amongst them regarding the intentions of the Valar. Over time, these lies bore fruit and the Ñoldor began to openly debate remaining in Aman, and chief among the disgruntled Elves was Fëanor. One of the lies was that the sons of Indis, of which Fingolfin was the eldest, were trying to usurp Fëanor as the rightful heir of Finwë and seize the Silmarils, three magnificently beautiful gems that Fëanor had created, for themselves.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/2.jpg)
+![](fingolfin/2.jpg)
 
 #### Get thee gone, and take thy due place!
 
@@ -21,13 +21,13 @@
 
 ## **Life in Middle-earth**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/3.jpg)
+![](fingolfin/3.jpg)
 
 #### Fingolfin Leads the Host Across the Helcaraxë
 
 <53>As such, Fingolfin ended up becoming the leader of the second and largest of the three Ñoldor hosts to leave Tirion for Middle-earth. Fëanor led the first, and Fingolfin's brother Finarfin led the third, smallest, and most reluctant host. Most of those who journeyed with him were somewhat reluctant to leave, and so it took a longer time for them to start their journey than the host directly following Fëanor. Unfortunately, this delay caused Fingolfin to make a grievous mistake, for not long after setting out, Fëanor attempted to seize the fleet of the seafaring Teleri Elves in order to get to Middle-earth more quickly and safely. The Teleri resisted fiercely, and Fingolfin's host caught up with Fëanor's during the middle of a heated battle. Seeing this, Fingolfin mistakenly assumed that the Teleri had attempted to waylay the Ñoldor, perhaps even at the request of the Valar. He and his host joined the battle against the Teleri, and completed the first Elven kinslaying. After the slaughter and the theft of the ships, the Ñoldor encountered a figure, possibly Mandos himself, who proclaimed a terrible Doom upon them for the Kinslaying. Hearing this, and having not participated at all in the slaughter of the Teleri, Finarfin's host turned back and returned to Tirion. The rest of the Ñoldor continued north, but as the journey grew more and more dangerous, many of the Ñoldor, upset about the Kinslaying and having been reluctant in the first place, began to openly curse Fëanor. In response, he and those most loyal to him departed one night on the Teleri ships. Upon reaching Middle-earth, Fëanor burned the ships. The fires were spotted by Fingolfin's host, and they knew that they were betrayed. Fingolfin's host's only route to Middle-earth was now to cross the phenomenally dangerous ices of the Helcaraxë or to return to Tirion in disgrace and suffer the punishment of the Valar for their role in the Kinslaying. But Fingolfin wished to continue to Middle-earth, in no small part to confront the brother for his utter betrayal. Fingolfin's host chose to cross the Helcaraxë, but lost many of its members along the way, greatly increasing the wrath and bitterness that Fingolfin and his host felt for Fëanor's host. The host of Fingolfin finally arrived in Middle-earth at the rising of the Sun (FA 1) and was assailed by an Orc army in Lammoth resulting in the death of Fingolfin's youngest child. Destroying the Orc host, Fingolfin and his army approached the doors of Angband, Morgoth's great fortress and smote upon them, but Morgoth and his servants, dismayed by the light of the new Sun, stayed hidden inside. Fingolfin and the Ñoldor then came to the northern shores of Lake Mithrim (FA 2), from which the Fëanorian part of the host had withdrawn.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/4.jpg)
+![](fingolfin/4.jpg)
 
 #### Fingolfin vs Morgoth
 
@@ -35,19 +35,19 @@
 
 ## **Combat with Morgoth and Death**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/5.jpg)
+![](fingolfin/5.jpg)
 
 #### Fingolfin vs Morgoth
 
 <53>Though the Elves were able to contain Morgoth's Orcs, they did not possess the strength to attack Angband directly or actually overthrow Morgoth. Morgoth himself was not idle during the four hundred years of the siege, and he spent the time increasing the strength of his forces and creating new, deadlier creatures than Orcs for his armies. After reaching what he believed to be sufficient levels of soldiers, Morgoth's armies burst into Beleriand in the Dagor Bragollach. Accompanied by massive volcanic eruptions, the Orcs, Balrogs, and the dragon Glaurung completely overran the Elven defenses surrounding Angband, driving far into the south of Beleriand and slaughtering untold numbers of Elves. Fingolfin's kingdom in Hithlum managed barely to defend itself, as the mountains surrounding it provided protection against the flame and magma Morgoth had caused to spew from the Iron Mountains around Angband. But most of the other kingdoms of the Ñoldor were destroyed. The apparent totality of the defeat caused a great wrath and despair to overcome Fingolfin, and he resolved to go to Angband and challenge Morgoth himself to single combat. He mounted his horse and proceeded to ride across Anfauglith with such wrath that it was said that those who saw him mistook him for the Vala Oromë. He rode to Angband, unhindered by any of Morgoth's servants, smote upon the gates of Angband and shouted his challenge for all to hear, mocking Morgoth. Morgoth, though still said to be the "mightiest of all things in this world", was reluctant to face Fingolfin, because despite his might, he alone of the Valar knew fear. But Fingolfin's insults could not be ignored without Morgoth losing face before his captains. As such, he donned black armor, took up a great mace, and emerged from Angband. Fingolfin drew his sword, Ringil, and the duel began. Many times Morgoth attempted to smite Fingolfin, but the Elven King managed to dodge all of Morgoth's blows, and wounded the Dark Lord seven times. But after a time, Fingolfin grew weary, and Morgoth beat him to the ground three times. Fingolfin rose up and continued to fight each time, but as Mandos had foretold, no power of the Elves could defeat Morgoth, a Vala. Eventually, Fingolfin stumbled backwards into one of the many pits carved by Morgoth's failed strikes, and Morgoth stepped on the Elven King's neck and killed him. However, Fingolfin's last, desperate stroke managed to cut into Morgoth's heel.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/6.jpg)
+![](fingolfin/6.jpg)
 
 #### Fingolfin vs Morgoth
 
 <53>After defeating him, Morgoth took Fingolfin's body and broke it, intending to feed it to his wolves. But Thorondor, the King of Eagles, swooped down upon Morgoth and with his talons slashed at Morgoth's face. As Morgoth reeled from this new assault, Thorondor retrieved Fingolfin's body and brought it to a mountaintop overlooking Gondolin. Turgon built a cairn over the remains of his father, and Fingon, in sorrow, became High King of the Ñoldor. After Fingolfin's defeat, though he had been defeated by Morgoth, the Orcs never made any type of boastful song to celebrate, nor did the Elves sing of it, for their sorrow was far too great. Morgoth walked with a limp after the duel, and the wounds he received pained him forever.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingolfin/7.jpg)
+![](fingolfin/7.jpg)
 
 #### The Death of Fingolfin
 

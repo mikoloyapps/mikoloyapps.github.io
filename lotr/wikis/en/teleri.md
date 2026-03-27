@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/teleri/1.jpg)
+![](teleri/1.jpg)
 
 #### Teleri vs Noldor, First Kinslaying
 

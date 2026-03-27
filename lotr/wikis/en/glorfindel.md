@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/1.jpg)
+![](glorfindel/1.jpg)
 
 > *"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and clean, and his voice like music; on his brow set wisdom, and in his hand was strength."* 
 >> \- The Fellowship of the Ring
@@ -14,7 +14,7 @@
 
 ## **First Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/2.jpg)
+![](glorfindel/2.jpg)
 
 #### Glorfindel's banner
 
@@ -26,7 +26,7 @@
 
 ## Fall of Gondolin
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/3.jpg)
+![](glorfindel/3.jpg)
 
 #### Glorfindel and Ecthelion
 
@@ -34,7 +34,7 @@
 
 <53>Glorfindel joined Tuor in defending the Square, until Egalmoth arrived and Ecthelion was slain during his fight with Gothmog. When King Turgon was also slain, the Gondolindrim escaped through Idril's Secret Way, with Glorfindel holding the rear manfully and lost more of his followers there.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/4.jpg)
+![](glorfindel/4.jpg)
 
 #### Glorfindel and the Balrog
 
@@ -53,7 +53,7 @@
 
 <53>It is possible that Glorfindel remained for a time in Lindon along with the other noble Elves, such as Gil-galad, Círdan, and Elrond, a descendant of Tuor and Idril. However by the mid-Third Age he dwelled in Rivendell.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/5.jpg)
+![](glorfindel/5.jpg)
 
 #### The Battle of Fornost
 
@@ -69,19 +69,19 @@
 > *"Suddenly into view below came a white horse, gleaming in the shadows, running swiftly. In the dusk its headstall flickered and flashed, as if it were studded with gems like living stars. The rider's cloak streamed behind him, and his hood was thrown back; his golden hair flowed shimmering in the wind of his speed.... it appeared that white light was shining through the form and raiment of the rider, as if though through a thin veil."*
 >> \- The Lord of the Rings, The Fellowship of the Ring
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/6.jpg)
+![](glorfindel/6.jpg)
 
 #### Glorfindel and the Nazgûl
 
 <53>Nearly a thousand years later in TA 3018, Glorfindel was sent by Lord Elrond to search for Frodo Baggins and his companions. He attacked some of the Nazgûl and drove them away from the Last Bridge, pursuing them for awhile. He then found and led the company for days stopping only briefly to let the Hobbits rest. When the Nazgûl approached again, Glorfindel put Frodo on his white horse Asfaloth, and bade the horse take Frodo to Rivendell. Asfaloth outran the black horses of the Nazgûl and managed to cross the Ford of Bruinen which led to Rivendell. A severely weakened Frodo, conscious but delirious due to the wound he bore from the Morgul-knife, turned back to defy the Riders who pleaded for him to come with them. The Nazgûl entered the shallow ford but were there un-horsed and swept away by a torrent of enchanted water which guarded the entrance to Imladris charged with the power of the Half-elven and indeed by Gandalf the Grey. He later led the injured Frodo and the rest of the company safely to Rivendell.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/9.jpg)
+![](glorfindel/9.jpg)
 
 #### Glorfindel, Elrond and Men's King Earnur unite against the Witch-king of Angmar
 
 <53>At the Council of Elrond, Glorfindel sat in a position of honour alongside Elrond and Gandalf. He suggested that the One Ring should be either sent to Tom Bombadil or cast into the depths of the Sea, but Gandalf believed that the One would resurface on land after a hundred or thousand years. He was briefly considered to be a member of the Fellowship of the Ring, but was later ruled out: his power would be of no use in a mission of secrecy to Mordor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/7.jpg)
+![](glorfindel/7.jpg)
 
 #### Glorfindel
 
@@ -95,7 +95,7 @@
 
 <53>Glorfindel was known for his golden hair, which at some point was described as yellow. He was an Elf of great bodily strength and heroism. The Gondolindrim loved him dearly and wept upon witnessing his passing at Cirith Thoronath. He was a capable leader, as seen when he led his House during the Fall, and loyal to his King and brothers-in-arms. He was very courageous and mindful of the refugees of Gondolin as they escaped; he chose to protect the escaping Gondolindrim (especially Tuor and Idril), but "would have defended them even had they been fugitives of any rank". He displayed more of his power and courage when, millennia later, he faced against the Nine Riders to save Frodo.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/glorfindel/8.jpg)
+![](glorfindel/8.jpg)
 
 #### Glorfindel in The Lord of the Rings: The Battle for Middle-earth II
 

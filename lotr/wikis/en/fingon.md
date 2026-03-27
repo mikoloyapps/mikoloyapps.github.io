@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingon/1.jpg)
+![](fingon/1.jpg)
 
 <53>**Fingon** the "Valiant" was an Ñoldorin Elf, the eldest son of Fingolfin, and older brother of Turgon, Aredhel, and Argon.
 
@@ -11,7 +11,7 @@
 
 <53>After Fëanor's abandonment of them, Fingon and his people were led by Fingolfin across the perilous Helcaraxë. They arrived in Middle-earth at the beginning of the First Age, and the Ñoldor witnessed the rising of the Sun.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingon/2.jpg)
+![](fingon/2.jpg)
 
 #### The Children of Fingolfin
 
@@ -21,7 +21,7 @@
 
 <53>Fingon became High King when Fingolfin died dueling with Morgoth after the Dagor Bragollach. Seven years later, Morgoth's forces invaded Hithlum, and Fingon was hard-pressed and outnumbered, but Círdan and the people of the Falas, who came up the Firth of Drengist rescued them in their ships.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fingon/3.jpg)
+![](fingon/3.jpg)
 
 #### Fingon saves Maedhros from Thangorodrim
 

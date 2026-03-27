@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nienna/1.jpg)
+![](nienna/1.jpg)
 
 <53>**Nienna** was an Ainu, one of the Aratar and a Vala who was responsible for the mercy and grief spread across Arda. She was the sister of Mandos and Irmo and had no spouse. Her part in the Music of the Ainur was one of deep sadness, from which grief entered the world at its beginning. She had dominion over the Halls of Nienna, which were on the western edge of Valinor, looking over the sea.
 
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nienna/2.jpg)
+![](nienna/2.jpg)
 
 #### Nienna and the Masters of the Souls
 
@@ -15,7 +15,7 @@
 
 <53>During the creation of the Two Trees, she watered the mound with her tears.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nienna/3.jpg)
+![](nienna/3.jpg)
 
 #### Nienna, the Compassionate
 

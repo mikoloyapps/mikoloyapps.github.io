@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/olwe/1.jpg)
+![](olwe/1.jpg)
 
 <53>**Olwë** was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressëa and Alqualondë, apart from the rest of the Elves of Aman. Olwë became Lord of Alqualondë and King of the Teleri.
 
@@ -9,7 +9,7 @@
 
 <53>Olwë and both his brothers ware born in Cuiviénen during the Years of the Trees to unnamed parents, and their father was the direct descendant of Enel and Enelyë. After Oromë discovered the Quendi, Elwë and Olwë became both lords of the third clan of the Elves, the later Teleri, and together they lead their people from Cuiviénen to the West. However, during a long wait in Beleriand Elwë disappeared. After years of searching, Olwë grew impatient, and led the greater part of the Teleri to Valinor, on the insistence of the Vala Ulmo.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/olwe/2.jpg)
+![](olwe/2.jpg)
 
 #### Olwë, King of the Falmari
 

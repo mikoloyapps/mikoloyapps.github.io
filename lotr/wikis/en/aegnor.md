@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aegnor/1.jpg)
+![](aegnor/1.jpg)
 
 <53>**Aegnor** was a Ñoldorin Elf, the third son of Finarfin, elder brother of Galadriel, younger brother of Finrod Felagund and Angrod and lord of the Ñoldor of Dorthonion in the First Age.
 
@@ -7,7 +7,7 @@
 
 <53>Aegnor was born in Tirion sometime during the Noontide of Valinor. When Fëanor spoke in Tirion, Aegnor was moved by his words as was his brother but neither spoke against their father; however, he and his brothers followed the host of the Ñoldor to Middle-earth. When the Ñoldor returned to Middle-earth, he together with Angrod held the northern slopes of the highlands of Dorthonion against Morgoth throughout the time of the Siege of Angband.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aegnor/2.jpg)
+![](aegnor/2.jpg)
 
 #### Aegnor first meets Andreth
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/blueWizards/1.jpg)
+![](blueWizards/1.jpg)
 
 > *"Their task was to circumvent Sauron: to bring help to the few tribes of Men that had rebelled from Melkor-worship, to stir up rebellion... and after his first fall to search out his hiding and to cause dissension and disarray among the dark East... They must have had very great influence on the history of the Second Age and Third Age in weakening and disarraying the forces of the East... who both in the Second Age and Third Age otherwise have... outnumbered the West."*
 >> \- J.R.R. Tolkien
@@ -8,7 +8,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/blueWizards/2.jpg)
+![](blueWizards/2.jpg)
 
 #### The Blue Wizards journeying to the East
 
@@ -19,7 +19,7 @@
 
 <53>The time that the Blue Wizards arrived in Middle-earth is uncertain. In Unfinished Tales, Tolkien wrote that the five Istari came to Middle-earth together in TA 1000. However, in The Peoples of Middle-earth, they are said to have arrived in the Second Age, around the year SA 1600, the time of the forging of the One Ring. Their mission was directed at weakening Sauron's forces in the eastern and southern parts of Middle-earth, whereas the other Istari were focused on the west.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/blueWizards/3.jpg)
+![](blueWizards/3.jpg)
 
 #### The two Blue Wizards Alatar and Pallando
 

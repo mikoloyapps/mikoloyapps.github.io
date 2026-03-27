@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/beleg/1.jpg)
+![](beleg/1.jpg)
 
 <53>**Beleg**, also known as **Beleg Cúthalion** or **Beleg Strongbow** for his good bowmanship, was a Sindarin Elf who served in the army of King Elu Thingol of Doriath as Chief Marchwarden - and was a predominant companion of Túrin Turambar.
 
@@ -7,7 +7,7 @@
 
 <53>Beleg "followed no man", and "could not be restrained".
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/beleg/2.jpg)
+![](beleg/2.jpg)
 
 #### Beleg Departs Menegroth
 
@@ -15,7 +15,7 @@
 
 <53>He and his friend Mablung were the only Elves of Doriath to fight with the Union of Maedhros in the Nírnaeth Arnoediad, as King Thingol would have nothing to do with the war.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/beleg/3.jpg)
+![](beleg/3.jpg)
 
 #### Beleg receives Anglachel
 
@@ -23,7 +23,7 @@
 
 <53>Later, he became a good friend and brother-in-arms of Túrin Turambar, a young Man of Dor-lómin. When Túrin left Doriath, Beleg received permission from Thingol to follow him into exile and bring him the king's pardon, wielding the black sword Anglachel that Eöl had forged and given to Thingol in tribute. Beleg found the band of outlaws Túrin was leading while Túrin was away scouting, and was tortured by some of them until Túrin found and released him. Unable to persuade Túrin to return to Doriath with him, Beleg returned to King Thingol and gained permission to join Túrin in his free exploits, taking with him the Dragon-helm of Dor-lómin as a gift for Túrin. He went into the wilds again and found Túrin on Amon Rûdh. Together with Túrin, he became for a while a captain against Morgoth, and the land they dwelt in became known as the Land of Bow and Helm or Dor-Cúarthol in Sindarin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/beleg/4.jpg)
+![](beleg/4.jpg)
 
 #### Beleg is Slain
 

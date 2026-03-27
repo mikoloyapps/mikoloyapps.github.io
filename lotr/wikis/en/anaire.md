@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/anaire/1.jpg)
+![](anaire/1.jpg)
 
 <53>**Anairë** was an Elf of Valinor and the wife of Fingolfin.
 

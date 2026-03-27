@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earnur/1.jpg)
+![](earnur/1.jpg)
 
 <53>**Eärnur** was the thirty-third and last King of Gondor until the accession of Aragorn II Elessar. He took the throne upon the death of his father Eärnil II in TA 2043, and after his disappearance the Stewards of Gondor ruled in his name for many generations.
 
@@ -7,7 +7,7 @@
 
 <53>Eärnur was the son of Eärnil II. He was a great warrior and became a great leader of armies before he became King. His greatest victory was against Angmar in TA 1975 in the Battle of Fornost, in which he defeated the Witch-king, whom he intended to slay had his steed not panicked in terror of the Witch-king's darkness. It was to him that Glorfindel stated his prophecy that "not by the hand of men shall he fall" referring to the Witch-king as he fled from defeat. After becoming King in TA 2043, he was challenged by the Witch-king of Angmar, chief of the Ringwraiths, who then resided in Minas Morgul. Eärnur, being quick to anger and wrath, would have accepted his challenge had the wise Steward Mardil Voronwë not held him back, and so the first challenge went unanswered.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/earnur/2.jpg)
+![](earnur/2.jpg)
 
 #### The Battle of Fornost where Eärnur met the Witchking
 

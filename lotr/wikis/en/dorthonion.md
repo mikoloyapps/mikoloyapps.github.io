@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/dorthonion/1.jpg)
+![](dorthonion/1.jpg)
 
 <53>**Dorthonion**, later **Taur-nu-Fuin** (also called **Orod-na-Thon** and **Deldúwath**), was a highland region of the First Age lying immediately to the north of Beleriand, and south of the plains of Ard-galen (later Anfauglith) bordering Morgoth's stronghold of Thangorodrim.
 
@@ -12,7 +12,7 @@
 
 <53>Dorthonion was originally ruled by Angrod and Aegnor, sons of Finarfin, but it was overrun by Morgoth in the Dagor Bragollach, after which it was known as Taur-nu-Fuin which translates as Forest under Night or The Forest under the Shadow of the Night.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/dorthonion/2.jpg)
+![](dorthonion/2.jpg)
 
 #### A map of Dorthonion
 

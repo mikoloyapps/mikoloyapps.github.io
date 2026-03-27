@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thingol/1.jpg)
+![](thingol/1.jpg)
 
 #### Thingol and Melian
 
@@ -15,7 +15,7 @@
 
 ## **Rule of Doriath**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thingol/2.jpg)
+![](thingol/2.jpg)
 
 #### Finwë and Elwë in Cuiviénen before the Great Journey to Aman
 
@@ -25,7 +25,7 @@
 
 ## **The Quest for the Silmaril**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thingol/3.jpg)
+![](thingol/3.jpg)
 
 #### Elwë is enchanted by Melian in the woods of Nan Elmoth
 

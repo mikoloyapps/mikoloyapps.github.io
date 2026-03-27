@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aredhel/1.jpg)
+![](aredhel/1.jpg)
 
 <53>**Aredhel**, also known as Aredhel Ar-Feiniel, the "White Lady of the Ñoldor", was the only daughter and third child of the Noldorin High-prince Fingolfin and his wife Anairë. Aredhel was the sister of Fingon, Turgon and Argon, and the mother of Maeglin.
 
@@ -7,7 +7,7 @@
 
 <53>Aredhel was born in YT 1362, the same year as her cousin Galadriel, and lived in Tirion. She followed her father and brothers through Helcaraxë and dwelt in Nevrast with her brother Turgon until Gondolin was complete, and when it was she went with him to the hidden city. But after two hundred years, the longing for the forests and wide lands overcame her, and she asked leave to depart. Turgon was unwilling, fearing the exposure of the Hidden Kingdom, but eventually relented and allowed her to leave.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aredhel/2.jpg)
+![](aredhel/2.jpg)
 
 #### Aredhel Ar-Feiniel dressed in white and silver in the forest of Nan Elmoth
 
@@ -15,7 +15,7 @@
 
 <53>Eöl the Dark Elf ruled those woods; seeing Aredhel and noticing her beauty, he set enchantments about her so that she could not escape the forest. Eventually, she wandered to Eöl's dwelling in the woods, where he finally revealed himself to her. After marrying him, she stayed with him many years. They had a son named Maeglin, and telling him of her former life and home, she desired to see them again, and left Nan Elmoth with Maeglin while Eöl was away. They reached Gondolin (not realizing that Eöl was following them all the while), and were received with rejoicing. Eöl was also discovered and brought before Turgon, but rather than accept Turgon's judgment to remain, he attempted to kill his son for disobeying him with a poisoned javelin concealed in his cloak. Aredhel stepped in front of it and was hit by it and because of its poison, she died that night from the wound.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/aredhel/3.jpg)
+![](aredhel/3.jpg)
 
 #### Eöl welcomes Aredhel
 

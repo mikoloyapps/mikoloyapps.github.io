@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/galadhrim/1.jpg)
+![](galadhrim/1.jpg)
 
 <53>The **Galadhrim** (S.: "People of the Trees") were the Elven people of mixed Nandorin, Avarin, and Sindarin descent, who lived in the forest of Lothlórien that was ruled by Kings Amdír and Amroth originally and Galadriel and Celeborn later.
 
@@ -7,7 +7,7 @@
 
 <53>The Galadhrim were mostly Silvan Elves, descendants of the Nandor who had not continued the journey westward. In the Second Age they took the Sindarin Elf Amdír as their king and he ruled until he was slain with many of his people during the Battle of Dagorlad.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/galadhrim/2.jpg)
+![](galadhrim/2.jpg)
 
 #### Galadhrim Elves (Haldir is shown in the foreground)
 

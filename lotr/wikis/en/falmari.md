@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/falmari/1.jpg)
+![](falmari/1.jpg)
 
 #### Ossë and the Teleri
 
@@ -11,7 +11,7 @@
 
 <53>During the Great Journey of the Elves of Cuiviénen, the Teleri had two lords: Elwë Singollo and his brother Olwë. While crossing Beleriand, however, Elwë became lost in the forests, wherefore many of the Teleri refused to continue into westward.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/falmari/2.jpg)
+![](falmari/2.jpg)
 
 #### The Ships of the Teleri Drawn by Swans
 

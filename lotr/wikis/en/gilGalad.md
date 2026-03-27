@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/1.jpg)
+![](gilGalad/1.jpg)
 
 <53>**Gil-galad**, born Artanáro, was a Ñoldorin Elf and son to Orodreth. He was the last High King of the Ñoldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.
 
@@ -9,7 +9,7 @@
 
 ## **First Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/2.jpg)
+![](gilGalad/2.jpg)
 
 #### High King of the Noldor
 
@@ -19,7 +19,7 @@
 
 ## **Second Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/3.jpg)
+![](gilGalad/3.jpg)
 
 #### Gil-galad at the end of the Second Age
 
@@ -27,7 +27,7 @@
 
 <53>Gil-galad had an alliance with the Men of Westernesse, especially with Tar-Aldarion (the Mariner), The Faithful and Elendil. Gil-galad reigned as High King of the Ñoldor throughout the Second Age. During this time Gil-galad was given the seeds of mellyrn, or Mallorn, trees by Tar-Aldarion, King of Númenor. But the seeds wouldn't grow in his land so he gave them to Galadriel before she left Lindon. She carried these seeds for a long time, finally planting them in Lindórinand. When they grew there it was renamed Laurelindórenan, Lórien of Blossom. At some point, Gil-galad and Elrond were approached by a stranger called Annatar, who called himself the Lord of Gifts. Fair seeming were his words and offerings, but Gil-galad perceived that this Annatar was not what he seemed. Therefore he refused to have dealings with him, and sent word abroad to all the Elves that they should shun this stranger.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/4.jpg)
+![](gilGalad/4.jpg)
 
 #### Gil-galad's armor and spear Aeglos in the 2001 film The Fellowship of the Ring.
 
@@ -35,7 +35,7 @@
 
 <53>Sauron invaded Eriador in great force in the War of the Elves and Sauron, destroying Eregion and laying siege to the Grey Havens. But Gil-galad was aided by the Númenóreans, then ruled by Tar-Minastir, who sent a great fleet which defeated the Dark Lord's forces. Sauron, who barely escaped with a bodyguard, returned to Mordor, where he laid low, gathering his strength, plotting vengeance against the Dúnedain. Over a thousand years later Sauron was again confronted by the Númenóreans and brought back as a prisoner to their homeland, leaving Gil-galad free to rule Middle-earth in peace. In Sauron's absence, Gil-galad's power grew to the point where Sauron was dismayed when he returned from the ruin of Númenor. Yet the survivors of Númenor, known as the The Faithful, arrived in Middle-Earth and established the Realms in Exile, with Gil-galad befriending the High King Elendil and building for him the three towers on the Tower Hills. A century later when Sauron attacked Gondor, Elendil and Gil-galad took counsel as to how they should deal with him. At length they decided to gather all of their hosts and attack Sauron before he could recover his strength, forming the Last Alliance of Elves and Men.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/5.jpg)
+![](gilGalad/5.jpg)
 
 #### The shield of Gil-galad
 
@@ -43,7 +43,7 @@
 
 <53>Eventually Sauron emerged and Gil-galad and Elendil then duelled the Dark Lord. During their struggle, Gil-galad and Elendil inflicted enough mortal wounds on the Dark Lord to destroy his body, though they received terrible wounds in return. This sacrifice allowed Isildur to sever the Ring from the Dark Lord's hand. But Gil-galad received severe burns from "the heat of Sauron's hand", and so he passed on to the Halls of Mandos. He was not known to have a wife, nor any children, so the kingship of the Ñoldor ended in Middle-earth and Círdan was from then on the Lord of the Grey Havens and Lindon.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/gilGalad/6.jpg)
+![](gilGalad/6.jpg)
 
 #### Benjamin Walker portrays Gil-galad in The Rings of Power
 

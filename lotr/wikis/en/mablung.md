@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mablung/1.jpg)
+![](mablung/1.jpg)
 
 #### King Thingol and Mablung
 
@@ -11,7 +11,7 @@
 
 <53>In FA 466, Mablung was part of the Hunting of the Wolf together with King Thingol, Beleg, Huan, and Beren, who later married Lúthien. In the fight with the wolf Carcharoth, Huan was killed and Beren mortally wounded. Upon Carcharoth's death, Mablung opened the wolf's belly to retrieve the precious Silmaril he had consumed.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mablung/2.jpg)
+![](mablung/2.jpg)
 
 #### Mablung (left) fighting with Beleg in the Nirnaeth Arnoediad
 

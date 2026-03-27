@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/houseOfThingol/1.jpg)
+![](houseOfThingol/1.jpg)
 
 <53>The **House of Thingol** was a noble house of Sindar Elves. The House of Thingol ruled over the realm of Doriath for nearly four millennia, from YT 1152 until FA 506 and the Second Kinslaying.
 

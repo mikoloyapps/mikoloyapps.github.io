@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fellbeast/1.jpg)
+![](fellbeast/1.jpg)
 
 <53>The term "**Fellbeast**" refers to the flying creatures that the Nazgûl rode after being unhorsed at the Ford of Bruinen, in The Lord of the Rings.
 
@@ -6,7 +6,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fellbeast/2.jpg)
+![](fellbeast/2.jpg)
 
 #### Éowyn and the Nazgul
 
@@ -15,7 +15,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fellbeast/3.jpg)
+![](fellbeast/3.jpg)
 
 #### A Nazgûl on his Fellbeast in The Two Towers film
 
@@ -25,7 +25,7 @@
 
 <53>Frodo, Sam, and Gollum encountered a fellbeast while passing through the Dead Marshes, and in their fright Gollum spoke of "wraiths on wings".
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fellbeast/4.jpg)
+![](fellbeast/4.jpg)
 
 #### Hell-hawks in Middle-earth: Shadow of War
 
@@ -39,7 +39,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/fellbeast/5.jpg)
+![](fellbeast/5.jpg)
 
 #### A Nazgûl on his fellbeast in BFME II
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/helmHammerhand/1.jpg)
+![](helmHammerhand/1.jpg)
 
 <53>**Helm Hammerhand** was the ninth King of Rohan, and the last of the first line of its Kings. His rule was plagued by war with the Dunlendings that attempted to usurp his rule of Rohan.
 
@@ -9,7 +9,7 @@
 
 <53>During his reign, King Helm came into conflict with an arrogant and powerful landowner named Freca. Freca was a Dunlending with Rohirric blood; he claimed to be a descendant of King Fréawine of Rohan. Freca viewed King Helm with both contempt and scorn, while Helm mistrusted Freca and was wary of him.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/helmHammerhand/2.jpg)
+![](helmHammerhand/2.jpg)
 
 #### Helm Hammerhand's statue in Peter Jackson's The Two Towers film
 
@@ -17,7 +17,7 @@
 
 <53>Four years later in TA 2758, a combined force of Dunlendings under the leadership of Wulf, Corsairs of Umbar, and Easterlings overran Rohan. Helm was defeated in battle at the Fords of Isen, and withdrew into the Hornburg at Helm's Deep (which was later renamed in his honor). There, he endured a long siege.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/helmHammerhand/3.jpg)
+![](helmHammerhand/3.jpg)
 
 #### Helm and his daughter as seen in Middle-earth: Shadow of War
 

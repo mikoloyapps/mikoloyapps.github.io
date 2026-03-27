@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/nainI/0.jpg)
+![](nainI/0.jpg)
 
 <53>**Náin I** was the son of Durin VI, and succeeded his father as King of Khazad-dûm.
 

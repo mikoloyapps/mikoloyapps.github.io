@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/1.jpg)
+![](thorinII/1.jpg)
 
 > *"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. But, sad or merry, I must leave it now. Farewell."*
 >> \- *The Hobbit*, The Return Journey
@@ -10,7 +10,7 @@
 
 ## **Early Life**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/2.jpg)
+![](thorinII/2.jpg)
 
 #### Thorin as a Prince
 
@@ -20,7 +20,7 @@
 
 ## **Quest for the Lonely Mountain**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/3.jpg)
+![](thorinII/3.jpg)
 
 #### Thorin at the Battle of Azanulbizar
 
@@ -28,7 +28,7 @@
 
 <53>The Dwarves, Bilbo, and Gandalf encountered many dangers on their journey to the Lonely Mountain, surviving Trolls, Orcs, Wargs, and Spiders. He found the legendary sword Orcrist in a troll-hoard along with Glamdring. In Rivendell, the Company rested and Elrond translated the Moon-letters on Thrór's Map. During their journey through Mirkwood, Thorin and his Company encountered spiders and were later imprisoned by the Elvenking Thranduil. They escaped in barrels and traveled down to Lake-town.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/4.jpg)
+![](thorinII/4.jpg)
 
 #### The death of Thorin II Oakenshield in The Hobbit: The Battle of the Five Armies
 
@@ -36,7 +36,7 @@
 
 <53>Following the death of Smaug, the people of Lake-town asked Thorin for a share of the treasure, as they wanted recompense for the destruction of their home, a part of Smaug's treasure originating from their former city, and because a man of Lake-town who shot the fatal arrow that killed Smaug. Thorin, overwhelmed by greed after recovering his family's riches, and enraged by the presence of Thranduil, refused to share any part of the treasure. Instead, he sent a Raven to seek aid from his relative, Dáin Ironfoot, who sent a force of Dwarven soldiers on the move to secure the reclaimed mountain city. Meanwhile, Thorin charged his companions with looking for the Arkenstone within the hoard of treasure and gifted Bilbo a mithril shirt for his bravery. However, Bilbo had already found the Arkenstone, and subsequently, brought it to Bard and Thranduil in secret to use as a bargaining counter. When Thorin learned of this, he became enraged and denounced his former companion as a traitor.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/5.jpg)
+![](thorinII/5.jpg)
 
 #### Thorin's burial
 
@@ -50,7 +50,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/6.jpg)
+![](thorinII/6.jpg)
 
 <53>Thorin was smart, proud, brave, intelligent, vengeful, and a bit stubborn. He was sophisticated and noble, but tended to treat his allies as equals. He was respected by many throughout Middle-earth.
 
@@ -62,7 +62,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/thorinII/7.jpg)
+![](thorinII/7.jpg)
 
 #### Thorin with his sword, Orcrist
 

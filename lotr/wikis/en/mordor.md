@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/1.jpg)
+![](mordor/1.jpg)
 
 <53>**Mordor** was a black, volcanic plain in the southeast of Middle-earth to the east of Gondor, Ithilien, and the great river Anduin. Mordor was chosen by Sauron as his realm because of the mountain ranges surrounding it on three sides, creating a natural fortress against his enemies.
 
@@ -8,13 +8,13 @@
 
 <53>Mordor was protected from three sides by large mountain ranges, arranged roughly in a rectangular manner: the Ash Mountains ('Ered Lithui') in the north, and Ephel Dúath ('Mountains of Shadow') in the west and south. In the northwest corner of Mordor the deep valley of Udûn was one of the few entrances for large armies. Guarding the entrance was the Black Gate of Mordor. In front of the Black Gate lay the Dagorlad or the Battle Plain. Sauron's main fortress of Barad-dûr sat at the end of a spur of the Ered Lithui. To the southwest of Barad-dûr lay the arid plateau of Gorgoroth and Mount Doom; to the east lay the plain of Lithlad. Mordor's geography was excellent for defense against enemies attacking on all fronts, for nearly un-scalable mountains defended Mordor on three sides, while the broken, jagged land of Gorgoroth and Núrn would greatly impede any army that managed to break through.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/2.jpg)
+![](mordor/2.jpg)
 
 <53>Mordor's dry and blasted geography would also be extremely unfriendly to any army bivouacked on the plains, forcing a withdrawal within days (unless they have stores sufficient for months). The only other paths for armies to cross into Mordor from the west, over the Ephel Dúath were the Morgul Pass and the Pass of Cirith Ungol. Isildur originally built the city of Minas Ithil to guard the western end of both passes from any threat from Mordor, but in the Third Age the population of the city waned and it was conquered by the Nazgûl. It became the home of the Ringwraiths and was renamed Minas Morgul, and was thereafter a great stronghold of evil, ever at war with Gondor to the west until the end of the War of the Ring. To escape the vigilance of Morgul, to enter Mordor one would still have to get past the lair of Shelob, and the Tower of Cirith Ungol- a feat only Frodo Baggins and Samwise Gamgee (led by Gollum) ever accomplished- though not without being waylaid by the great fearsome spider Shelob, and Frodo being taken prisoner to the Tower of Cirith Ungol.
 
 <53>The southern part of Mordor called Núrn was slightly more fertile, and watered enough to hold the inland Sea of Núrnen. Nurn was made somewhat fertile because the ash blown from Mount Doom left its soil nutrient-rich, thus allowing dry-land farming.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/3.jpg)
+![](mordor/3.jpg)
 
 <53>To the west of Mordor was the narrow land of Ithilien with the city of Osgiliath and the great river Anduin, while directly east of it was Rhûn, and to the southeast, Khand.
 
@@ -48,7 +48,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/4.jpg)
+![](mordor/4.jpg)
 
 #### Mount Doom and the Dark Tower
 
@@ -58,7 +58,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/5.jpg)
+![](mordor/5.jpg)
 
 #### Sauron looking over the Orc Army of Gorgoroth
 
@@ -69,7 +69,7 @@
 
 ## **Early history**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/6.jpg)
+![](mordor/6.jpg)
 
 #### The battle of the Siege of Barad-dûr
 
@@ -79,7 +79,7 @@
 
 ## **The Last Alliance and Third Age**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/7.jpg)
+![](mordor/7.jpg)
 
 #### Sauron's vast army crossing over Gorgoroth
 
@@ -89,7 +89,7 @@
 
 ## **War of the Ring**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/8.jpg)
+![](mordor/8.jpg)
 
 #### Mordor, the Land of Shadow
 
@@ -99,7 +99,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/mordor/9.jpg)
+![](mordor/9.jpg)
 
 #### Oliphaunts used in battle during the Battle of the Pelennor Fields. These powerful beasts where used in great effect against the Armies of Rohan
 

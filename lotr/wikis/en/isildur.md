@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/isildur/1.jpg)
+![](isildur/1.jpg)
 
 #### Sauron vs Isildur
 
@@ -13,7 +13,7 @@
 
 <53>Isildur was born in Númenor in the year SA 3209 of the Second Age. His younger brother Anárion was born in SA 3219. They lived at the haven of Rómenna on the east coast of the island of Númenor. Their father was Elendil and their grandfather was Amandil, the Lord of Andúnië. The Lords of Andúnië were descended from the Kings of Númenor through Silmariën, the daughter and eldest child of the fourth King of Númenor, Tar-Elendil.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/isildur/2.jpg)
+![](isildur/2.jpg)
 
 #### Isildur takes hold of the One Ring in The Lord of the Rings
 
@@ -25,7 +25,7 @@
 
 <53>Isildur learned that Sauron wanted Ar-Pharazôn to cut down Nimloth, the White Tree that had come from the Undying Lands. Isildur disguised himself and went secretly to the King's Court and took a fruit from Nimloth. The guards discovered and attacked him and, although receiving grave injuries, he managed to escape with the fruit. For this deed, Isildur received much praise. He stood near death for many months, but when the fruit of the White Tree began to sprout, he awoke and was recovered from his injuries.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/isildur/3.jpg)
+![](isildur/3.jpg)
 
 #### Isildur putting on the Ring to escape
 
@@ -39,7 +39,7 @@
 
 <53>The nine ships of the Faithful were spared, and a great wind from the west sent them to the shores of Middle-earth. Elendil landed in the north with four ships, while Isildur and Anárion came to the Mouths of the Anduin in the south with three and two ships respectively. Elendil and his sons established the North-kingdom of Arnor and the South-kingdom of Gondor in SA 3320. Elendil was the High King of both realms, but he ruled from Arnor and committed the rule of Gondor to his sons.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/isildur/4.jpg)
+![](isildur/4.jpg)
 
 #### Harry Sinclair as Isildur in Peter Jackson's The Fellowship of the Ring
 
@@ -53,7 +53,7 @@
 
 ## **The Last Alliance**
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/isildur/5.jpg)
+![](isildur/5.jpg)
 
 #### Maxim Baldry as Isildur in The Rings of Power
 

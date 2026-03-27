@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/turgon/1.jpg)
+![](turgon/1.jpg)
 
 #### The Children of Fingolfin (Turgon second from left)
 
@@ -7,7 +7,7 @@
 # History
 ---
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/turgon/2.jpg)
+![](turgon/2.jpg)
 
 #### Turgon with his wife Elenwë before her death
 
@@ -15,7 +15,7 @@
 
 <53>In the year 50 of the First Age, Turgon was instructed by Ulmo to prepare a secret kingdom and was shown the hidden valley of Tumladen in the Encircling Mountains. After 52 years of secret labor, Turgon led his people into Gondolin, where he ruled for over 500 years, largely ignoring the events of the Wars of Beleriand.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/turgon/3.jpg)
+![](turgon/3.jpg)
 
 #### Turgon with Idril and Maeglin
 
@@ -23,7 +23,7 @@
 
 <53>Aside from the misadventure of Eöl, the splendor of Turgon's reign in Gondolin was undisturbed until the Dagor Bragollach, when Turgon was brought his father's body by Thorondor. Two years later Thorondor brought him Húrin and Huor, whom he fostered for a year and then allowed to return to Dor-lómin. At this time, Turgon foresaw the doom of the Ñoldor, and he secretly sent mariners to try to obtain the mercy of the Valar. None of these missions was successful and only one of the mariners, Voronwë, survived the Shadowy Seas paving the way for Tuor's coming to Gondolin.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/turgon/4.jpg)
+![](turgon/4.jpg)
 
 #### Turgon mourns the loss of his wife in the Helcaraxë
 

@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/egalmoth/1.jpg)
+![](egalmoth/1.jpg)
 
 #### Egalmoth (fourth from the farthest left) amongst the other Lords of Gondolin
 
@@ -9,7 +9,7 @@
 
 <53>Egalmoth, along with Glorfindel and Ecthelion, was Aredhel's escort when she left Gondolin in search of the Sons of Fëanor. The escort was not admitted into Doriath and traveled to Ered Gorgoroth instead. Egalmoth and his companions were separated from Aredhel and when they could not find her, they returned to Gondolin empty-handed.
 
-![](https://raw.githubusercontent.com/mikoloyapps/mikoloyapps.github.io/main/lotr/images/egalmoth/2.jpg)
+![](egalmoth/2.jpg)
 
 #### Egalmoth and Ecthelion
 
