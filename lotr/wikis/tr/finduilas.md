@@ -15,9 +15,9 @@
 
 #### Nargothrond'da Finduilas
 
-<53>Tumhalad Savaşı'nın başarısızlıkla sonuçlanmasının ardından Glaurung ve bir Ork ordusu Nargothrond'u yağmaladı. Gwindor katledildi ve Túrin Nargothrond'a döndüğünde, ona Hithlum'daki akrabalarından bahsederek onu transa sokan ejderhaya yakalandı; bu trans onu, Angband'a götürülmek üzere tasarlanmış bir tutsak olarak bir grup Ork tarafından yanından sürüklenerek götürülen Finduilas'ın çığlıklarına karşı sağır bıraktı.
+<53>Tumhalad Savaşı'ndaki yenilginin ardından Glaurung ve bir Ork ordusu Nargothrond'u yağmaladı. Gwindor katledildi ve Túrin Nargothrond'a döndüğünde, ona Hithlum'daki akrabalarından bahsederek onu transa sokan ejderhaya yakalandı; bu trans onu, Angband'a götürülecek bir esir olarak bir grup Ork tarafından yanından sürüklenen Finduilas'ın çığlıklarına karşı sağır bıraktı.
 
-<53>Glaurung'un hilesi, Túrin'in Finduilas'ı terk etmesine ve bunun yerine akrabalarını aramak üzere Hithlum'a gitmesine neden oldu. Sonunda Finduilas'ı aramaya gittiğinde o artık ölmüştü, zira onu koruyan Orklar Taeglin Geçitleri'nde Brethilli Haladin tarafından pusuya düşürüldüğünde öldürülmüştü. Orklar yenilmeden önce Finduilas'ı bir mızrakla ağaca çivileyerek tüm tutsaklarını öldürmüştü. Haladin halkı onu, Elf-kızı Höyüğü anlamına gelen Haudh-en-Elleth adını verdikleri bir höyüğe gömdüler.
+<53>Glaurung'un hilesi, Túrin'in Finduilas'ı terk etmesine ve bunun yerine akrabalarını aramak üzere Hithlum'a gitmesine neden oldu. Sonunda Finduilas'ı aramaya gittiğinde o artık ölmüştü, zira onu koruyan Orklar Taeglin Geçitleri'nde Brethilli Haladin tarafından pusuya düşürüldüğünde öldürülmüştü. Orklar yenilmeden önce Finduilas'ı bir mızrakla ağaca çivileyerek tüm tutsaklarını öldürmüştü. Haladin halkı onu Haudh-en-Elleth, yani Elf Kızı Höyüğü adını verdikleri bir tepeye gömdüler.
 
 # Etimoloji
 

@@ -9,7 +9,7 @@
 
 <53>Finduilas era figlia di Orodreth e della sua innominata consorte, una dama dei Sindar Settentrionali. La sua data di nascita e il suo luogo di nascita sono ignoti. Era promessa sposa di Gwindor, il quale la chiamò Faelivrin.
 
-<53>Nel 472 della Prima Era, Gwindor fu catturato durante la Nírnaeth Arnoediad da Morgoth, e quando fece ritorno nel 490 P.E. arrivò insieme a un compagno che si faceva chiamare Agarwaen figlio di Umarth (il Macchiato di Sangre, figlio dell'Infausto Destino). All'insaputa di Finduilas, questi era in realtà Túrin, figlio di Húrin. A dispetto dei suoi antichi sentimenti per Gwindor, Finduilas si innamorò di Túrin, ma Túrin la rifiutò in segno di rispetto per il suo amico. Gwindor se ne rese conto, rivelò a Finduilas il vero nome di Túrin e cercò di far innamorare Túrin di lei, poiché aveva capito che Finduilas amava Túrin al suo posto.
+<53>Nel 472 della Prima Era, Gwindor fu catturato durante la Nírnaeth Arnoediad da Morgoth, e quando fece ritorno nel 490 P.E. arrivò insieme a un compagno che si faceva chiamare Agarwaen figlio di Umarth (il Macchiato di Sangue, figlio dell'Infausto Destino). All'insaputa di Finduilas, questi era in realtà Túrin, figlio di Húrin. A dispetto dei suoi antichi sentimenti per Gwindor, Finduilas si innamorò di Túrin, ma Túrin la rifiutò in segno di rispetto per il suo amico. Gwindor se ne rese conto, rivelò a Finduilas il vero nome di Túrin e cercò di far innamorare Túrin di lei, poiché aveva capito che Finduilas amava Túrin al suo posto.
 
 ![](finduilas/2.jpg)
 
