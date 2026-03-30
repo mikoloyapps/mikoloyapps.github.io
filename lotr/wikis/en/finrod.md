@@ -2,7 +2,7 @@
 
 #### Finrod and Sauron
 
-<53>**Finrod**, known fully as **Finrod Felagund**, was a Ñoldor Elf who was born in Aman, He was King of Nargothrond and the eldest son of Finarfin and Eärwen, and the brother of Galadriel, Angrod and Aegnor. Finrod was one of the noblest Elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Fëanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in the Undying Lands before the end of the First Age.
+<53>**Finrod**, known fully as **Finrod Felagund**, was a Ñoldor Elf who was born in Aman. He was King of Nargothrond and the eldest son of Finarfin and Eärwen, and the brother of Galadriel, Angrod and Aegnor. Finrod was one of the noblest Elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Fëanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in the Undying Lands before the end of the First Age.
 
 # History
 ---
