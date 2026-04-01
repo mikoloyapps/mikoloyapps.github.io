@@ -13,7 +13,7 @@
 
 #### Finwë near his wife Míriel Serindë
 
-<53>In YT 1170, she laid down in his gardens where her fëa peacefully departed from her body, and she entered the Halls of Mandos: in essence freely losing her will to live. Her body was tended by the maidens of Estë and remained preserved. Her death was seen as a shocking event by the Valar; it eventually led to the second marriage of Finwë, and from there to the Rebellion of the Ñoldor and the First Kinslaying.
+<53>In YT 1170, she laid down in the gardens where her fëa peacefully departed from her body, and she entered the Halls of Mandos: in essence freely losing her will to live. Her body was tended by the maidens of Estë and remained preserved. Her death was seen as a shocking event by the Valar; it eventually led to the second marriage of Finwë, and from there to the Rebellion of the Ñoldor and the First Kinslaying.
 
 <53>After Finwë had been killed, Míriel was granted permission to return to life, where she entered the service of Vairë, her task to weave all the deeds of the House of Finwë in the Tapestry of Time.
 
@@ -21,4 +21,4 @@
 
 ---
 
-<53>Míriel means "Jewel-woman" or perhaps "Jewel-daughter", and her amilessë Þerindë "Broideress". Serindë is a later version of her name after changes in the language of the Noldor. However, she requested that her kin continue to call her Þerindë (Þ is pronounced "th" so therindë ).
+<53>Míriel means "Jewel-woman" or perhaps "Jewel-daughter", and her amilessë Þerindë "Broideress". Serindë is a later version of her name after changes in the language of the Noldor. However, she requested that her kin continue to call her Þerindë (Þ is pronounced "th" so therindë).
