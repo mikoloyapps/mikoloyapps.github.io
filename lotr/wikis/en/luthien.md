@@ -41,7 +41,7 @@
 
 #### Lúthien sings before Mandos
 
-<53>After this, she became a mortal and returned to with Beren, and lived briefly in Tol Galen. They had a son, Dior, who was called Elúchil, the Heir of Thingol.
+<53>After this, she became a mortal and returned with Beren, and lived briefly in Tol Galen. They had a son, Dior, who was called Elúchil, the Heir of Thingol.
 
 <53>After the sack of Menegroth, Beren ambushed the Dwarves responsible and took the Nauglamír back to Lúthien. Her beauty combined with the splendor of the gem and necklace to make her home of Tol Galen the fairest land ever to have existed east of Valinor. On her death, the Nauglamír was delivered to her son Dior, which led to the ruin of Doriath.
 
