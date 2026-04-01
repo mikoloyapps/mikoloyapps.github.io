@@ -11,7 +11,7 @@
 
 #### Turin's childhood with Nellas
 
-<53>Sitting in a tree watching over him, she witnessed the incident between Túrin and Saeros and saw that Saeros had indeed provoked Túrin and was the cause of his own peril. Summoned to appear before the King in one of the few times she walked in the city, she told him about what happen in the woods with great difficulty. After the King pronounced his judgment, she wept over Túrin’s departure and sought to find him but presumably she never saw him again. Her fate is unknown in the latter days of the First Age.
+<53>Sitting in a tree watching over him, she witnessed the incident between Túrin and Saeros and saw that Saeros had indeed provoked Túrin and was the cause of his own peril. Summoned to appear before the King in one of the few times she walked in the city, she told him about what happened in the woods with great difficulty. After the King pronounced his judgment, she wept over Túrin’s departure and sought to find him but presumably she never saw him again. Her fate is unknown in the latter days of the First Age.
 
 # Etymology
 
