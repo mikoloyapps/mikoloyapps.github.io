@@ -17,7 +17,7 @@
 
 <53>Nimrodel, in the meantime, had settled for a while at the river Gilrain, which reminded her of home. She sat by the starlit stream and slept for a long while. After waking she journeyed further, but found no ship in Edhellond, and Amroth was long dead at the bottom of the sea.
 
-<53>After she found no ship in Edhellond and found out that her lover Amroth drowned in the sea. What she did after leaving the haven was unknown. She might have died later due to a broken heart.
+<53>After she found no ship in Edhellond and learned that her lover Amroth had drowned in the sea, what she did after leaving the haven was unknown. She might have died later due to a broken heart.
 
 # In song
 
