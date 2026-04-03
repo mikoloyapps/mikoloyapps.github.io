@@ -7,7 +7,7 @@
 # History
 ---
 
-<53>Through his grandmother (mother) Eärwen of the Falmari (Teleri of Aman), he shared the blood of both the Ñoldor (House of Finarfin) and that of the Falmari (House of Olwë). After the Doom of Mandos was announced in Araman, he and the rest of the Ñoldor left for Middle-earth. Even as his grandfather (father) Finarfin and many of his House turned back to Valinor, Orodreth stayed with his uncle Fingolfin and his host and pursued his journey to Middle-earth.
+<53>Through his grandmother Eärwen of the Falmari (Teleri of Aman), he shared the blood of both the Ñoldor (House of Finarfin) and that of the Falmari (House of Olwë). After the Doom of Mandos was announced in Araman, he and the rest of the Ñoldor left for Middle-earth. Even as his grandfather Finarfin and many of his House turned back to Valinor, Orodreth stayed with his uncle Fingolfin and his host and pursued his journey to Middle-earth.
 
 ![](orodreth/2.jpg)
 
