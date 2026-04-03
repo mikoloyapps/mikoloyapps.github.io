@@ -7,13 +7,13 @@
 # History
 ---
 
-<53>Olwë and both his brothers ware born in Cuiviénen during the Years of the Trees to unnamed parents, and their father was the direct descendant of Enel and Enelyë. After Oromë discovered the Quendi, Elwë and Olwë became both lords of the third clan of the Elves, the later Teleri, and together they lead their people from Cuiviénen to the West. However, during a long wait in Beleriand Elwë disappeared. After years of searching, Olwë grew impatient, and led the greater part of the Teleri to Valinor, on the insistence of the Vala Ulmo.
+<53>Olwë and both his brothers were born in Cuiviénen during the Years of the Trees to unnamed parents, and their father was the direct descendant of Enel and Enelyë. After Oromë discovered the Quendi, Elwë and Olwë became both lords of the third clan of the Elves, the later Teleri, and together they led their people from Cuiviénen to the West. However, during a long wait in Beleriand Elwë disappeared. After years of searching, Olwë grew impatient, and led the greater part of the Teleri to Valinor, on the insistence of the Vala Ulmo.
 
 ![](olwe/2.jpg)
 
 #### Olwë, King of the Falmari
 
-<53>Olwë became Lord of the island of Tol Eressëa, where the Teleri built a great number of cities, and grew in number. When they finally came to Eldamar some centuries later, Olwë became Lord of Alqualondë. His daughter Eärwen married Finarfin son of Finwë and later High King of the Ñoldor in Valinor, and thus their children, when these returned to Middle-earth, could claim kinship to Thingol, for Eärwen had several sons.
+<53>Olwë became Lord of the island of Tol Eressëa, where the Teleri built a great number of cities, and grew in number. When they finally came to Eldamar some centuries later, Olwë became Lord of Alqualondë. His daughter Eärwen married Finarfin son of Finwë and later High King of the Ñoldor in Valinor, and thus their children, when they returned to Middle-earth, could claim kinship to Thingol, since Eärwen was his niece through Olwë.
 
 <53>When Fëanor resolved to return to Middle-earth in pursuit of Morgoth, he came to Alqualondë and spoke to the Teleri asking for aid and for the use of the Swanships but he could not move them. He then grew hot and wrathful and, grudging he spoke to Olwë, he accused him of renouncing their friendship and for being ungrateful for the help that the Ñoldor had given his people in the past. Then Olwë said to Fëanor that this was not so and that he believed that as a friend it was right for him to keep a friend from doing something unwise. Then he spoke to him of the many things that they accomplished on their own without any aid from the Ñoldor, and that the Swanships were one of those things and were very dear to them.
 
