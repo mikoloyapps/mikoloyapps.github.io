@@ -5,8 +5,6 @@
 
 <53>**Saruman**, also known as **Saruman the White**, was first of the order of Istari (Wizards), who came to Middle-earth as emissaries of the Valar in the Third Age. He was the Wizards' leader, and chief of the White Council that opposed Sauron. His extensive studies of dark magic, however, eventually led him to desire the One Ring and lust for power. Thinking he could gain it for himself or become Sauron's servant alone, Saruman allied Isengard with Mordor in the War of the Ring, in which he was defeated. He is one of the few characters in The Lord of the Rings who is morally "grey" - being neither a genuine servant of evil nor an agent of good. He ultimately trusts only his own counsel and schemes for his own ends.
 
-<53>Glóin chiefly appears in The Hobbit as a supporting character. Glóin also appears in The Fellowship of the Ring during the Council of Elrond.
-
 # History
 ---
 
