@@ -25,7 +25,7 @@
 
 #### Bilbo shows the Arkenstone to the Elvenking and Bard
 
-<53>As the Third Age progressed, however, a sorcerer known as the Necromancer (later revealed to be Sauron returned) took over the abandoned Elven fortress of Amon Lanc and turned it into Dol Guldur. Under his malign influence the Greenwood grew dark, becoming known as Mirkwood, and infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings, Thranduil's title was King of the Elves of Northern Mirkwood.
+<53>As the Third Age progressed, however, a sorcerer known as the Necromancer (later revealed to be the returned Sauron) took over the abandoned Elven fortress of Amon Lanc and turned it into Dol Guldur. Under his malign influence the Greenwood grew dark, becoming known as Mirkwood, and infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings, Thranduil's title was King of the Elves of Northern Mirkwood.
 
 <53>In his realm, both Sindarin and Silvan Elvish were spoken, though not all members of his Woodland folk spoke Sindarin.
 
