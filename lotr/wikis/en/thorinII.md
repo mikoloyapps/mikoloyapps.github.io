@@ -44,8 +44,6 @@
 
 <53>Before he died, he made his peace with Bilbo by commending the Hobbit's bravery and good character, apologising for his harsh words as he now recognised his comrade's fundamentally benevolent motives. His last words were, "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world. But, sad or merry, I must leave it now. Farewell."
 
-<53>All that is known about her appearance is that she wore a grey hood. Given that Gandalf was her greatest student, his being clothed in grey may have been a mark of respect to his teacher.
-
 # Personality
 
 ---
