@@ -2,7 +2,7 @@
 
 #### Thingol and Melian
 
-<53>**Elu Thingol** (also called **Elwë**) was an Elf of the Teleri during the First Age. His brother was Olwë, who became the Lord of Alqualondë, Lord of Tol Eressëa, and High King of the Teleri of Aman, they may have had a second brother called Elmo. He was a good friend of Finwë, the first High King of the Ñoldor during the times before the Elves reached Aman.
+<53>**Elu Thingol** (also called **Elwë**) was an Elf of the Teleri during the First Age. His brother was Olwë, who became the Lord of Alqualondë, Lord of Tol Eressëa, and High King of the Teleri of Aman; they may have had a second brother called Elmo. He was a good friend of Finwë, the first High King of the Ñoldor during the times before the Elves reached Aman.
 
 <53>He was the founder and first King of the northern Elven Kingdom of Doriath and was respected by all the Sindar of Beleriand, who considered him as High King of all the Sindar and the Lord of Beleriand.
 
@@ -19,7 +19,7 @@
 
 #### Finwë and Elwë in Cuiviénen before the Great Journey to Aman
 
-<53>For centuries Elwë remained lost until he re-emerged as a respected lord and many of his people joined him in the forest of Doriath in Beleriand. Now known as Elu Thingol, he and Melian become king and queen of the Teleri who remained in Beleriand, who then became known as the Sindar. He founded a realm in a large forested area in Beleriand first known as Eglador (Land of the Forsaken). During these early days under the stars, Thingol and Melian have a daughter named Lúthien, who is said to be the fairest woman ever to have lived.
+<53>For centuries Elwë remained lost until he re-emerged as a respected lord and many of his people joined him in the forest of Doriath in Beleriand. Now known as Elu Thingol, he and Melian became king and queen of the Teleri who remained in Beleriand, who then became known as the Sindar. He founded a realm in a large forested area in Beleriand first known as Eglador (Land of the Forsaken). During these early days under the stars, Thingol and Melian had a daughter named Lúthien, who is said to be the fairest woman ever to have lived.
 
 <53>As Lord of Beleriand, he welcomed his long lost kin, now known as the Laiquendi or Green-elves, to vast lands in Ossiriand. He was also the first Elf to make contact and alliances with the Dwarves of Belegost, who helped delve the caves of the city of Menegroth, which became the capital of Thingol's kingdom. When the Dwarves first became aware of unfamiliar savage creatures coming out of the North, Thingol was the first to learn, and, possessing no heavy weapons of war, he once again asked the Dwarves for their aid. They forged for him necessary weapons and armour, for what would be the onset of war against Melkor.
 
